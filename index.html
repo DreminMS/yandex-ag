@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Задачи АГ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Задачи АГ">
+  <meta name="theme-color" content="#007aff">
+  <meta name="referrer" content="no-referrer">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css?v=4">
+  <script>
+    // Immediately unregister all Service Workers and clear caches
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function(regs) {
+        for (var r of regs) { r.unregister(); }
+      });
+    }
+    if (window.caches) {
+      caches.keys().then(function(names) {
+        for (var n of names) { caches.delete(n); }
+      });
+    }
+  </script>
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="header-title-bar">
+      <span class="header-title" id="pageTitle">Календарь</span>
+      <button class="sync-btn" id="syncBtn" title="Синхронизировать">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Core Workers Filter Bar (Always visible in Calendar & Agenda) -->
+    <div class="filter-bar" id="filterBar">
+      <button class="filter-pill active" data-assignee="Все">Все <span class="pill-badge" id="badge-all">0</span></button>
+      <button class="filter-pill" data-assignee="Миша">Миша <span class="pill-badge" id="badge-misha">0</span></button>
+      <button class="filter-pill" data-assignee="Таня">Таня <span class="pill-badge" id="badge-tanya">0</span></button>
+      <button class="filter-pill" data-assignee="Илья">Илья <span class="pill-badge" id="badge-ilya">0</span></button>
+      <button class="filter-pill" data-assignee="Дима">Дима <span class="pill-badge" id="badge-dima">0</span></button>
+    </div>
+  </header>
+
+  <!-- Main Views Container -->
+  <main>
+    <!-- TAB 1: CALENDAR -->
+    <div class="tab-view active" id="tab-calendar">
+      <div class="month-nav">
+        <button class="month-btn" id="prevMonthBtn">‹</button>
+        <span class="month-title" id="monthTitle">Октябрь 2026</span>
+        <button class="today-btn" id="todayBtn">Сегодня</button>
+        <button class="month-btn" id="nextMonthBtn">›</button>
+      </div>
+
+      <div class="calendar-weekdays">
+        <span>Пн</span><span>Вт</span><span>Ср</span><span>Чт</span><span>Пт</span><span style="color:#ff3b30">Сб</span><span style="color:#ff3b30">Вс</span>
+      </div>
+
+      <div class="calendar-grid" id="calendarGrid"></div>
+
+      <div class="day-tasks-header">
+        <span class="day-tasks-title" id="dayTasksTitle">Задачи на сегодня</span>
+        <span class="day-tasks-count" id="dayTasksCount">0 задач</span>
+      </div>
+
+      <div id="dayTasksList"></div>
+    </div>
+
+    <!-- TAB 2: AGENDA (РАСПИСАНИЕ) -->
+    <div class="tab-view" id="tab-agenda">
+      <div class="agenda-controls">
+        <div class="search-box">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#8e8e93" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="searchInput" placeholder="Поиск по задачам, адресу, ТЗ...">
+        </div>
+
+        <div class="controls-row">
+          <select class="sort-select" id="sortSelect">
+            <option value="dateAsc">Сначала ближайшие</option>
+            <option value="dateDesc">Сначала поздние</option>
+            <option value="byAssignee">По исполнителю</option>
+            <option value="byStatus">По статусу</option>
+          </select>
+
+          <button class="hide-completed-toggle" id="hideCompletedBtn">
+            <span id="hideCompletedDot">○</span> Скрыть завершённые
+          </button>
+        </div>
+      </div>
+
+      <div id="agendaSectionsList"></div>
+    </div>
+
+    <!-- TAB 3: SETTINGS (НАСТРОЙКИ) -->
+    <div class="tab-view" id="tab-settings">
+      <div class="settings-header">Секретная ссылка на Яндекс.Диск</div>
+      <div class="settings-group">
+        <div class="settings-row">
+          <input type="url" class="settings-input" id="sourceUrlInput" placeholder="https://disk.yandex.ru/i/..." autocomplete="off" spellcheck="false" style="font-size:13px">
+        </div>
+        <div class="settings-row" style="gap:10px">
+          <button class="modal-btn primary" id="saveUrlBtn" style="flex:1">Сохранить и загрузить</button>
+          <button class="modal-btn secondary" id="resetUrlBtn" style="color:var(--ios-red)">Очистить</button>
+        </div>
+        <div style="font-size:12px;color:var(--ios-text-secondary);padding:6px 14px 10px;line-height:1.4">
+          Без этой ссылки расписание недоступно. Введите ссылку на файл таблицы один раз, и она сохранится на этом устройстве.
+        </div>
+      </div>
+
+      <div class="settings-header">Синхронизация</div>
+      <div class="settings-group">
+        <button class="settings-action-btn" id="manualSyncBtn">Синхронизировать сейчас</button>
+      </div>
+
+      <div class="settings-header">Статус данных</div>
+      <div class="settings-group">
+        <div class="settings-row">
+          <span>Последнее обновление</span>
+          <span style="color:var(--ios-text-secondary)" id="lastSyncLabel">Никогда</span>
+        </div>
+        <div class="settings-row">
+          <span>Задач в памяти</span>
+          <span style="color:var(--ios-text-secondary)" id="totalTasksLabel">0</span>
+        </div>
+        <div class="settings-row">
+          <span>Оффлайн режим</span>
+          <span style="color:var(--ios-green)">Активен</span>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Bottom Tab Bar -->
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="calendar">
+      <svg viewBox="0 0 24 24"><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V9h14v11z"/></svg>
+      <span>Календарь</span>
+    </button>
+    <button class="tab-btn" data-tab="agenda">
+      <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+      <span>Расписание</span>
+    </button>
+    <button class="tab-btn" data-tab="settings">
+      <svg viewBox="0 0 24 24"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 0 0 .12-.61l-1.92-3.32a.488.488 0 0 0-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54A.484.484 0 0 0 14 2h-4c-.25 0-.46.18-.49.42l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.63 8.47c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.07.63-.07.94s.02.64.07.94l-2.03 1.58a.49.49 0 0 0-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h4c.25 0 .46-.18.49-.42l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/></svg>
+      <span>Настройки</span>
+    </button>
+  </nav>
+
+  <!-- Modal Task Details Bottom Sheet -->
+  <div class="modal-overlay" id="taskModal">
+    <div class="modal-sheet">
+      <div class="modal-drag-bar"></div>
+      
+      <div class="modal-header-row">
+        <div id="modalStatusBadge" class="status-badge">Запланировано</div>
+        <button class="modal-close-btn" id="modalCloseBtn">✕</button>
+      </div>
+
+      <h2 style="font-size:20px;margin-bottom:12px;font-weight:700" id="modalTitle">Название задачи</h2>
+
+      <div class="modal-detail-card" id="modalTimeCard">
+        <div style="font-size:13px;color:var(--ios-text-secondary);margin-bottom:2px">Дата и время</div>
+        <div style="font-size:16px;font-weight:600" id="modalDateTime">19 октября 2026, 12:00 - 14:00</div>
+        <div style="font-size:13px;color:var(--ios-red);margin-top:4px" id="modalDeadline"></div>
+      </div>
+
+      <div class="modal-detail-card" id="modalLocationCard">
+        <div style="font-size:13px;color:var(--ios-text-secondary);margin-bottom:4px">Локация / Адрес</div>
+        <div style="font-size:15px;margin-bottom:10px" id="modalLocationText"></div>
+        <div class="modal-btn-row">
+          <button class="modal-btn maps-apple" id="modalAppleMapsBtn">Apple Карты</button>
+          <button class="modal-btn maps-yandex" id="modalYandexMapsBtn">Яндекс Карты</button>
+        </div>
+      </div>
+
+      <div class="modal-detail-card tz-card-highlight" id="modalTzSection" style="display:none">
+        <div style="font-size:13px;font-weight:700;color:var(--ios-blue);margin-bottom:6px;display:flex;align-items:center;gap:6px">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+          <span>Файл ТЗ (Техническое задание)</span>
+        </div>
+        <div style="margin-bottom:10px">
+          <a class="tz-active-url" id="modalTzUrlLink" href="" target="_blank" rel="noopener noreferrer"></a>
+        </div>
+        <div class="modal-btn-row">
+          <a class="modal-btn primary" id="modalTzLink" target="_blank" rel="noopener noreferrer" style="gap:6px">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Открыть файл ТЗ ↗
+          </a>
+          <button class="modal-btn secondary" id="modalCopyTzBtn">Копировать ссылку</button>
+        </div>
+      </div>
+
+      <div class="modal-detail-card" id="modalBitrixSection" style="display:none">
+        <div style="font-size:13px;color:var(--ios-text-secondary);margin-bottom:6px">Битрикс24</div>
+        <a class="modal-btn secondary" id="modalB24Link" target="_blank" rel="noopener noreferrer" style="color:var(--ios-orange);display:flex">Открыть в Битрикс24 ↗</a>
+      </div>
+
+      <div class="modal-detail-card" id="modalDescCard">
+        <div style="font-size:13px;font-weight:600;color:var(--ios-text-secondary);margin-bottom:6px">Детали из ТЗ и таблицы</div>
+        <div class="modal-desc-text" id="modalDescText"></div>
+      </div>
+
+      <div class="modal-btn-row">
+        <button class="modal-btn secondary" id="modalCopyBtn">Скопировать детали</button>
+        <button class="modal-btn primary" id="modalShareBtn">Поделиться</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Local Script Dependencies -->
+  <script src="lib/xlsx.full.min.js"></script>
+  <script src="app.js?v=12"></script>
+</body>
+</html>
