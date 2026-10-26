@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:22:59.181467",
+  "updated_at": "2026-10-26T14:35:32.135166",
   "events_by_person": {
     "misha": [
       {
@@ -1159,6 +1159,22 @@
         "sheet": "Октябрь 2026"
       },
       {
+        "uid": "545266df056c3b15@yandex-ag",
+        "date": "2026-11-02",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+        "title": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+        "description": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "location": "Спартаковская площадь, 9/1",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "63",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "806a5bb2e105a63e@yandex-ag",
         "date": "2026-11-02",
         "person_key": "misha",
@@ -1171,7 +1187,25 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "63",
+        "row": "64",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "2575beb6d90e9b8f@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
+        "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:30",
+        "is_all_day": false,
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1382,7 +1416,7 @@
         "end_time": null,
         "is_all_day": true,
         "row": "92",
-        "sheet": "Ноябрь 2026"
+        "sheet": "декабрь 2026"
       },
       {
         "uid": "4d2d18b3c24d440a@yandex-ag",
@@ -1397,8 +1431,8 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "92",
-        "sheet": "декабрь 2026"
+        "row": "93",
+        "sheet": "Ноябрь 2026"
       },
       {
         "uid": "4d2d18b3c24d440a@yandex-ag",
@@ -2771,7 +2805,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2787,7 +2821,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2884,6 +2918,38 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "333a8c913bc11fde@yandex-ag",
+        "date": "2026-11-09",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+        "title": "Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+        "description": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "location": "Спартаковская площадь, 9/1",
+        "urls": [],
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "is_all_day": false,
+        "row": "48",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "cd41e49f503f6ce2@yandex-ag",
+        "date": "2026-11-23",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Музыка в метро",
+        "title": "Музыка в метро",
+        "description": "Музыка в метро",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "18",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3987,6 +4053,24 @@
         "is_all_day": true,
         "row": "9",
         "sheet": "Октябрь 2026"
+      },
+      {
+        "uid": "05bf584444799369@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
+        "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:30",
+        "is_all_day": false,
+        "row": "61",
+        "sheet": "Ноябрь 2026"
       },
       {
         "uid": "6fb27cc90a067825@yandex-ag",
@@ -5342,7 +5426,23 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "9f9383d495b89819@yandex-ag",
+        "date": "2026-11-02",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
+        "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
+        "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "location": "Спартаковская площадь, 9/1",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5362,13 +5462,13 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "fec4159fd8383c45@yandex-ag",
+        "uid": "2f1560e3b29ea685@yandex-ag",
         "date": "2026-11-23",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Разработка визуала к меропритию АГ",
-        "title": "Разработка визуала к меропритию АГ",
-        "description": "Разработка визуала к меропритию АГ",
+        "full_text": "Музыка в метро",
+        "title": "Музыка в метро",
+        "description": "Музыка в метро",
         "location": "",
         "urls": [],
         "start_time": null,
@@ -5407,6 +5507,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "14",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "de5de48f5cebae43@yandex-ag",
+        "date": "2026-11-26",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Разработка визуала к меропритию АГ",
+        "title": "Разработка визуала к меропритию АГ",
+        "description": "Разработка визуала к меропритию АГ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "12",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5618,7 +5734,7 @@
       "end_time": null,
       "is_all_day": true,
       "row": "92",
-      "sheet": "Ноябрь 2026"
+      "sheet": "декабрь 2026"
     },
     {
       "uid": "4d2d18b3c24d440a@yandex-ag",
@@ -5633,8 +5749,8 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "92",
-      "sheet": "декабрь 2026"
+      "row": "93",
+      "sheet": "Ноябрь 2026"
     },
     {
       "uid": "4d2d18b3c24d440a@yandex-ag",
@@ -10042,7 +10158,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10058,7 +10174,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "545266df056c3b15@yandex-ag",
+      "date": "2026-11-02",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+      "title": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+      "description": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "location": "Спартаковская площадь, 9/1",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10074,7 +10206,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "64",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "9f9383d495b89819@yandex-ag",
+      "date": "2026-11-02",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
+      "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
+      "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "location": "Спартаковская площадь, 9/1",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10090,7 +10238,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10106,6 +10254,42 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "61",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "2575beb6d90e9b8f@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
+      "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:30",
+      "is_all_day": false,
+      "row": "61",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "05bf584444799369@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
+      "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:30",
+      "is_all_day": false,
       "row": "61",
       "sheet": "Ноябрь 2026"
     },
@@ -10318,6 +10502,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "333a8c913bc11fde@yandex-ag",
+      "date": "2026-11-09",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+      "title": "Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+      "description": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "location": "Спартаковская площадь, 9/1",
+      "urls": [],
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "is_all_day": false,
+      "row": "48",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "eec4e82cbc5619d7@yandex-ag",
       "date": "2026-11-13",
       "person_key": "misha",
@@ -10462,13 +10662,29 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "fec4159fd8383c45@yandex-ag",
+      "uid": "cd41e49f503f6ce2@yandex-ag",
+      "date": "2026-11-23",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Музыка в метро",
+      "title": "Музыка в метро",
+      "description": "Музыка в метро",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "18",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "2f1560e3b29ea685@yandex-ag",
       "date": "2026-11-23",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Разработка визуала к меропритию АГ",
-      "title": "Разработка визуала к меропритию АГ",
-      "description": "Разработка визуала к меропритию АГ",
+      "full_text": "Музыка в метро",
+      "title": "Музыка в метро",
+      "description": "Музыка в метро",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10517,6 +10733,22 @@
       "full_text": "ОТПСУК",
       "title": "ОТПСУК",
       "description": "ОТПСУК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "12",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "de5de48f5cebae43@yandex-ag",
+      "date": "2026-11-26",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Разработка визуала к меропритию АГ",
+      "title": "Разработка визуала к меропритию АГ",
+      "description": "Разработка визуала к меропритию АГ",
       "location": "",
       "urls": [],
       "start_time": null,
