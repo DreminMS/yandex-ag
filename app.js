@@ -326,7 +326,7 @@
 
   function renderAssigneeFilters() {
     const filterBar = document.getElementById('filterBar');
-    if (!filterBar) return;
+    const desktopList = document.getElementById('desktopAssigneesList');
 
     if (selectedAssignee !== 'Все' && !activeAssignees.includes(selectedAssignee)) {
       selectedAssignee = 'Все';
@@ -334,24 +334,67 @@
     }
 
     const items = ['Все', ...activeAssignees];
-    filterBar.innerHTML = items.map(name => {
-      const isActive = name === selectedAssignee ? 'active' : '';
-      const badgeId = getBadgeId(name);
-      return `<button class="filter-pill ${isActive}" data-assignee="${escapeHtml(name)}">${escapeHtml(name)} <span class="pill-badge" id="${badgeId}">0</span></button>`;
-    }).join('');
 
-    filterBar.querySelectorAll('.filter-pill').forEach(pill => {
-      pill.addEventListener('click', () => {
-        selectedAssignee = pill.dataset.assignee;
-        localStorage.setItem('selectedAssignee', selectedAssignee);
-        filterBar.querySelectorAll('.filter-pill').forEach(p => {
-          p.classList.toggle('active', p.dataset.assignee === selectedAssignee);
+    // 1. Mobile Filter Bar
+    if (filterBar) {
+      filterBar.innerHTML = items.map(name => {
+        const isActive = name === selectedAssignee ? 'active' : '';
+        const badgeId = getBadgeId(name);
+        return `<button class="filter-pill ${isActive}" data-assignee="${escapeHtml(name)}">${escapeHtml(name)} <span class="pill-badge" id="${badgeId}">0</span></button>`;
+      }).join('');
+
+      filterBar.querySelectorAll('.filter-pill').forEach(pill => {
+        pill.addEventListener('click', () => {
+          selectAssignee(pill.dataset.assignee);
         });
-        renderAll();
       });
-    });
+    }
+
+    // 2. Desktop Sidebar List
+    if (desktopList) {
+      desktopList.innerHTML = items.map(name => {
+        const isActive = name === selectedAssignee ? 'active' : '';
+        const badgeId = getBadgeId(name);
+        const dotColor = name === 'Все' ? 'var(--ios-blue)' :
+                         name === 'Миша' ? '#007aff' :
+                         name === 'Таня' ? '#34c759' :
+                         name === 'Илья' ? '#ff9500' : '#af52de';
+        return `
+          <button class="sidebar-assignee-btn ${isActive}" data-assignee="${escapeHtml(name)}">
+            <div class="sidebar-assignee-left">
+              <span class="sidebar-assignee-dot" style="background:${dotColor}"></span>
+              <span>${escapeHtml(name)}</span>
+            </div>
+            <span class="sidebar-assignee-badge" id="d-${badgeId}">0</span>
+          </button>
+        `;
+      }).join('');
+
+      desktopList.querySelectorAll('.sidebar-assignee-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          selectAssignee(btn.dataset.assignee);
+        });
+      });
+    }
 
     updateBadges();
+  }
+
+  function selectAssignee(name) {
+    selectedAssignee = name;
+    localStorage.setItem('selectedAssignee', selectedAssignee);
+
+    // Sync mobile filter pills
+    document.querySelectorAll('.filter-pill').forEach(p => {
+      p.classList.toggle('active', p.dataset.assignee === selectedAssignee);
+    });
+
+    // Sync desktop sidebar buttons
+    document.querySelectorAll('.sidebar-assignee-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.assignee === selectedAssignee);
+    });
+
+    renderAll();
   }
 
   function extractActiveAssignees(workbook) {
@@ -640,21 +683,34 @@
       const badgeId = getBadgeId(w);
       const el = document.getElementById(badgeId);
       if (el) el.textContent = count;
+      const del = document.getElementById('d-' + badgeId);
+      if (del) del.textContent = count;
     });
 
     const totalActive = allTasks.filter(t => !isDutyTask(t) || isDutyInNearestMonth(t.date)).length;
     const totalEl = document.getElementById('totalTasksLabel');
     if (totalEl) totalEl.textContent = totalActive;
+    const dTotalEl = document.getElementById('desktopTotalTasksLabel');
+    if (dTotalEl) dTotalEl.textContent = totalActive;
+
     const lastSync = localStorage.getItem('last_sync_date');
-    const lastSyncEl = document.getElementById('lastSyncLabel');
-    if (lastSyncEl) {
-      if (lastSync) {
-        const d = new Date(lastSync);
-        lastSyncEl.textContent = d.toLocaleString('ru-RU', { dateStyle: 'short', timeStyle: 'short' });
-      } else {
-        lastSyncEl.textContent = 'Никогда';
-      }
+    let lastSyncFormatted = 'Никогда';
+    if (lastSync) {
+      const d = new Date(lastSync);
+      lastSyncFormatted = d.toLocaleString('ru-RU', { dateStyle: 'short', timeStyle: 'short' });
     }
+    const lastSyncEl = document.getElementById('lastSyncLabel');
+    if (lastSyncEl) lastSyncEl.textContent = lastSyncFormatted;
+    const dLastSyncEl = document.getElementById('desktopLastSyncLabel');
+    if (dLastSyncEl) dLastSyncEl.textContent = lastSyncFormatted;
+  }
+
+  function getChipBg(color) {
+    if (color === '#34c759') return 'rgba(52, 199, 89, 0.12)';
+    if (color === '#ff9500') return 'rgba(255, 149, 0, 0.12)';
+    if (color === '#af52de') return 'rgba(175, 82, 222, 0.12)';
+    if (color === '#8e8e93') return 'rgba(142, 142, 147, 0.12)';
+    return 'rgba(0, 122, 255, 0.12)';
   }
 
   function renderCalendar() {
@@ -665,7 +721,11 @@
     const month = currentMonth.getMonth();
 
     const monthNames = ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"];
-    document.getElementById('monthTitle').textContent = `${monthNames[month]} ${year}`;
+    const monthTitleText = `${monthNames[month]} ${year}`;
+    const mt = document.getElementById('monthTitle');
+    if (mt) mt.textContent = monthTitleText;
+    const mtd = document.getElementById('monthTitleDesktop');
+    if (mtd) mtd.textContent = monthTitleText;
 
     // First day of month (Monday = 0, Sunday = 6)
     const firstDay = new Date(year, month, 1);
@@ -711,23 +771,234 @@
     if (cellDateStr === todayStr) div.classList.add('today');
     if (cellDateStr === selectedDateStr) div.classList.add('selected');
 
-    // Dot indicator if tasks exist
-    const hasTasks = allTasks.some(t => {
+    const dayTasks = allTasks.filter(t => {
       if (t.date !== cellDateStr) return false;
       if (!matchesAssignee(t, selectedAssignee)) return false;
       if (hideCompleted && t.status.isCompleted) return false;
       if (isDutyTask(t) && !isDutyInNearestMonth(t.date)) return false;
       return true;
-    });
+    }).sort((a, b) => (a.timeRange || '').localeCompare(b.timeRange || ''));
 
-    div.innerHTML = `<span>${dayNumber}</span>${hasTasks ? '<span class="cal-dot"></span>' : ''}`;
+    const hasTasks = dayTasks.length > 0;
+
+    div.innerHTML = `
+      <div class="cal-day-top">
+        <span class="cal-day-num">${dayNumber}</span>
+        ${hasTasks ? '<span class="cal-dot"></span>' : ''}
+        ${hasTasks ? `<span class="cal-day-count-badge">${dayTasks.length}</span>` : ''}
+      </div>
+      <div class="cal-day-events"></div>
+    `;
+
+    const eventsContainer = div.querySelector('.cal-day-events');
+    if (eventsContainer && dayTasks.length > 0) {
+      dayTasks.slice(0, 3).forEach(task => {
+        const chip = document.createElement('div');
+        chip.className = 'desktop-event-chip';
+        if (activeModalTask && activeModalTask.id === task.id) {
+          chip.classList.add('active-chip');
+        }
+        chip.style.borderLeftColor = task.status.color;
+        chip.style.backgroundColor = getChipBg(task.status.color);
+        chip.title = `${task.timeRange ? task.timeRange + ' ' : ''}${task.assignee}: ${task.title}`;
+        chip.innerHTML = `
+          ${task.timeRange ? `<span class="chip-time">${escapeHtml(task.timeRange.split(/[-–—]/)[0].trim())}</span>` : ''}
+          <span class="chip-assignee">${escapeHtml(task.assignee)}</span>
+          <span class="chip-title">${escapeHtml(task.title)}</span>
+        `;
+        chip.addEventListener('click', (e) => {
+          e.stopPropagation();
+          selectedDate = cellDate;
+          if (activeModalTask && activeModalTask.id === task.id) {
+            activeModalTask = null;
+            renderCalendar();
+            renderSelectedDayTasks();
+          } else {
+            activeModalTask = task;
+            renderCalendar();
+            openTaskModal(task);
+          }
+        });
+        eventsContainer.appendChild(chip);
+      });
+
+      if (dayTasks.length > 3) {
+        const more = document.createElement('div');
+        more.className = 'desktop-more-chip';
+        more.textContent = `+ ещё ${dayTasks.length - 3}`;
+        more.addEventListener('click', (e) => {
+          e.stopPropagation();
+          selectedDate = cellDate;
+          activeModalTask = null;
+          renderCalendar();
+          renderSelectedDayTasks();
+        });
+        eventsContainer.appendChild(more);
+      }
+    }
 
     div.addEventListener('click', () => {
       selectedDate = cellDate;
+      activeModalTask = null;
       renderCalendar();
+      renderSelectedDayTasks();
     });
 
     return div;
+  }
+
+  function renderDesktopInspectorDay(date, tasks) {
+    const body = document.getElementById('inspectorBody');
+    const headerTitle = document.getElementById('inspectorHeaderTitle');
+    if (!body) return;
+
+    if (!sourceUrl && allTasks.length === 0) {
+      if (headerTitle) headerTitle.textContent = 'Доступ закрыт';
+      body.innerHTML = `
+        <div class="inspector-placeholder">
+          <div style="font-size:36px;margin-bottom:10px">🔒</div>
+          <div style="font-weight:600;font-size:15px;margin-bottom:6px">Расписание заблокировано</div>
+          <div style="font-size:13px;line-height:1.4;margin-bottom:16px">Укажите секретную ссылку на таблицу в Настройках.</div>
+          <button class="modal-btn primary" onclick="document.querySelector('[data-tab=settings]').click()">Перейти в Настройки</button>
+        </div>
+      `;
+      return;
+    }
+
+    const dayStr = date.toLocaleDateString('ru-RU', { day: 'numeric', month: 'long', weekday: 'long' });
+    if (headerTitle) headerTitle.textContent = `Съёмки: ${dayStr}`;
+
+    if (!tasks || tasks.length === 0) {
+      body.innerHTML = `
+        <div class="inspector-placeholder">
+          <div style="font-size:32px;margin-bottom:10px">☕️</div>
+          <div style="font-weight:600;font-size:15px;margin-bottom:4px">Нет съёмок на этот день</div>
+          <div style="font-size:13px;color:var(--ios-text-secondary)">На ${dayStr} съёмок не запланировано.</div>
+        </div>
+      `;
+      return;
+    }
+
+    body.innerHTML = '';
+    const intro = document.createElement('div');
+    intro.style.fontSize = '12px';
+    intro.style.color = 'var(--ios-text-secondary)';
+    intro.style.fontWeight = '600';
+    intro.style.marginBottom = '4px';
+    intro.textContent = `${tasks.length} ${pluralize(tasks.length)} • Нажмите на съёмку для деталей:`;
+    body.appendChild(intro);
+
+    tasks.forEach(task => {
+      const card = createTaskCard(task, false);
+      body.appendChild(card);
+    });
+  }
+
+  function renderDesktopInspectorTask(task) {
+    const body = document.getElementById('inspectorBody');
+    const headerTitle = document.getElementById('inspectorHeaderTitle');
+    if (!body || !task) return;
+    if (headerTitle) headerTitle.textContent = 'Детали задачи';
+
+    const domainName = getDomain(task.tzUrl);
+    let dtStr = 'Дата не указана';
+    if (task.date) {
+      const parts = task.date.split('-');
+      if (parts.length === 3) {
+        const d = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+        dtStr = d.toLocaleDateString('ru-RU', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+      }
+    }
+    if (task.timeRange) dtStr += ` • ${task.timeRange}`;
+
+    body.innerHTML = `
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:8px">
+        <span class="status-badge" style="background:${task.status.color}20;color:${task.status.color}">${escapeHtml(task.status.name)}</span>
+        <span class="assignee-chip" style="font-size:13px;padding:3px 10px;background:var(--ios-pill-bg);border-radius:12px">👤 ${escapeHtml(task.assignee)}</span>
+      </div>
+
+      <h2 style="font-size:18px;font-weight:700;line-height:1.3;margin:4px 0">${escapeHtml(task.title)}</h2>
+
+      <div class="modal-detail-card" style="margin:0">
+        <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:2px">Дата и время</div>
+        <div style="font-size:15px;font-weight:600">${escapeHtml(dtStr)}</div>
+        ${task.deadline ? `<div style="font-size:13px;color:var(--ios-red);margin-top:4px">⏳ ${escapeHtml(task.deadline)}</div>` : ''}
+      </div>
+
+      ${task.location ? `
+      <div class="modal-detail-card" style="margin:0">
+        <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:4px">Локация / Адрес</div>
+        <div style="font-size:14px;margin-bottom:8px">${escapeHtml(task.location)}</div>
+        <div class="modal-btn-row">
+          <a class="modal-btn maps-apple" href="https://maps.apple.com/?q=${encodeURIComponent(task.location)}" target="_blank">Apple Карты</a>
+          <a class="modal-btn maps-yandex" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank">Яндекс Карты</a>
+        </div>
+      </div>
+      ` : ''}
+
+      ${task.tzUrl ? `
+      <div class="modal-detail-card tz-card-highlight" style="margin:0">
+        <div style="font-size:12px;font-weight:700;color:var(--ios-blue);margin-bottom:6px;display:flex;align-items:center;gap:6px">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+          <span>Файл ТЗ (${escapeHtml(domainName)})</span>
+        </div>
+        <div style="margin-bottom:10px;word-break:break-all">
+          <a class="tz-active-url" href="${escapeHtml(task.tzUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(task.tzUrl)}</a>
+        </div>
+        <div class="modal-btn-row">
+          <a class="modal-btn primary" href="${escapeHtml(task.tzUrl)}" target="_blank" rel="noopener noreferrer" style="gap:6px">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Открыть файл ТЗ ↗
+          </a>
+          <button class="modal-btn secondary" id="desktopCopyTzBtn">Копировать ссылку</button>
+        </div>
+      </div>
+      ` : ''}
+
+      ${task.bitrixUrl ? `
+      <div class="modal-detail-card" style="margin:0">
+        <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:4px">Битрикс24</div>
+        <a class="modal-btn secondary" href="${escapeHtml(task.bitrixUrl)}" target="_blank" rel="noopener noreferrer" style="color:var(--ios-orange);display:flex">Открыть в Битрикс24 ↗</a>
+      </div>
+      ` : ''}
+
+      ${(task.rawText || task.description) ? `
+      <div class="modal-detail-card" style="margin:0">
+        <div style="font-size:12px;font-weight:600;color:var(--ios-text-secondary);margin-bottom:6px">Детали из ТЗ и таблицы</div>
+        <div class="modal-desc-text" style="max-height:220px;overflow-y:auto">${linkify(task.rawText || task.description)}</div>
+      </div>
+      ` : ''}
+
+      <div class="modal-btn-row" style="margin-top:auto">
+        <button class="modal-btn secondary" id="desktopCopyBtn">Скопировать детали</button>
+      </div>
+    `;
+
+    const copyTzBtn = document.getElementById('desktopCopyTzBtn');
+    if (copyTzBtn && task.tzUrl) {
+      copyTzBtn.onclick = () => {
+        navigator.clipboard.writeText(task.tzUrl).then(() => {
+          copyTzBtn.textContent = '✓ Скопировано!';
+          setTimeout(() => { copyTzBtn.textContent = 'Копировать ссылку'; }, 1800);
+        });
+      };
+    }
+
+    const copyBtn = document.getElementById('desktopCopyBtn');
+    if (copyBtn) {
+      copyBtn.onclick = () => {
+        let text = `Задача: ${task.title}\n`;
+        if (task.date) text += `Дата: ${task.date}\n`;
+        if (task.timeRange) text += `Время: ${task.timeRange}\n`;
+        if (task.assignee) text += `Исполнитель: ${task.assignee}\n`;
+        if (task.location) text += `Адрес: ${task.location}\n`;
+        if (task.tzUrl) text += `ТЗ: ${task.tzUrl}\n`;
+        navigator.clipboard.writeText(text).then(() => {
+          copyBtn.textContent = '✓ Скопировано!';
+          setTimeout(() => { copyBtn.textContent = 'Скопировать детали'; }, 1800);
+        });
+      };
+    }
   }
 
   function renderSelectedDayTasks() {
@@ -745,6 +1016,7 @@
           <button class="modal-btn primary" onclick="document.querySelector('[data-tab=settings]').click()" style="max-width:220px;margin:0 auto">Перейти в Настройки</button>
         </div>
       `;
+      renderDesktopInspectorDay(selectedDate, []);
       return;
     }
 
@@ -761,6 +1033,12 @@
     }).sort((a, b) => (a.timeRange || '').localeCompare(b.timeRange || ''));
 
     document.getElementById('dayTasksCount').textContent = `${tasks.length} ${pluralize(tasks.length)}`;
+
+    if (!activeModalTask) {
+      renderDesktopInspectorDay(selectedDate, tasks);
+    } else {
+      renderDesktopInspectorTask(activeModalTask);
+    }
 
     if (tasks.length === 0) {
       list.innerHTML = `<div style="text-align:center;color:var(--ios-text-secondary);padding:30px">На этот день задач нет</div>`;
@@ -1045,11 +1323,13 @@
     }
 
     document.getElementById('taskModal').classList.add('active');
+    renderDesktopInspectorTask(task);
   }
 
   function closeTaskModal() {
     document.getElementById('taskModal').classList.remove('active');
     activeModalTask = null;
+    renderSelectedDayTasks();
   }
 
   function renderAll() {
@@ -1077,82 +1357,141 @@
 
   // --- Event Listeners Setup ---
   function setupEvents() {
-    // Tab switching
+    // Unified Tab switching for Mobile & Desktop
+    function switchTab(tab) {
+      activeTab = tab;
+      document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.tab === tab);
+      });
+      document.querySelectorAll('.d-view-tab').forEach(b => {
+        b.classList.toggle('active', b.dataset.tab === tab);
+      });
+
+      document.querySelectorAll('.tab-view').forEach(v => v.classList.remove('active'));
+      const activeEl = document.getElementById(`tab-${tab}`);
+      if (activeEl) activeEl.classList.add('active');
+
+      const titleMap = { calendar: 'Календарь', agenda: 'Расписание', settings: 'Настройки' };
+      const pageTitle = document.getElementById('pageTitle');
+      if (pageTitle) pageTitle.textContent = titleMap[tab] || 'Задачи АГ';
+
+      const fb = document.getElementById('filterBar');
+      if (fb) fb.style.display = (tab === 'settings') ? 'none' : '';
+
+      renderAll();
+    }
+
     document.querySelectorAll('.tab-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const tab = btn.dataset.tab;
-        activeTab = tab;
-        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-
-        document.querySelectorAll('.tab-view').forEach(v => v.classList.remove('active'));
-        document.getElementById(`tab-${tab}`).classList.add('active');
-
-        const titleMap = { calendar: 'Календарь', agenda: 'Расписание', settings: 'Настройки' };
-        document.getElementById('pageTitle').textContent = titleMap[tab];
-
-        document.getElementById('filterBar').style.display = (tab === 'settings') ? 'none' : 'flex';
-
-        renderAll();
-      });
+      btn.addEventListener('click', () => switchTab(btn.dataset.tab));
     });
 
-    // Assignee filter buttons
-    document.querySelectorAll('.filter-pill').forEach(pill => {
-      pill.addEventListener('click', () => {
-        document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
-        pill.classList.add('active');
-        selectedAssignee = pill.dataset.assignee;
-        localStorage.setItem('selectedAssignee', selectedAssignee);
-        renderAll();
-      });
+    document.querySelectorAll('.d-view-tab').forEach(btn => {
+      btn.addEventListener('click', () => switchTab(btn.dataset.tab));
     });
 
-    // Month Navigation
-    document.getElementById('prevMonthBtn').addEventListener('click', () => {
+    // Month Navigation (Mobile & Desktop)
+    const handlePrevMonth = () => {
       currentMonth.setMonth(currentMonth.getMonth() - 1);
       renderCalendar();
-    });
-
-    document.getElementById('nextMonthBtn').addEventListener('click', () => {
+    };
+    const handleNextMonth = () => {
       currentMonth.setMonth(currentMonth.getMonth() + 1);
       renderCalendar();
-    });
-
-    document.getElementById('todayBtn').addEventListener('click', () => {
+    };
+    const handleToday = () => {
       selectedDate = new Date();
       currentMonth = new Date(selectedDate.getFullYear(), selectedDate.getMonth(), 1);
       renderCalendar();
-    });
+    };
 
-    // Search and sort in Agenda
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-      searchText = e.target.value.trim();
-      renderAgenda();
-    });
+    document.getElementById('prevMonthBtn').addEventListener('click', handlePrevMonth);
+    document.getElementById('nextMonthBtn').addEventListener('click', handleNextMonth);
+    document.getElementById('todayBtn').addEventListener('click', handleToday);
+
+    const prevDesktop = document.getElementById('prevMonthBtnDesktop');
+    if (prevDesktop) prevDesktop.addEventListener('click', handlePrevMonth);
+    const nextDesktop = document.getElementById('nextMonthBtnDesktop');
+    if (nextDesktop) nextDesktop.addEventListener('click', handleNextMonth);
+    const todayDesktop = document.getElementById('todayBtnDesktop');
+    if (todayDesktop) todayDesktop.addEventListener('click', handleToday);
+
+    // Search synchronization (Mobile & Desktop)
+    const desktopSearch = document.getElementById('desktopSearchInput');
+    const mobileSearch = document.getElementById('searchInput');
+
+    if (desktopSearch) {
+      desktopSearch.addEventListener('input', (e) => {
+        searchText = e.target.value.trim();
+        if (mobileSearch) mobileSearch.value = e.target.value;
+        if (activeTab !== 'agenda' && searchText.length > 0) {
+          switchTab('agenda');
+        } else {
+          renderAgenda();
+        }
+      });
+    }
+
+    if (mobileSearch) {
+      mobileSearch.addEventListener('input', (e) => {
+        searchText = e.target.value.trim();
+        if (desktopSearch) desktopSearch.value = e.target.value;
+        renderAgenda();
+      });
+    }
 
     const sortSel = document.getElementById('sortSelect');
-    sortSel.value = sortOrder;
-    sortSel.addEventListener('change', (e) => {
-      sortOrder = e.target.value;
-      localStorage.setItem('agendaSortOrder', sortOrder);
-      renderAgenda();
-    });
+    if (sortSel) {
+      sortSel.value = sortOrder;
+      sortSel.addEventListener('change', (e) => {
+        sortOrder = e.target.value;
+        localStorage.setItem('agendaSortOrder', sortOrder);
+        renderAgenda();
+      });
+    }
 
-    // Hide completed toggle
-    const hideBtn = document.getElementById('hideCompletedBtn');
-    if (hideCompleted) hideBtn.classList.add('active');
-    hideBtn.addEventListener('click', () => {
+    // Hide completed toggle (Mobile & Desktop)
+    function toggleHideCompleted() {
       hideCompleted = !hideCompleted;
       localStorage.setItem('hideCompleted', hideCompleted ? 'true' : 'false');
-      hideBtn.classList.toggle('active', hideCompleted);
-      document.getElementById('hideCompletedDot').textContent = hideCompleted ? '●' : '○';
+
+      const hideBtn = document.getElementById('hideCompletedBtn');
+      if (hideBtn) hideBtn.classList.toggle('active', hideCompleted);
+      const dot = document.getElementById('hideCompletedDot');
+      if (dot) dot.textContent = hideCompleted ? '●' : '○';
+
+      const dBtn = document.getElementById('desktopHideCompletedBtn');
+      if (dBtn) dBtn.classList.toggle('active', hideCompleted);
+      const dDot = document.getElementById('desktopHideCompletedDot');
+      if (dDot) dDot.textContent = hideCompleted ? '●' : '○';
+
       renderAll();
-    });
+    }
+
+    const hideBtn = document.getElementById('hideCompletedBtn');
+    if (hideBtn) {
+      if (hideCompleted) hideBtn.classList.add('active');
+      hideBtn.addEventListener('click', toggleHideCompleted);
+    }
+
+    const dHideBtn = document.getElementById('desktopHideCompletedBtn');
+    if (dHideBtn) {
+      if (hideCompleted) dHideBtn.classList.add('active');
+      dHideBtn.addEventListener('click', toggleHideCompleted);
+    }
+
+    // Desktop Inspector close button
+    const inspectorClose = document.getElementById('inspectorCloseBtn');
+    if (inspectorClose) {
+      inspectorClose.addEventListener('click', () => {
+        activeModalTask = null;
+        renderCalendar();
+        renderSelectedDayTasks();
+      });
+    }
 
     // Sync buttons
-    document.getElementById('syncBtn').addEventListener('click', syncTasks);
-    document.getElementById('manualSyncBtn').addEventListener('click', syncTasks);
+    document.getElementById('syncBtn').addEventListener('click', () => syncTasks(true, false));
+    document.getElementById('manualSyncBtn').addEventListener('click', () => syncTasks(true, false));
 
     // Settings URL
     const urlInput = document.getElementById('sourceUrlInput');

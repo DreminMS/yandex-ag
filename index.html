@@ -11,7 +11,7 @@
   <meta name="referrer" content="no-referrer">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
   <script>
     // Immediately unregister all Service Workers and clear caches
     if ('serviceWorker' in navigator) {
@@ -31,15 +31,42 @@
   <!-- Top Navigation Header -->
   <header class="app-header">
     <div class="header-title-bar">
-      <span class="header-title" id="pageTitle">Календарь</span>
-      <button class="sync-btn" id="syncBtn" title="Синхронизировать">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
-        </svg>
-      </button>
+      <div class="header-brand">
+        <span class="header-brand-icon">📅</span>
+        <span class="header-title" id="pageTitle">Задачи АГ</span>
+      </div>
+
+      <!-- Desktop Center: Month Nav & Search -->
+      <div class="desktop-header-center">
+        <div class="desktop-month-nav">
+          <button class="month-btn" id="prevMonthBtnDesktop" title="Предыдущий месяц">‹</button>
+          <button class="today-btn" id="todayBtnDesktop">Сегодня</button>
+          <span class="month-title" id="monthTitleDesktop">Октябрь 2026</span>
+          <button class="month-btn" id="nextMonthBtnDesktop" title="Следующий месяц">›</button>
+        </div>
+        <div class="desktop-search-box">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#8e8e93" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="desktopSearchInput" placeholder="Поиск по задачам, ТЗ, адресу...">
+        </div>
+      </div>
+
+      <!-- Desktop Right: View Switcher & Sync -->
+      <div class="header-actions">
+        <div class="desktop-view-tabs">
+          <button class="d-view-tab active" data-tab="calendar">Календарь</button>
+          <button class="d-view-tab" data-tab="agenda">Расписание</button>
+          <button class="d-view-tab" data-tab="settings">Настройки</button>
+        </div>
+        <button class="sync-btn" id="syncBtn" title="Синхронизировать">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+          </svg>
+          <span class="sync-btn-text">Обновить</span>
+        </button>
+      </div>
     </div>
 
-    <!-- Core Workers Filter Bar (Always visible in Calendar & Agenda) -->
+    <!-- Core Workers Filter Bar (Always visible on mobile) -->
     <div class="filter-bar" id="filterBar">
       <button class="filter-pill active" data-assignee="Все">Все <span class="pill-badge" id="badge-all">0</span></button>
       <button class="filter-pill" data-assignee="Миша">Миша <span class="pill-badge" id="badge-misha">0</span></button>
@@ -49,8 +76,44 @@
     </div>
   </header>
 
-  <!-- Main Views Container -->
-  <main>
+  <!-- Main App Layout (Desktop 3-Pane / Mobile 1-Pane) -->
+  <div class="app-layout">
+    <!-- Desktop Left Sidebar -->
+    <aside class="desktop-sidebar" id="desktopSidebar">
+      <div class="sidebar-block">
+        <div class="sidebar-block-title">Исполнители</div>
+        <div class="sidebar-assignees-list" id="desktopAssigneesList">
+          <!-- Populated by renderAssigneeFilters() -->
+        </div>
+      </div>
+
+      <div class="sidebar-block">
+        <div class="sidebar-block-title">Отображение</div>
+        <button class="sidebar-toggle-btn" id="desktopHideCompletedBtn">
+          <span class="sidebar-toggle-dot" id="desktopHideCompletedDot">○</span>
+          <span>Скрыть завершённые</span>
+        </button>
+      </div>
+
+      <div class="sidebar-block sidebar-stats-block">
+        <div class="sidebar-block-title">Сводка</div>
+        <div class="sidebar-stat-row">
+          <span>Активных съёмок:</span>
+          <strong id="desktopTotalTasksLabel">0</strong>
+        </div>
+        <div class="sidebar-stat-row">
+          <span>Обновлено:</span>
+          <span id="desktopLastSyncLabel" style="color:var(--ios-text-secondary);font-size:12px">Никогда</span>
+        </div>
+        <div class="sidebar-stat-row">
+          <span>Режим:</span>
+          <span style="color:var(--ios-green);font-size:12px;font-weight:600">● Оффлайн готов</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Views Container -->
+    <main class="main-content">
     <!-- TAB 1: CALENDAR -->
     <div class="tab-view active" id="tab-calendar">
       <div class="month-nav">
@@ -201,7 +264,23 @@
         </div>
       </div>
     </div>
-  </main>
+    </main>
+
+    <!-- Desktop Right Inspector -->
+    <aside class="desktop-inspector" id="desktopInspector">
+      <div class="inspector-header">
+        <div class="inspector-title" id="inspectorHeaderTitle">Детали задачи</div>
+        <button class="inspector-close-btn" id="inspectorCloseBtn" title="Снять выбор">✕</button>
+      </div>
+      <div class="inspector-body" id="inspectorBody">
+        <div class="inspector-placeholder" id="inspectorPlaceholder">
+          <div style="font-size:32px;margin-bottom:10px">👈</div>
+          <div style="font-size:15px;font-weight:600;margin-bottom:4px">Выберите съёмку в календаре</div>
+          <div style="font-size:13px;color:var(--ios-text-secondary);line-height:1.4">Нажмите на задачу, чтобы просмотреть подробности ТЗ, контакты, время и локацию</div>
+        </div>
+      </div>
+    </aside>
+  </div>
 
   <!-- Bottom Tab Bar -->
   <nav class="tab-bar">
@@ -282,6 +361,6 @@
 
   <!-- Local Script Dependencies -->
   <script src="lib/xlsx.full.min.js"></script>
-  <script src="app.js?v=12"></script>
+  <script src="app.js?v=13"></script>
 </body>
 </html>

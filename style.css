@@ -749,3 +749,593 @@ body {
   height: 22px;
   fill: currentColor;
 }
+
+/* ==========================================================================
+   DESKTOP RESPONSIVE LAYOUT (Screens >= 900px: Mac, PC, Large Tablets)
+   ========================================================================== */
+
+/* Hidden on mobile by default */
+.desktop-header-center,
+.desktop-view-tabs,
+.sync-btn-text,
+.desktop-sidebar,
+.desktop-inspector,
+.cal-day-events,
+.cal-day-top {
+  display: none;
+}
+
+@media (min-width: 900px) {
+  body {
+    height: 100vh;
+    overflow: hidden;
+    padding-bottom: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Header on Desktop */
+  .app-header {
+    flex-shrink: 0;
+    padding: 0 20px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+
+  .header-title-bar {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header-brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 200px;
+    flex-shrink: 0;
+  }
+
+  .header-brand-icon {
+    font-size: 20px;
+  }
+
+  .header-title {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+
+  /* Center: Month Nav & Search */
+  .desktop-header-center {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex: 1;
+    max-width: 600px;
+    margin: 0 16px;
+  }
+
+  .desktop-month-nav {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .desktop-month-nav .month-btn {
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid var(--ios-separator);
+    background: var(--ios-card-bg);
+    color: var(--ios-text-primary);
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  .desktop-month-nav .today-btn {
+    padding: 4px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--ios-separator);
+    background: var(--ios-card-bg);
+    color: var(--ios-text-primary);
+    font-size: 13px;
+    font-weight: 500;
+  }
+
+  .desktop-month-nav .month-title {
+    font-size: 16px;
+    font-weight: 700;
+    min-width: 120px;
+    text-align: center;
+  }
+
+  .desktop-search-box {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--ios-pill-bg);
+    padding: 6px 12px;
+    border-radius: 8px;
+    flex: 1;
+  }
+
+  .desktop-search-box input {
+    border: none;
+    background: transparent;
+    font-size: 13px;
+    color: var(--ios-text-primary);
+    width: 100%;
+    outline: none;
+  }
+
+  /* Right: Tabs & Sync */
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+  }
+
+  .desktop-view-tabs {
+    display: flex;
+    background: var(--ios-pill-bg);
+    padding: 3px;
+    border-radius: 8px;
+    gap: 2px;
+  }
+
+  .d-view-tab {
+    padding: 5px 12px;
+    border-radius: 6px;
+    border: none;
+    background: transparent;
+    color: var(--ios-text-secondary);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .d-view-tab.active {
+    background: var(--ios-card-bg);
+    color: var(--ios-text-primary);
+    font-weight: 600;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+
+  .sync-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    background: var(--ios-blue);
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+    transition: opacity 0.2s;
+  }
+
+  .sync-btn:hover {
+    opacity: 0.9;
+  }
+
+  .sync-btn-text {
+    display: inline;
+  }
+
+  /* Hide mobile filter bar & bottom tab bar on desktop */
+  .filter-bar {
+    display: none !important;
+  }
+
+  .tab-bar {
+    display: none !important;
+  }
+
+  /* Hide mobile month nav inside tab-calendar since it's in the header */
+  #tab-calendar .month-nav {
+    display: none;
+  }
+
+  /* Hide mobile day list under the calendar grid (it will be in the inspector) */
+  #tab-calendar .day-tasks-header,
+  #tab-calendar #dayTasksList {
+    display: none;
+  }
+
+  /* App Layout (3-Column Desktop Grid) */
+  .app-layout {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    height: calc(100vh - 60px);
+  }
+
+  /* Left Sidebar */
+  .desktop-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    flex-shrink: 0;
+    background: var(--ios-card-bg);
+    border-right: 0.5px solid var(--ios-separator);
+    padding: 16px 12px;
+    overflow-y: auto;
+    gap: 20px;
+  }
+
+  .sidebar-block-title {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--ios-text-secondary);
+    margin-bottom: 8px;
+    padding: 0 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .sidebar-assignees-list {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .sidebar-assignee-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: none;
+    background: transparent;
+    color: var(--ios-text-primary);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: left;
+    transition: background 0.15s;
+  }
+
+  .sidebar-assignee-btn:hover {
+    background: var(--ios-pill-bg);
+  }
+
+  .sidebar-assignee-btn.active {
+    background: var(--ios-blue);
+    color: #ffffff;
+    font-weight: 600;
+  }
+
+  .sidebar-assignee-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .sidebar-assignee-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--ios-orange);
+  }
+
+  .sidebar-assignee-badge {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 10px;
+    background: var(--ios-pill-bg);
+    color: var(--ios-text-secondary);
+  }
+
+  .sidebar-assignee-btn.active .sidebar-assignee-badge {
+    background: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+  }
+
+  .sidebar-toggle-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: 1px solid var(--ios-separator);
+    background: var(--ios-card-bg);
+    color: var(--ios-text-primary);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .sidebar-toggle-btn.active {
+    background: var(--ios-blue-light);
+    color: var(--ios-blue);
+    border-color: var(--ios-blue);
+    font-weight: 600;
+  }
+
+  .sidebar-toggle-dot {
+    font-size: 14px;
+  }
+
+  .sidebar-stats-block {
+    margin-top: auto;
+    padding: 12px;
+    background: var(--ios-bg);
+    border-radius: 10px;
+  }
+
+  .sidebar-stat-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 6px;
+    color: var(--ios-text-primary);
+  }
+
+  .sidebar-stat-row:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Main Workspace */
+  .main-content {
+    flex: 1;
+    height: 100%;
+    overflow-y: auto;
+    padding: 16px 20px;
+    background: var(--ios-bg);
+  }
+
+  .tab-view {
+    padding: 0;
+    height: 100%;
+  }
+
+  /* Desktop Month Grid */
+  #tab-calendar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .calendar-weekdays {
+    margin-bottom: 6px;
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .calendar-grid {
+    flex: 1;
+    gap: 6px;
+    padding: 8px;
+    background: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    grid-auto-rows: 1fr;
+  }
+
+  .cal-day {
+    aspect-ratio: auto;
+    min-height: 105px;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 6px 8px;
+    border: 1px solid var(--ios-separator);
+    border-radius: 8px;
+    background: var(--ios-card-bg);
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s, background-color 0.15s;
+  }
+
+  .cal-day:hover {
+    border-color: var(--ios-blue);
+    box-shadow: 0 2px 8px rgba(0, 122, 255, 0.08);
+  }
+
+  .cal-day.today {
+    border: 1.5px solid var(--ios-blue);
+  }
+
+  .cal-day.selected {
+    border: 2px solid var(--ios-blue) !important;
+    background: rgba(0, 122, 255, 0.04) !important;
+    color: inherit !important;
+  }
+
+  .cal-day.other-month {
+    background: rgba(240, 240, 245, 0.5);
+    opacity: 0.5;
+  }
+
+  .cal-day .cal-dot {
+    display: none !important;
+  }
+
+  .cal-day-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+  }
+
+  .cal-day-num {
+    font-size: 12px;
+    font-weight: 600;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+
+  .cal-day.today .cal-day-num {
+    background: var(--ios-blue);
+    color: #ffffff !important;
+  }
+
+  .cal-day-count-badge {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--ios-text-secondary);
+    padding: 1px 4px;
+    border-radius: 4px;
+    background: var(--ios-pill-bg);
+  }
+
+  .cal-day-events {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    overflow: hidden;
+  }
+
+  .desktop-event-chip {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
+    border-left: 3px solid #007aff;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    transition: transform 0.1s, box-shadow 0.1s;
+    line-height: 1.3;
+  }
+
+  .desktop-event-chip:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.12);
+  }
+
+  .desktop-event-chip.active-chip {
+    box-shadow: 0 0 0 1.5px var(--ios-blue);
+  }
+
+  .chip-time {
+    font-size: 10px;
+    font-weight: 700;
+    opacity: 0.85;
+    flex-shrink: 0;
+  }
+
+  .chip-assignee {
+    font-size: 10px;
+    font-weight: 600;
+    padding: 0 3px;
+    border-radius: 3px;
+    background: rgba(0,0,0,0.06);
+    flex-shrink: 0;
+  }
+
+  .chip-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex: 1;
+  }
+
+  .desktop-more-chip {
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--ios-text-secondary);
+    padding: 1px 4px;
+    cursor: pointer;
+  }
+
+  .desktop-more-chip:hover {
+    color: var(--ios-blue);
+  }
+
+  /* Right Inspector Panel */
+  .desktop-inspector {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    flex-shrink: 0;
+    background: var(--ios-card-bg);
+    border-left: 0.5px solid var(--ios-separator);
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .inspector-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 16px;
+    border-bottom: 0.5px solid var(--ios-separator);
+    flex-shrink: 0;
+  }
+
+  .inspector-title {
+    font-size: 15px;
+    font-weight: 700;
+  }
+
+  .inspector-close-btn {
+    background: var(--ios-pill-bg);
+    border: none;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    color: var(--ios-text-secondary);
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .inspector-close-btn:hover {
+    color: var(--ios-text-primary);
+  }
+
+  .inspector-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .inspector-placeholder {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ios-text-secondary);
+  }
+
+  /* Agenda on Desktop: Multi-column Grid */
+  #tab-agenda .agenda-controls {
+    max-width: 800px;
+  }
+
+  #agendaSectionsList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+    gap: 16px;
+  }
+
+  /* Settings on Desktop: Centered card */
+  #tab-settings {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* Modal on Desktop: hide overlay since inspector takes over */
+  .modal-overlay {
+    display: none !important;
+  }
+}
