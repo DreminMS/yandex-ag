@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:35:32.135166",
+  "updated_at": "2026-10-26T16:41:19.089844",
   "events_by_person": {
     "misha": [
       {
@@ -5446,6 +5446,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "812b618585b58a35@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Модерн \"Мама Театра\"",
+        "title": "Монтаж Модерн \"Мама Театра\"",
+        "description": "Монтаж Модерн \"Мама Театра\"",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "61",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "4513a9eae233d5d5@yandex-ag",
         "date": "2026-11-05",
         "person_key": "dima",
@@ -10249,6 +10265,22 @@
       "full_text": "ОТПУСК",
       "title": "ОТПУСК",
       "description": "ОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "61",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "812b618585b58a35@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Модерн \"Мама Театра\"",
+      "title": "Монтаж Модерн \"Мама Театра\"",
+      "description": "Монтаж Модерн \"Мама Театра\"",
       "location": "",
       "urls": [],
       "start_time": null,
