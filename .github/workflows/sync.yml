@@ -1,0 +1,44 @@
+name: Sync Schedule & Generate Calendars
+
+on:
+  schedule:
+    # Запуск каждые 2 часа онлайн в облаке GitHub
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Кнопка ручного запуска в интерфейсе GitHub
+  push:
+    branches:
+      - main
+    paths:
+      - 'sync_calendar.py'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run calendar sync
+        run: |
+          python sync_calendar.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add misha.ics tanya.ics ilya.ics dima.ics all.ics events.json
+          if git diff --staged --quiet; then
+            echo "Нет изменений в расписании."
+          else
+            git commit -m "Автообновление календарей и расписания [skip ci]"
+            git push
+          fi

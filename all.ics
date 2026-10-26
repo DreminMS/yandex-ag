@@ -1,0 +1,3557 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DreminMS//Yandex Schedule all//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание съемок (Вся команда)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4d2d18b3c24d440a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250703
+SUMMARY:дежурство
+DESCRIPTION:дежурство
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2d18b3c24d440a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250703
+SUMMARY:дежурство
+DESCRIPTION:дежурство
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2d18b3c24d440a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250703
+SUMMARY:дежурство
+DESCRIPTION:дежурство
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2d18b3c24d440a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20250702
+DTEND;VALUE=DATE:20250703
+SUMMARY:дежурство
+DESCRIPTION:дежурство
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:99b5504eaa85bac8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Фото дворы-колодцы (Истории/Летников)  Локации: 3. Тверская ул.\, 6\, стр. 6 / улица Соля...
+DESCRIPTION:Фото дворы-колодцы (Истории/Летников)  Локации: 3. Тверская ул.\, 6\, стр. 6 / улица Солянка\, 1/2с2 / Большая Садовая улица\, 10 / Сретенский бульвар\, 6/1с1 / Долгоруковская улица\, 5. ТЗ: https://disk.yandex.ru/i/lGTeD_yy-Xgtog\n\n📍 Адрес: 3. Тверская ул.\, 6\, стр. 6 / улица Солянка\, 1/2с2 / Большая Садовая улица\, 10 / Сретенский бульвар\, 6/1с1 / Долгоруковская улица\, 5.\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/lGTeD_yy-Xgtog
+LOCATION:3. Тверская ул.\, 6\, стр. 6 / улица Солянка\, 1/2с2 / Большая Садовая улица\, 10 / Сретенский бульвар\, 6/1с1 / Долгоруковская улица\, 5.
+URL:https://disk.yandex.ru/i/lGTeD_yy-Xgtog
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2af8b53fd7e71da9@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Монтаж МЦК
+DESCRIPTION:Монтаж МЦК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:95a142ab3626ca19@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260901T090000
+DTEND;TZID=Europe/Moscow:20260901T110000
+SUMMARY:Сдача Сходненский ковш до 11:00
+DESCRIPTION:Сдача Сходненский ковш до 11:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e90a054a2e877da2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260901T125000
+DTEND;TZID=Europe/Moscow:20260901T150000
+SUMMARY:Фото библиотекарь (Истори/ Тагирова) Локация: 3.  Профсоюзная улица\, дом 92. Библиотека...
+DESCRIPTION:12:50-15:00 Фото библиотекарь (Истори/ Тагирова) Локация: 3.  Профсоюзная улица\, дом 92. Библиотека 180 им. Н. Ф. Фёдорова ТЗ: https://disk.yandex.ru/i/F_Xly7Z4fMxusA\n\n📍 Адрес: 3.  Профсоюзная улица\, дом 92. Библиотека 180 им. Н. Ф. Фёдорова\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/F_Xly7Z4fMxusA
+LOCATION:3.  Профсоюзная улица\, дом 92. Библиотека 180 им. Н. Ф. Фёдорова
+URL:https://disk.yandex.ru/i/F_Xly7Z4fMxusA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:033347ca941ec34a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Монтаж МЦК
+DESCRIPTION:Монтаж МЦК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e06c4722f07c74@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260902T100000
+DTEND;TZID=Europe/Moscow:20260902T120000
+SUMMARY:Обработка и сдача библиотекарь до 12:00
+DESCRIPTION:Обработка и сдача библиотекарь до 12:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5a1cab17f0a842@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260902T110000
+DTEND;TZID=Europe/Moscow:20260902T130000
+SUMMARY:Сдача фото дворы-колодцы до 13:00
+DESCRIPTION:Сдача фото дворы-колодцы до 13:00 \nСдача фото Горький + до 16.00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f323c1b48ebe06b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260902T150000
+DTEND;TZID=Europe/Moscow:20260902T170000
+SUMMARY:ФОТО Соколинный двор
+DESCRIPTION:15.00-17.00 ФОТО Соколинный двор \nЛокация: Коломенское \nТЗ:  https://disk.yandex.ru/i/A0YvBeNLN1P-JQ\n\n📍 Адрес: Коломенское\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/A0YvBeNLN1P-JQ
+LOCATION:Коломенское
+URL:https://disk.yandex.ru/i/A0YvBeNLN1P-JQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2b18f24f74d15b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Отбор фоток на фотореп по собакам
+DESCRIPTION:Отбор фоток на фотореп по собакам
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94fbdd6838100863@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Монтаж "Собираем и побеждаем" ТЗ:
+DESCRIPTION:Монтаж "Собираем и побеждаем" ТЗ: https://disk.yandex.ru/i/-hRxEnNqgZry_A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-hRxEnNqgZry_A
+URL:https://disk.yandex.ru/i/-hRxEnNqgZry_A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5103a1cf91703b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260903T095000
+DTEND;TZID=Europe/Moscow:20260903T123000
+SUMMARY:фото Музей радиоэлектроники (история/Летников) Локация: Рязанский проспект\, дом 8\, стро...
+DESCRIPTION:9:50-12:30 фото Музей радиоэлектроники (история/Летников) Локация: Рязанский проспект\, дом 8\, строение 2 ТЗ: https://disk.yandex.ru/i/-Oo2FF_alUg46A\n\n📍 Адрес: Рязанский проспект\, дом 8\, строение 2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-Oo2FF_alUg46A
+LOCATION:Рязанский проспект\, дом 8\, строение 2
+URL:https://disk.yandex.ru/i/-Oo2FF_alUg46A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c37c3eb2a11d83f8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260903T160000
+DTEND;TZID=Europe/Moscow:20260903T180000
+SUMMARY:Обработка и сдача фото Музей радиоэлектроники до 18.00
+DESCRIPTION:Обработка и сдача фото Музей радиоэлектроники до 18.00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:86f3628c7eaa8d9a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Съёмка посёлок Сокол Локация: улица Сурикова\, 7 улица Сурикова\, 21\, 21а и 23 улица Сури...
+DESCRIPTION:Съёмка посёлок Сокол Локация: улица Сурикова\, 7 улица Сурикова\, 21\, 21а и 23 улица Сурикова\, 22 улица Сурикова\, 29/5 (там на территории еще есть скульптура\, тоже нужна)улица Поленова\, 2/12 Улица Поленова\, 10\, 12 и 14 улица Брюллова\, 8 улица Крамского\, 3 ТЗ: https://disk.yandex.ru/i/R-RPy9S8zI-BaQ\n\n📍 Адрес: улица Сурикова\, 7 улица Сурикова\, 21\, 21а и 23 улица Сурикова\, 22 улица Сурикова\, 29/5 (там на территории еще есть скульптура\, тоже нужна)улица Поленова\, 2/12 Улица Поленова\, 10\, 12 и 14 улица Брюллова\, 8 улица Крамского\, 3\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/R-RPy9S8zI-BaQ
+LOCATION:улица Сурикова\, 7 улица Сурикова\, 21\, 21а и 23 улица Сурикова\, 22 улица Сурикова\, 29/5 (там на территории еще есть скульптура\, тоже нужна)улица Поленова\, 2/12 Улица Поленова\, 10\, 12 и 14 улица Брюллова\, 8 улица Крамского\, 3
+URL:https://disk.yandex.ru/i/R-RPy9S8zI-BaQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f43fa4d995234e69@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Обработка и сдача посёлок Сокол в этот же день
+DESCRIPTION:Обработка и сдача посёлок Сокол в этот же день
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c547cb659d4445fc@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260904T100000
+DTEND;TZID=Europe/Moscow:20260904T120000
+SUMMARY:до 12.00 сдача ФОТО Сокололиный двор
+DESCRIPTION:до 12.00 сдача ФОТО Сокололиный двор \nhttps://disk.yandex.ru/i/A0YvBeNLN1P-JQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/A0YvBeNLN1P-JQ
+URL:https://disk.yandex.ru/i/A0YvBeNLN1P-JQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1525ad15a5bcc5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260904T153000
+DTEND;TZID=Europe/Moscow:20260904T192000
+SUMMARY:ФОТО Мероприятия в Ситцентре ММИЛП
+DESCRIPTION:15.30-19.20 ФОТО Мероприятия в Ситцентре ММИЛП \nЛокация: Мэрия \nТЗ: https://disk.yandex.ru/i/6BTArNpHPpJgTg\n\n📍 Адрес: Мэрия\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/6BTArNpHPpJgTg
+LOCATION:Мэрия
+URL:https://disk.yandex.ru/i/6BTArNpHPpJgTg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f88a46fae2ca3837@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260904T153000
+DTEND;TZID=Europe/Moscow:20260904T192000
+SUMMARY:Видео Мероприятия в Ситцентре ММИЛП
+DESCRIPTION:15.30-19.20 Видео Мероприятия в Ситцентре ММИЛП \nЛокация: Мэрия \nТЗ: https://disk.yandex.ru/i/6BTArNpHPpJgTg\n\n📍 Адрес: Мэрия\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/6BTArNpHPpJgTg
+LOCATION:Мэрия
+URL:https://disk.yandex.ru/i/6BTArNpHPpJgTg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bde44b2b3bfaee@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260905T100000
+DTEND;TZID=Europe/Moscow:20260905T150000
+SUMMARY:ВИДЕО КиберЗарница (Лето в Москве) Локация: ВДНХ ТЗ:
+DESCRIPTION:10:00-15:00 ВИДЕО КиберЗарница (Лето в Москве) Локация: ВДНХ ТЗ: https://disk.yandex.ru/i/7EPogjlpcVDpNA\n\n📍 Адрес: ВДНХ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/7EPogjlpcVDpNA
+LOCATION:ВДНХ
+URL:https://disk.yandex.ru/i/7EPogjlpcVDpNA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:39771791bf5d896c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260905T120000
+DTEND;TZID=Europe/Moscow:20260905T143000
+SUMMARY:по ситуации ФОТО КиберЗарница (Лето в Москве) Локация: ВДНХ ТЗ:
+DESCRIPTION:12:00 - по ситуации ФОТО КиберЗарница (Лето в Москве) Локация: ВДНХ ТЗ: https://disk.yandex.ru/i/2bw68P4CutaNNQ\n\n📍 Адрес: ВДНХ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/2bw68P4CutaNNQ
+LOCATION:ВДНХ
+URL:https://disk.yandex.ru/i/2bw68P4CutaNNQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c82f0e8f650c0047@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260905T120000
+DTEND;TZID=Europe/Moscow:20260905T143000
+SUMMARY:по ситуации ФОТОпортреты КиберЗарница обработка с учетом отпуска в этот же день  (Лето ...
+DESCRIPTION:12:00- по ситуации ФОТОпортреты КиберЗарница обработка с учетом отпуска в этот же день  (Лето в Москве) Локация: ВДНХ ТЗ: https://disk.yandex.ru/i/2bw68P4CutaNNQ\n\n📍 Адрес: ВДНХ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/2bw68P4CutaNNQ
+LOCATION:ВДНХ
+URL:https://disk.yandex.ru/i/2bw68P4CutaNNQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d92f9c05899f672@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe15f7ca04c8ac1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:83c40cdbeafcd0b1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a2084e9a49c3a3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Монтаж киберзарница
+DESCRIPTION:Монтаж киберзарница
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c324e7d02a94e7ce@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260907T090000
+DTEND;TZID=Europe/Moscow:20260907T160000
+SUMMARY:Монтаж Мероприьятие в МИЛП
+DESCRIPTION:9.00-16.00 Монтаж Мероприьятие в МИЛП
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3fb2b42bd0b1b6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260907T100000
+DTEND;TZID=Europe/Moscow:20260907T120000
+SUMMARY:Обработка и сдача Милп до 12:00
+DESCRIPTION:Обработка и сдача Милп до 12:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:44507895a2fc48c7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260907T194000
+DTEND;TZID=Europe/Moscow:20260907T213000
+SUMMARY:Съёмка историческое фехтование (Истории) Локация: 9-я Парковая улица\, 60 ТЗ:
+DESCRIPTION:19.40-21.30 Съёмка историческое фехтование (Истории) Локация: 9-я Парковая улица\, 60 ТЗ: https://disk.yandex.ru/i/o7dTk6aE1q2ZMw\n\n📍 Адрес: 9-я Парковая улица\, 60\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/o7dTk6aE1q2ZMw
+LOCATION:9-я Парковая улица\, 60
+URL:https://disk.yandex.ru/i/o7dTk6aE1q2ZMw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e06be7aeb8764396@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260907T194000
+DTEND;TZID=Europe/Moscow:20260907T213000
+SUMMARY:Съёмка историческое фехтование (Истории) Локация: 9-я Парковая улица\, 60 ТЗ:
+DESCRIPTION:19.40-21.30 Съёмка историческое фехтование (Истории) Локация: 9-я Парковая улица\, 60 ТЗ: https://disk.yandex.ru/i/o7dTk6aE1q2ZMw\n\n📍 Адрес: 9-я Парковая улица\, 60\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/o7dTk6aE1q2ZMw
+LOCATION:9-я Парковая улица\, 60
+URL:https://disk.yandex.ru/i/o7dTk6aE1q2ZMw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eefef7dd6e4faea2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:731eb7930af48e51@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Монтаж киберзарница
+DESCRIPTION:Монтаж киберзарница
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a764173848e876a6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Монтаж Виджеты на сайт по 10-15 сек
+DESCRIPTION:Монтаж Виджеты на сайт по 10-15 сек https://disk.yandex.ru/i/_af-zfiRDlPxRw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_af-zfiRDlPxRw
+URL:https://disk.yandex.ru/i/_af-zfiRDlPxRw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:847307f1ac77379e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260908T090000
+DTEND;TZID=Europe/Moscow:20260908T123000
+SUMMARY:Монтаж и сдача мероприятие МИЛП
+DESCRIPTION:09:00-12:30 Монтаж и сдача мероприятие МИЛП
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a3979eea9399475@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260908T120000
+DTEND;TZID=Europe/Moscow:20260908T140000
+SUMMARY:Главархив (Истории/ Летников) Локация: Профсоюзная улица\, 80
+DESCRIPTION:12:00 - 14:00 Главархив (Истории/ Летников) Локация: Профсоюзная улица\, 80 \n ТЗ: https://disk.yandex.ru/i/lVmVbGXi75MEyg\n\n📍 Адрес: Профсоюзная улица\, 80\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/lVmVbGXi75MEyg
+LOCATION:Профсоюзная улица\, 80
+URL:https://disk.yandex.ru/i/lVmVbGXi75MEyg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12e16076b9fd9a3b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260908T152000
+DTEND;TZID=Europe/Moscow:20260908T190000
+SUMMARY:ФОТО Мероприятие ГЗ
+DESCRIPTION:15.20-19.00 ФОТО Мероприятие ГЗ  \nЛОкация: Мэрия \nТЗ: https://disk.yandex.ru/i/ss3o1WNAoZsQqw\n\n📍 Адрес: Мэрия\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ss3o1WNAoZsQqw
+LOCATION:Мэрия
+URL:https://disk.yandex.ru/i/ss3o1WNAoZsQqw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:65c6b43571f73661@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260908T152000
+DTEND;TZID=Europe/Moscow:20260908T190000
+SUMMARY:ВИДЕО Мероприятие ГЗ
+DESCRIPTION:15.20-19.00 ВИДЕО Мероприятие ГЗ  \nЛОкация: Мэрия \nТЗ: https://disk.yandex.ru/i/ss3o1WNAoZsQqw\n\n📍 Адрес: Мэрия\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ss3o1WNAoZsQqw
+LOCATION:Мэрия
+URL:https://disk.yandex.ru/i/ss3o1WNAoZsQqw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68382ed3b590febb@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Обработка и сдача мероприятие ГЗ
+DESCRIPTION:Обработка и сдача мероприятие ГЗ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6d30bb402c59e2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Обработка и сдача главархив
+DESCRIPTION:Обработка и сдача главархив
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a93552ccb2a484c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7291acc6538fa4d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Монтаж киберзарница
+DESCRIPTION:Монтаж киберзарница
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4be620d257d754@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Монтаж Мероприятие ГЗ
+DESCRIPTION:Монтаж Мероприятие ГЗ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ea52af3f240785f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Монтаж Виджеты на сайт по 10-15 сек
+DESCRIPTION:Монтаж Виджеты на сайт по 10-15 сек https://disk.yandex.ru/i/_af-zfiRDlPxRw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_af-zfiRDlPxRw
+URL:https://disk.yandex.ru/i/_af-zfiRDlPxRw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2f0c4c7900b4ec@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92dc9d73908e6f31@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0211b602294785@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Монтаж Историческое фехтование
+DESCRIPTION:Монтаж Историческое фехтование
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5f86b7effb5a13@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260910T120000
+DTEND;TZID=Europe/Moscow:20260910T140000
+SUMMARY:до 14.00 Обработка Киберзарница
+DESCRIPTION:до 14.00 Обработка Киберзарница
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94d926d49cb9f53e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260910T160000
+DTEND;TZID=Europe/Moscow:20260910T180000
+SUMMARY:до 18.00 Обработка и сдача историческое фехтование
+DESCRIPTION:до 18.00 Обработка и сдача историческое фехтование
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1dd06cbfc3c23a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9faf9224bd5e00b8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6faef0cb0cb16f9c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260911T090000
+DTEND;TZID=Europe/Moscow:20260911T180000
+SUMMARY:МОНТАЖ ФОТОПУЛЬС     тз:
+DESCRIPTION:09:00-18:00 МОНТАЖ ФОТОПУЛЬС     тз: https://disk.yandex.ru/i/HdQCuYuPNZ6ILQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HdQCuYuPNZ6ILQ
+URL:https://disk.yandex.ru/i/HdQCuYuPNZ6ILQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b940c39dd236eaa@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260911T150000
+DTEND;TZID=Europe/Moscow:20260911T170000
+SUMMARY:ФОТО  Ярославский вокзал (Сдача в этот же день)
+DESCRIPTION:ФОТО 15:00-17:00 Ярославский вокзал (Сдача в этот же день) https://disk.yandex.ru/i/xkhYN9Uv1uM9tg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xkhYN9Uv1uM9tg
+URL:https://disk.yandex.ru/i/xkhYN9Uv1uM9tg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c8d0a3be4759e1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9578393390dd6375@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a861f1c4334e9a3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260912T150000
+DTEND;TZID=Europe/Moscow:20260912T200000
+SUMMARY:Фестиваль Ушу в Музеоне
+DESCRIPTION:15:00-20:00 Фестиваль Ушу в Музеоне https://disk.yandex.ru/i/_tvLvPW2Mqd68A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_tvLvPW2Mqd68A
+URL:https://disk.yandex.ru/i/_tvLvPW2Mqd68A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9af4e5010279250@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260912T150000
+DTEND;TZID=Europe/Moscow:20260912T200000
+SUMMARY:Фестиваль ушу в музеоне. -
+DESCRIPTION:15:00-20:00 Фестиваль ушу в музеоне. -https://disk.yandex.ru/i/_tvLvPW2Mqd68A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_tvLvPW2Mqd68A
+URL:https://disk.yandex.ru/i/_tvLvPW2Mqd68A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:90b1902a604673c3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5e27a65991a4da@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:608e91633cecbbe6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:17144ba25d61451b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Обработка и сдача "Фестиваль ушу"
+DESCRIPTION:Обработка и сдача "Фестиваль ушу"
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:db3bdbfd9ec7cde8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:ТЗ на фото Курьяново Локация: 3. Точный адрес: Курьяновский бульвар\, 4/16 и далее по ми...
+DESCRIPTION:ТЗ на фото Курьяново Локация: 3. Точный адрес: Курьяновский бульвар\, 4/16 и далее по микрорайну ТЗ: https://disk.yandex.ru/i/qIinYvFGMQTk1w\n\n📍 Адрес: 3. Точный адрес: Курьяновский бульвар\, 4/16 и далее по микрорайну\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qIinYvFGMQTk1w
+LOCATION:3. Точный адрес: Курьяновский бульвар\, 4/16 и далее по микрорайну
+URL:https://disk.yandex.ru/i/qIinYvFGMQTk1w
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e187dc9d5689de79@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a038ff0fc5b2e89e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Монтаж ушу
+DESCRIPTION:Монтаж ушу
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc748b1725e5ab0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260914T093000
+DTEND;TZID=Europe/Moscow:20260914T113000
+SUMMARY:Голосование по мосту. Монтаж и сдача до 11:30
+DESCRIPTION:Голосование по мосту. Монтаж и сдача до 11:30 https://disk.yandex.ru/i/HD5XKA0oLeJgmA\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HD5XKA0oLeJgmA
+URL:https://disk.yandex.ru/i/HD5XKA0oLeJgmA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f793f7b1c00c5e37@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260914T110000
+DTEND;TZID=Europe/Moscow:20260914T133000
+SUMMARY:Локация: ВДНХ ФотоРеп "Овощи гиганты на ВДНХ" Локация: городская ферма на ВДНХ ТЗ:
+DESCRIPTION:11:00 Локация: ВДНХ ФотоРеп "Овощи гиганты на ВДНХ" Локация: городская ферма на ВДНХ ТЗ: https://disk.yandex.ru/i/f2IcrMg4BtRXhA\n\n📍 Адрес: ВДНХ ФотоРеп "Овощи гиганты на ВДНХ" Локация: городская ферма на ВДНХ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/f2IcrMg4BtRXhA
+LOCATION:ВДНХ ФотоРеп "Овощи гиганты на ВДНХ" Локация: городская ферма на ВДНХ
+URL:https://disk.yandex.ru/i/f2IcrMg4BtRXhA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7cb14c9035787d71@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:ФОТО Кузьминки. Локация: улица Старые Кузьминки\, 1 ТЗ:
+DESCRIPTION:ФОТО Кузьминки. Локация: улица Старые Кузьминки\, 1 ТЗ: https://disk.yandex.ru/i/3cOGrhmX007BHA\n\n📍 Адрес: улица Старые Кузьминки\, 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/3cOGrhmX007BHA
+LOCATION:улица Старые Кузьминки\, 1
+URL:https://disk.yandex.ru/i/3cOGrhmX007BHA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7936cbe3aaaa4db3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:238340ec5b6cdada@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Монтаж Ушу
+DESCRIPTION:Монтаж Ушу
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbb21cbcd81c559@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260915T090000
+DTEND;TZID=Europe/Moscow:20260915T110000
+SUMMARY:Сдача Курьяново до 11:00
+DESCRIPTION:Сдача Курьяново до 11:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8959edd584120a8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260915T130000
+DTEND;TZID=Europe/Moscow:20260915T150000
+SUMMARY:Сдача Овощи гиганты до 15:00
+DESCRIPTION:Сдача Овощи гиганты до 15:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9acca30c7b371f99@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9941120dff94a33b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Монтаж УШУ
+DESCRIPTION:Монтаж УШУ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a914d331dd4f99e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260916T100000
+DTEND;TZID=Europe/Moscow:20260916T150000
+SUMMARY:ФОТО  дворы после благоустройства - 1 в ЗЕЛАО\, 2 - в САО.
+DESCRIPTION:10.00-15.00 ФОТО  дворы после благоустройства - 1 в ЗЕЛАО\, 2 - в САО. https://disk.yandex.ru/i/Nk5VlFFLQ5_JSA\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Nk5VlFFLQ5_JSA
+URL:https://disk.yandex.ru/i/Nk5VlFFLQ5_JSA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:71a97968374f4a91@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260916T130000
+DTEND;TZID=Europe/Moscow:20260916T150000
+SUMMARY:Сдача фото Кузьминки до 15:00
+DESCRIPTION:Сдача фото Кузьминки до 15:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0ef09f2d52dd0c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260916T160000
+DTEND;TZID=Europe/Moscow:20260916T180000
+SUMMARY:Сдача фото дворе после благоустройства до 18.00
+DESCRIPTION:Сдача фото дворе после благоустройства до 18.00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b41ffebda52ef7a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260916T200000
+DTEND;TZID=Europe/Moscow:20260916T223000
+SUMMARY:Фото Уличный музыкант (Истории) метро Фрунзенская (у выхода) ТЗ
+DESCRIPTION:20:00 Фото Уличный музыкант (Истории) метро Фрунзенская (у выхода) ТЗ https://disk.yandex.ru/i/qnHhzzcMN-ZNYw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qnHhzzcMN-ZNYw
+URL:https://disk.yandex.ru/i/qnHhzzcMN-ZNYw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:371680aa98f4dfe6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a93bb0bae5cd5c8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:ОТГУЛ за 12.09
+DESCRIPTION:ОТГУЛ за 12.09
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5f18eb219dd233@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260917T084000
+DTEND;TZID=Europe/Moscow:20260917T103000
+SUMMARY:Музей мишки (истории)  СТРОГО НЕ ОПАЗДЫВАТЬ!!!!!
+DESCRIPTION:8.40-10:30 Музей мишки (истории)  СТРОГО НЕ ОПАЗДЫВАТЬ!!!!!  \nТЗ: https://disk.yandex.ru/i/hVXygYeF70DlVA 3) \nЛОКАЦИЯ: Музей МИШКа\, ул. Малая Красносельская\, д.7. Вход со стороны ул.Лобачика\, д1\,стр1\n\n📍 Адрес: Музей МИШКа\, ул. Малая Красносельская\, д.7. Вход со стороны ул.Лобачика\, д1\,стр1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/hVXygYeF70DlVA
+LOCATION:Музей МИШКа\, ул. Малая Красносельская\, д.7. Вход со стороны ул.Лобачика\, д1\,стр1
+URL:https://disk.yandex.ru/i/hVXygYeF70DlVA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7394548b8d4261d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260917T120000
+DTEND;TZID=Europe/Moscow:20260917T140000
+SUMMARY:Обработка и сдача "Уличный музыкант" до 14:00
+DESCRIPTION:Обработка и сдача "Уличный музыкант" до 14:00 https://disk.yandex.ru/i/qnHhzzcMN-ZNYw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qnHhzzcMN-ZNYw
+URL:https://disk.yandex.ru/i/qnHhzzcMN-ZNYw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:19c71c63385a7b05@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260917T150000
+DTEND;TZID=Europe/Moscow:20260917T180000
+SUMMARY:ФОТО Памятники (Тагтрова)
+DESCRIPTION:15.00-18.00 ФОТО Памятники (Тагтрова) \nЛокация:  Смотрим в ТЗ \nТЗ: https://disk.yandex.ru/i/hxrMqEoBkU9COw\n\n📍 Адрес: Смотрим в ТЗ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/hxrMqEoBkU9COw
+LOCATION:Смотрим в ТЗ
+URL:https://disk.yandex.ru/i/hxrMqEoBkU9COw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f648f01a8901c314@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260917T150000
+DTEND;TZID=Europe/Moscow:20260917T180000
+SUMMARY:ФОТО Памятники (Тагтрова)
+DESCRIPTION:15.00-18.00 ФОТО Памятники (Тагтрова) \nЛокация:  Смотрим в ТЗ \nТЗ: https://disk.yandex.ru/i/hxrMqEoBkU9COw\n\n📍 Адрес: Смотрим в ТЗ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/hxrMqEoBkU9COw
+LOCATION:Смотрим в ТЗ
+URL:https://disk.yandex.ru/i/hxrMqEoBkU9COw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fccfefb134b4d66@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d31b0b41aea3c9a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:ОТГУЛ за 15.08
+DESCRIPTION:ОТГУЛ за 15.08
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c7e1696b10aa42@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260918T110000
+DTEND;TZID=Europe/Moscow:20260918T130000
+SUMMARY:до 13.00 сдача памятников
+DESCRIPTION:до 13.00 сдача памятников
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:60f71454b956bcb0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260918T110000
+DTEND;TZID=Europe/Moscow:20260918T130000
+SUMMARY:до 13.00 сдача Музей Мишки
+DESCRIPTION:до 13.00 сдача Музей Мишки \nдо 18.00 сдача памятников
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8abc46c5bf6f1e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260918T130000
+DTEND;TZID=Europe/Moscow:20260918T150000
+SUMMARY:ФОТО   Метеорологичекая станция (Летников)  Локация: 3. Москва\, Западный административн...
+DESCRIPTION:13:00-15:00 ФОТО   Метеорологичекая станция (Летников)  Локация: 3. Москва\, Западный административный округ\, район Раменки\, территория Ленинские Горы\, 1\, стр. 27 ТЗ https://disk.yandex.ru/i/ij7KAVgGvSx8uQ\n\n📍 Адрес: 3. Москва\, Западный административный округ\, район Раменки\, территория Ленинские Горы\, 1\, стр. 27 ТЗ https://disk.yandex.ru/i/ij7KAVgGvSx8uQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ij7KAVgGvSx8uQ
+LOCATION:3. Москва\, Западный административный округ\, район Раменки\, территория Ленинские Горы\, 1\, стр. 27 ТЗ https://disk.yandex.ru/i/ij7KAVgGvSx8uQ
+URL:https://disk.yandex.ru/i/ij7KAVgGvSx8uQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5f05f0cdf9db98@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:58ac593d36a1507f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:655237083adf0d39@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5477fe227cd185da@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a14427c54c8fb233@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:ФотоРеп "Осень в парках Москвы"
+DESCRIPTION:ФотоРеп "Осень в парках Москвы" https://disk.yandex.ru/i/bCnRckR8JuUW2Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/bCnRckR8JuUW2Q
+URL:https://disk.yandex.ru/i/bCnRckR8JuUW2Q
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38d9ae4d7a4a82cd@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2425b0aa21313595@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Монтаж шаблона для фотопульса Пиксель арт
+DESCRIPTION:Монтаж шаблона для фотопульса Пиксель арт
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3528441b8894509b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260921T153000
+DTEND;TZID=Europe/Moscow:20260921T163000
+SUMMARY:ФОТО Учитель 1
+DESCRIPTION:15.30-16.30ФОТО Учитель 1\nЛокация: ул. Снайперская дом 11 А\, школа № 1512 \nТЗ:   https://disk.yandex.ru/i/WoKJS8rwzC7vTQ\n\n📍 Адрес: ул. Снайперская дом 11 А\, школа № 1512\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+LOCATION:ул. Снайперская дом 11 А\, школа № 1512
+URL:https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9265951e0517b66@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e419c8000cff7b1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260922T090000
+DTEND;TZID=Europe/Moscow:20260922T110000
+SUMMARY:ФОТО (мастер по измерениям) профессии большого города
+DESCRIPTION:9.00-11.00 ФОТО (мастер по измерениям) профессии большого города \nСадовническая\, 26\nТЗ: https://disk.yandex.ru/d/KEKym0Pjv-H0qA\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/KEKym0Pjv-H0qA
+URL:https://disk.yandex.ru/d/KEKym0Pjv-H0qA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b632245eb2fb63a1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260922T095000
+DTEND;TZID=Europe/Moscow:20260922T130000
+SUMMARY:фото Политех  Локация: Новая площадь\, 3/4
+DESCRIPTION:фото Политех 09:50 - 13:00 Локация: Новая площадь\, 3/4 https://disk.yandex.ru/i/LbrIzv7nfuxU5A\n\n📍 Адрес: Новая площадь\, 3/4 https://disk.yandex.ru/i/LbrIzv7nfuxU5A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/LbrIzv7nfuxU5A
+LOCATION:Новая площадь\, 3/4 https://disk.yandex.ru/i/LbrIzv7nfuxU5A
+URL:https://disk.yandex.ru/i/LbrIzv7nfuxU5A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca3cc512c9404a5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260922T130000
+DTEND;TZID=Europe/Moscow:20260922T140000
+SUMMARY:ФОТО Сварщик Профессии большого города
+DESCRIPTION:13.00-14.00 ФОТО Сварщик Профессии большого города \nИзмайловское шоссе\, 47А Служба главного сварщика\nТЗ: https://disk.yandex.ru/d/KEKym0Pjv-H0qA\n\n📍 Адрес: Измайловское шоссе\, 47А Служба главного сварщика\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/KEKym0Pjv-H0qA
+LOCATION:Измайловское шоссе\, 47А Служба главного сварщика
+URL:https://disk.yandex.ru/d/KEKym0Pjv-H0qA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:523c417e4d1edcf7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260922T151000
+DTEND;TZID=Europe/Moscow:20260922T161000
+SUMMARY:ФОТО Учитель 2
+DESCRIPTION:15.10 -16.10 ФОТО Учитель 2\nЛокация: Улица Матвеевская\, д. 20\, корпус 2\, школа 814\, УК3. Ориентир или метро Славянский бульвар\, или Давыдово\, или Аминьевское. \nТЗ:   https://disk.yandex.ru/i/WoKJS8rwzC7vTQ\n\n📍 Адрес: Улица Матвеевская\, д. 20\, корпус 2\, школа 814\, УК3. Ориентир или метро Славянский бульвар\, или Давыдово\, или Аминьевское.\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+LOCATION:Улица Матвеевская\, д. 20\, корпус 2\, школа 814\, УК3. Ориентир или метро Славянский бульвар\, или Давыдово\, или Аминьевское.
+URL:https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e643a15253a87d1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Обработка и с дача фоторепа "Осень в парках Москвы"
+DESCRIPTION:Обработка и с дача фоторепа "Осень в парках Москвы"
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6de769774165b99a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77d5843690ce1a98@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T100000
+DTEND;TZID=Europe/Moscow:20260923T120000
+SUMMARY:ФОТО РотФронт Истории (Мифтахутдинова)
+DESCRIPTION:10.00-12.00 ФОТО РотФронт Истории (Мифтахутдинова)   \nЛокация:  Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw\n\n📍 Адрес: Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DwY7b74HXMlTmw
+LOCATION:Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw
+URL:https://disk.yandex.ru/i/DwY7b74HXMlTmw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c661ed2ca6aba93@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T100000
+DTEND;TZID=Europe/Moscow:20260923T120000
+SUMMARY:ВИДЕО РотФронт Истории (Мифтахутдинова)
+DESCRIPTION:10.00-12.00 ВИДЕО РотФронт Истории (Мифтахутдинова)  \nЛокация:  Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw\n\n📍 Адрес: Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DwY7b74HXMlTmw
+LOCATION:Мелитопольская\, 8 https://disk.yandex.ru/i/DwY7b74HXMlTmw
+URL:https://disk.yandex.ru/i/DwY7b74HXMlTmw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e3702617e9b440c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T110000
+DTEND;TZID=Europe/Moscow:20260923T130000
+SUMMARY:Обработка до 13:00 Политех
+DESCRIPTION:Обработка до 13:00 Политех
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dda996d46911b97a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T133000
+DTEND;TZID=Europe/Moscow:20260923T150000
+SUMMARY:ФОТО Профессии большщого города Высотник
+DESCRIPTION:13.30-15.00 ФОТО Профессии большщого города Высотник \nАдрес: только завтра скажут
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:44dcbb990db4a2cc@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T133000
+DTEND;TZID=Europe/Moscow:20260923T150000
+SUMMARY:ВИДЕО Профессии большого города ВЫСОТНИК
+DESCRIPTION:13.30 -15.00 ВИДЕО Профессии большого города ВЫСОТНИК \nАдрес: только завтра
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:69445aeeb049c4ce@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260923T154000
+DTEND;TZID=Europe/Moscow:20260923T164000
+SUMMARY:ФОТО Учитель 3
+DESCRIPTION:15.40 -16.40 ФОТО Учитель 3\nЛокация: Адрес: ГБОУ Школа N 2087 " Открытие" Батайский проезд\, дом 47. Кабинет 111\nТЗ:   https://disk.yandex.ru/i/WoKJS8rwzC7vTQ\n\n📍 Адрес: Адрес: ГБОУ Школа N 2087 " Открытие" Батайский проезд\, дом 47. Кабинет 111\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+LOCATION:Адрес: ГБОУ Школа N 2087 " Открытие" Батайский проезд\, дом 47. Кабинет 111
+URL:https://disk.yandex.ru/i/WoKJS8rwzC7vTQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:050005022ae491fd@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Обработка и сдача РотФронт до 18: 00
+DESCRIPTION:Обработка и сдача РотФронт до 18: 00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6faf0da9b9648d0e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Правки в НТУ
+DESCRIPTION:Правки в НТУ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:40533d14b89e5edf@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Монтаж ротфронт
+DESCRIPTION:Монтаж ротфронт
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b4d90487442698a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260924T094500
+DTEND;TZID=Europe/Moscow:20260924T150000
+SUMMARY:ФОТО Выставка про реставрацию (Летников)
+DESCRIPTION:9.45-15.00 ФОТО Выставка про реставрацию (Летников) \nТЗ: https://disk.yandex.ru/i/GD5D_xKvXmVzjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GD5D_xKvXmVzjw
+URL:https://disk.yandex.ru/i/GD5D_xKvXmVzjw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c744b7d7aca0e0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260924T103000
+DTEND;TZID=Europe/Moscow:20260924T130000
+SUMMARY:ФОТО профессии большого города ВОДОЛАЗ Локация: Ленинградское шоссе 39 строение 1
+DESCRIPTION:10:30-13:00 ФОТО профессии большого города ВОДОЛАЗ Локация: Ленинградское шоссе 39 строение 1\n\n📍 Адрес: Ленинградское шоссе 39 строение 1
+LOCATION:Ленинградское шоссе 39 строение 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2397ae4783bdb29e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260924T103000
+DTEND;TZID=Europe/Moscow:20260924T130000
+SUMMARY:ФОТО профессии большого города ВОДОЛАЗ Локация: Ленинградское шоссе 39 строение 1
+DESCRIPTION:10:30-13:00 ФОТО профессии большого города ВОДОЛАЗ Локация: Ленинградское шоссе 39 строение 1 \nhttps://disk.yandex.ru/i/l3F7itBdwnzh0w\n\n📍 Адрес: Ленинградское шоссе 39 строение 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/l3F7itBdwnzh0w
+LOCATION:Ленинградское шоссе 39 строение 1
+URL:https://disk.yandex.ru/i/l3F7itBdwnzh0w
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:240ea72051abf93a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260924T160000
+DTEND;TZID=Europe/Moscow:20260924T180000
+SUMMARY:До 18:00 Обработка всех фото учителей
+DESCRIPTION:До 18:00 Обработка всех фото учителей
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff57b69c8f19a1b6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1f24c0dc4366ad@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Правки в НТУ
+DESCRIPTION:Правки в НТУ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7fcb485bea7733@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Монтаж Ротфронт
+DESCRIPTION:Монтаж Ротфронт
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:14b627359ff40d1c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260925T092000
+DTEND;TZID=Europe/Moscow:20260925T122000
+SUMMARY:Фото футбол (Истории)
+DESCRIPTION:09:20 - 12:20 Фото футбол (Истории) \nЛокация: ул. Лосиноостровская\, д. 49 ТЗ: https://disk.yandex.ru/i/IJQdtc_OjAc8eg\n\n📍 Адрес: ул. Лосиноостровская\, д. 49\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/IJQdtc_OjAc8eg
+LOCATION:ул. Лосиноостровская\, д. 49
+URL:https://disk.yandex.ru/i/IJQdtc_OjAc8eg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:675d2f876006cf7f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260925T150000
+DTEND;TZID=Europe/Moscow:20260925T173000
+SUMMARY:ФОТО профессии большого города Мосводоканал
+DESCRIPTION:15.00 ФОТО профессии большого города Мосводоканал \nЛокация: 3 предильная улица\, д1\n\n📍 Адрес: 3 предильная улица\, д1
+LOCATION:3 предильная улица\, д1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a85ed14a67bfd833@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:057747bec360c0f2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe3af11d7c5da12@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd6f2eaba2dfc41@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb2bd65d3de9764@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3599f19cb2bd1af7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d14c947289ecd9f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:60e014acac0e03a1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Правки в НТУ
+DESCRIPTION:Правки в НТУ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d66eb45e5013963a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Монтаж виджеты
+DESCRIPTION:Монтаж виджеты https://disk.yandex.ru/i/2NYAsJXEPM_ejg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/2NYAsJXEPM_ejg
+URL:https://disk.yandex.ru/i/2NYAsJXEPM_ejg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e485489bd19b6c4c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260928T100000
+DTEND;TZID=Europe/Moscow:20260928T120000
+SUMMARY:до 12.00 обработка ФОТО ВЫставка про реставрацию
+DESCRIPTION:до 12.00 обработка ФОТО ВЫставка про реставрацию
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:273d8c13e14134f3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260928T140000
+DTEND;TZID=Europe/Moscow:20260928T160000
+SUMMARY:Симонов монастырь  Локация: 3.  Восточная ул.\, 4\, стр. 11
+DESCRIPTION:14:00-16:00 Симонов монастырь https://disk.yandex.ru/i/qhlnZ3ynSWSioA Локация: 3.  Восточная ул.\, 4\, стр. 11\n\n📍 Адрес: 3.  Восточная ул.\, 4\, стр. 11\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qhlnZ3ynSWSioA
+LOCATION:3.  Восточная ул.\, 4\, стр. 11
+URL:https://disk.yandex.ru/i/qhlnZ3ynSWSioA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4760b5e263efa8ea@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc30022e92b6658@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Монтаж виджеты
+DESCRIPTION:Монтаж виджеты https://disk.yandex.ru/i/2NYAsJXEPM_ejg\n\nАнимация для нового героя \nhttps://disk.yandex.ru/i/XI1wyDs98MnCbg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/2NYAsJXEPM_ejg
+URL:https://disk.yandex.ru/i/2NYAsJXEPM_ejg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf953f180bc0197d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260929T100000
+DTEND;TZID=Europe/Moscow:20260929T180000
+SUMMARY:Страссессия Локация: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис ...
+DESCRIPTION:10:00-18:00 Страссессия Локация: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва»  ТЗ: https://disk.yandex.ru/i/tV_2IJyYMsGtbg\n\n📍 Адрес: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва»\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/tV_2IJyYMsGtbg
+LOCATION:Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва»
+URL:https://disk.yandex.ru/i/tV_2IJyYMsGtbg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38fd401a7f7c3c02@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260929T100000
+DTEND;TZID=Europe/Moscow:20260929T180000
+SUMMARY:Страссессия Локация: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис ...
+DESCRIPTION:10:00-18:00 Страссессия Локация: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва» тз: https://disk.yandex.ru/i/tV_2IJyYMsGtbg\n\n📍 Адрес: Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва»\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/tV_2IJyYMsGtbg
+LOCATION:Волгоградский просп.\, д.42\, корп. 5\, Конгресс - центр «Технополис «Москва»
+URL:https://disk.yandex.ru/i/tV_2IJyYMsGtbg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f113569607dcb8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d97ec6c40757090@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Обработка и сдача Стратсессия
+DESCRIPTION:Обработка и сдача Стратсессия
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b21ac94e55b7e1f1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Обработка и сдача Симонов монастырь
+DESCRIPTION:Обработка и сдача Симонов монастырь
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a255ebb143237655@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Монтаж стратсессия Лужники
+DESCRIPTION:Монтаж стратсессия Лужники
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2aaaebb2e98d5286@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20260930T103000
+DTEND;TZID=Europe/Moscow:20260930T173000
+SUMMARY:Голосования осенние прогулки Калашников Локация старта: проспект Андропова\, дом 39\, стр...
+DESCRIPTION:10:30-17:30 Голосования осенние прогулки Калашников Локация старта: проспект Андропова\, дом 39\, строение 69. https://disk.yandex.ru/i/6F0h4_h80p3c6Q\n\n📍 Адрес: 10:30-17:30 Голосования осенние прогулки Калашников Локация старта: проспект Андропова\, дом 39\, строение 69. https://disk.yandex.ru/i/6F0h4_h80p3c6Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/6F0h4_h80p3c6Q
+LOCATION:10:30-17:30 Голосования осенние прогулки Калашников Локация старта: проспект Андропова\, дом 39\, строение 69. https://disk.yandex.ru/i/6F0h4_h80p3c6Q
+URL:https://disk.yandex.ru/i/6F0h4_h80p3c6Q
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d8089ac1d5add8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8efc0decd504310e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Монтаж Осенние прогулки
+DESCRIPTION:Монтаж Осенние прогулки
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e098f1c3d166c88@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T180000
+SUMMARY:Монтаж ролика по итогам стратсессии
+DESCRIPTION:9.00-18.00 Монтаж ролика по итогам стратсессии
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef65e663c2e26f85@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T130000
+SUMMARY:ФОТО Историк который собирает проездные билеты (Ммифтахутдинова)
+DESCRIPTION:10:45-13:00 ФОТО Историк который собирает проездные билеты (Ммифтахутдинова) \nлокация: 3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная\nТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA\n\n📍 Адрес: 3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA
+LOCATION:3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная
+URL:https://disk.yandex.ru/i/5nBsBJyr2C7wdA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cce1ea1f8a07a29@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261001T154500
+DTEND;TZID=Europe/Moscow:20261001T180000
+SUMMARY:ФОТО Таксидермист. Тагирова)
+DESCRIPTION:15:45-18:00 ФОТО Таксидермист. Тагирова)\nлокация:  3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\nТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ\n\n📍 Адрес: 3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
+LOCATION:3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.
+URL:https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6256eb7db83064e0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261001T154500
+DTEND;TZID=Europe/Moscow:20261001T180000
+SUMMARY:ВИДЕО Таксидермист. Тагирова)
+DESCRIPTION:15.45 -18:00 ВИДЕО Таксидермист. Тагирова)\nлокация:  3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\nТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ\n\n📍 Адрес: 3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
+LOCATION:3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.
+URL:https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:976ec653d7d6fe99@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:985a9df667eda5f2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Монтаж профессии большого города
+DESCRIPTION:Монтаж профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:619f47f9f60326de@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T120000
+SUMMARY:Монтаж Пульс по шаблону Пиксель арт Крупный план  (фото запросить у Алины)
+DESCRIPTION:9.00-12.00 Монтаж Пульс по шаблону Пиксель арт Крупный план  (фото запросить у Алины)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:18621414e9d9c37f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T093000
+DTEND;TZID=Europe/Moscow:20261002T120000
+SUMMARY:ФОТО Энтомолог (профессии большого города)
+DESCRIPTION:9.30 ФОТО Энтомолог (профессии большого города)  \nЛокация:  Прудовой проезд\, 3А\, строения 6\nТЗ\n\n📍 Адрес: Прудовой проезд\, 3А\, строения 6
+LOCATION:Прудовой проезд\, 3А\, строения 6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:44460d209325b55f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T103000
+DTEND;TZID=Europe/Moscow:20261002T130000
+SUMMARY:ФОТО Будильщица (Тагирова)
+DESCRIPTION:10.30 -13.00 ФОТО Будильщица (Тагирова)  \nЛокация: Верхнелихоборская улица\, 5с5\nТЗ https://disk.yandex.ru/i/PfpGk4QhllvQ2A\n\n📍 Адрес: Верхнелихоборская улица\, 5с5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PfpGk4QhllvQ2A
+LOCATION:Верхнелихоборская улица\, 5с5
+URL:https://disk.yandex.ru/i/PfpGk4QhllvQ2A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c041cdbfe65d2ae3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T103000
+DTEND;TZID=Europe/Moscow:20261002T130000
+SUMMARY:ВИДЕО Будильщица (Тагтрова)
+DESCRIPTION:10.30-13.00 ВИДЕО Будильщица (Тагтрова) \nЛокация:  Верхнелихоборская улица\, 5с5\n\nТЗ: https://disk.yandex.ru/i/PfpGk4QhllvQ2A\n\n📍 Адрес: Верхнелихоборская улица\, 5с5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PfpGk4QhllvQ2A
+LOCATION:Верхнелихоборская улица\, 5с5
+URL:https://disk.yandex.ru/i/PfpGk4QhllvQ2A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5cee9fa4667819@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T120000
+DTEND;TZID=Europe/Moscow:20261002T180000
+SUMMARY:Монтаж осенние прогулки
+DESCRIPTION:12.00-18.00 Монтаж осенние прогулки
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:14534e0c934dc93c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261002T180000
+DTEND;TZID=Europe/Moscow:20261002T203000
+SUMMARY:обработка ФОТО Историк и  проездные билеты
+DESCRIPTION:18.00 обработка ФОТО Историк и  проездные билеты
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0161ca81dd4f2a35@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ef971333e739379@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ce6bf89cc06b312@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b177772581ba325@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10a54fdc8bb0e189@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2683f14b680ab0e6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87d1f3d38bb98f19@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:57721c71253c345a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Монтаж Профессии большого города
+DESCRIPTION:Монтаж Профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:047f1e0b35365c98@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261005T120000
+DTEND;TZID=Europe/Moscow:20261005T140000
+SUMMARY:до 14.00 Обработка и сдача Будильщица
+DESCRIPTION:до 14.00 Обработка и сдача Будильщица
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7440a13a3f48023@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261005T120000
+DTEND;TZID=Europe/Moscow:20261005T140000
+SUMMARY:Библиотека Тургеневка  СЪЁМКА ТЕАТРАЛЬНЫЙ СЕЗОН
+DESCRIPTION:Библиотека Тургеневка 12:00-14:00 СЪЁМКА ТЕАТРАЛЬНЫЙ СЕЗОН https://disk.yandex.ru/i/LaWv2mKMJvhXbg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/LaWv2mKMJvhXbg
+URL:https://disk.yandex.ru/i/LaWv2mKMJvhXbg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1978405ba6ec01@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261005T144500
+DTEND;TZID=Europe/Moscow:20261005T170000
+SUMMARY:ФОТО Художник   Локация: 3. Смоленская площадь\, 13/21 ТЗ:
+DESCRIPTION:ФОТО Художник 14:45-17:00  Локация: 3. Смоленская площадь\, 13/21 ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w\n\n📍 Адрес: 3. Смоленская площадь\, 13/21\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w
+LOCATION:3. Смоленская площадь\, 13/21
+URL:https://disk.yandex.ru/i/vQTFkpsolvw22w
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dba1e4942f0a79a3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:56907bec5de12378@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Монтаж профессии большого города
+DESCRIPTION:Монтаж профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:33646426006821ad@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+DESCRIPTION:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:23305d0a7987d9fa@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261006T100000
+DTEND;TZID=Europe/Moscow:20261006T130000
+SUMMARY:ФотоРеп "Московский урожай Осень" Локация: улица Юных Ленинцев владение 52 ТЗ:
+DESCRIPTION:10.00-13.00 ФотоРеп "Московский урожай Осень" Локация: улица Юных Ленинцев владение 52 ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA\n\n📍 Адрес: улица Юных Ленинцев владение 52\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA
+LOCATION:улица Юных Ленинцев владение 52
+URL:https://disk.yandex.ru/i/KJLTn4JLx8AlrA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e99a402aa89d79@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261006T110000
+DTEND;TZID=Europe/Moscow:20261006T130000
+SUMMARY:до 13.00 Обработка ФОТО  таксидермист
+DESCRIPTION:до 13.00 Обработка ФОТО  таксидермист
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd2c2a512698c63@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fccd264cbf81c215@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Монтаж профессии большого города
+DESCRIPTION:Монтаж профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:157ed6643249bee4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+DESCRIPTION:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:65d00c735fe5af33@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261007T100000
+DTEND;TZID=Europe/Moscow:20261007T130000
+SUMMARY:ФОТО  Хавско-Шаболовский жилмассив (Летников)
+DESCRIPTION:10.00-13.00 ФОТО  Хавско-Шаболовский жилмассив (Летников)  \nлокаци:  \nТЗ: https://disk.yandex.ru/i/4h_aYXCudKOacg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/4h_aYXCudKOacg
+URL:https://disk.yandex.ru/i/4h_aYXCudKOacg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c07ded15e611d9ec@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261007T160000
+DTEND;TZID=Europe/Moscow:20261007T180000
+SUMMARY:до 18.00 Обработка ФОТО Хавско-Шабаловский жилмассив
+DESCRIPTION:до 18.00 Обработка ФОТО Хавско-Шабаловский жилмассив
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:478de142f8065196@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1dbcb51f740e38@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Монтаж (генгерация из фоток) Театральная пауза  ТЗ:
+DESCRIPTION:Монтаж (генгерация из фоток) Театральная пауза  ТЗ: https://disk.yandex.ru/i/ePwSkhXawxTvdg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ePwSkhXawxTvdg
+URL:https://disk.yandex.ru/i/ePwSkhXawxTvdg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:55e1b6dfa2db1cb6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+DESCRIPTION:МОНТАЖ ТЕАТРАЛЬНЫЙ СЕЗОН
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:45f137b801ee7e3c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261008T110000
+DTEND;TZID=Europe/Moscow:20261008T130000
+SUMMARY:Молодая гвардия. Локация: 3. Сущёвская ул.\, 19\, стр. 5 ТЗ:
+DESCRIPTION:11:00 - 13:00 Молодая гвардия. Локация: 3. Сущёвская ул.\, 19\, стр. 5 ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ\n\n📍 Адрес: 3. Сущёвская ул.\, 19\, стр. 5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ
+LOCATION:3. Сущёвская ул.\, 19\, стр. 5
+URL:https://disk.yandex.ru/i/-vbsumgR7Et_BQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f150e15ee0c4f8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261008T140000
+DTEND;TZID=Europe/Moscow:20261008T160000
+SUMMARY:до 16.00 Обработка Московский урожай осень
+DESCRIPTION:до 16.00 Обработка Московский урожай осень
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4b2100959889684@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:ОТГУЛ за 24.05
+DESCRIPTION:ОТГУЛ за 24.05
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77c219b19aef6fe0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Монтаж таксидермист
+DESCRIPTION:Монтаж таксидермист
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9baf08e1e77b13@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Событие
+DESCRIPTION:https://disk.yandex.ru/i/uHhIAiWP2CbGyQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/uHhIAiWP2CbGyQ
+URL:https://disk.yandex.ru/i/uHhIAiWP2CbGyQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7b11e96d4e98a8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261009T100000
+DTEND;TZID=Europe/Moscow:20261009T130000
+SUMMARY:ФотоРеп Музей транспорта Локация: Новорязанская ул.\, 27 тз:
+DESCRIPTION:10:00-13:00 ФотоРеп Музей транспорта Локация: Новорязанская ул.\, 27 тз: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg\n\n📍 Адрес: Новорязанская ул.\, 27\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg
+LOCATION:Новорязанская ул.\, 27
+URL:https://disk.yandex.ru/i/iQtAMOKBH_L2Sg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0954614c489d735@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261009T110000
+DTEND;TZID=Europe/Moscow:20261009T133000
+SUMMARY:ВИДЕО Геодезист для ролика  Профессии большого города
+DESCRIPTION:11.00 ВИДЕО Геодезист для ролика  Профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1904527371f359@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261009T160000
+DTEND;TZID=Europe/Moscow:20261009T180000
+SUMMARY:Обработка и сдача Молодая гвардия до 18:00
+DESCRIPTION:Обработка и сдача Молодая гвардия до 18:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea51f1463f6e9080@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:374132a9f366a26d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261010T133000
+DTEND;TZID=Europe/Moscow:20261010T170000
+SUMMARY:Видеовиджет на платформу «Активный гражданин - детям»
+DESCRIPTION:13.30-17.00 Видеовиджет на платформу «Активный гражданин - детям» \nТЗ: https://disk.yandex.ru/i/hf_aaIo9YiaLsQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/hf_aaIo9YiaLsQ
+URL:https://disk.yandex.ru/i/hf_aaIo9YiaLsQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce27634b2e34a6a4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd4f2d8ad7f03d4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:386173ca45ffe013@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Монтаж профессии большого города
+DESCRIPTION:Монтаж профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93d6c237d28b40e7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Монтаж Таксидермист
+DESCRIPTION:Монтаж Таксидермист
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:24a08b5f39d00f89@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261012T100000
+DTEND;TZID=Europe/Moscow:20261012T130000
+SUMMARY:Съёмка для фотопульс Локации: – Патриаршие пруды (55.764229\, 37.591184) - жанровые скул...
+DESCRIPTION:10:00 - 13:00 Съёмка для фотопульс Локации: – Патриаршие пруды (55.764229\, 37.591184) - жанровые скульптуры к басням Крылова (самого Крылова снимать не нужно)Рядом\, через двор– Малая Сухаревская площадь\, 3 (55.773339\, 37.630226) (скульптура Атом Солнца Олега Табакова)Страстной бульвар (55.768175\, 37.612906) (Памятник Владимиру Высоцкому) ТЗ: https://disk.yandex.ru/i/NkShAt2ExwR0dg\n\n📍 Адрес: – Патриаршие пруды (55.764229\, 37.591184) - жанровые скульптуры к басням Крылова (самого Крылова снимать не нужно)Рядом\, через двор– Малая Сухаревская площадь\, 3 (55.773339\, 37.630226) (скульптура Атом Солнца Олега Табакова)Страстной бульвар (55.768175\, 37.612906) (Памятник Владимиру Высоцкому)\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NkShAt2ExwR0dg
+LOCATION:– Патриаршие пруды (55.764229\, 37.591184) - жанровые скульптуры к басням Крылова (самого Крылова снимать не нужно)Рядом\, через двор– Малая Сухаревская площадь\, 3 (55.773339\, 37.630226) (скульптура Атом Солнца Олега Табакова)Страстной бульвар (55.768175\, 37.612906) (Памятник Владимиру Высоцкому)
+URL:https://disk.yandex.ru/i/NkShAt2ExwR0dg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:071209289a23f2b9@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261012T110000
+DTEND;TZID=Europe/Moscow:20261012T120000
+SUMMARY:Царицыно Оранжерея (Истории Тагирова) Локация: Дольская ул.\, д. 1\, стр. 31\, метро Орехо...
+DESCRIPTION:11:00-12:00  Царицыно Оранжерея (Истории Тагирова) Локация: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2 ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw\n\n📍 Адрес: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw
+LOCATION:Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2
+URL:https://disk.yandex.ru/i/NvcGlCZZu0bMqw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:434aa7696ecc2f5e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261012T150000
+DTEND;TZID=Europe/Moscow:20261012T170000
+SUMMARY:Обработка и сдача Фотопульс до 17:00
+DESCRIPTION:Обработка и сдача Фотопульс до 17:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6865e4ac711a116b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261012T160000
+DTEND;TZID=Europe/Moscow:20261012T180000
+SUMMARY:ФотоРеп Музей транспорта обработка и сдача до 18:00
+DESCRIPTION:ФотоРеп Музей транспорта обработка и сдача до 18:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e69d38bef61f7c7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Фото Масловка локация:  улица Верхняя Масловка\, 3 ТЗ:
+DESCRIPTION:Фото Масловка локация:  улица Верхняя Масловка\, 3 ТЗ: https://disk.yandex.ru/d/Pz-X38E08S8AjA\n\n📍 Адрес: улица Верхняя Масловка\, 3\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/Pz-X38E08S8AjA
+LOCATION:улица Верхняя Масловка\, 3
+URL:https://disk.yandex.ru/d/Pz-X38E08S8AjA
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f22549799541fa@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Монтаж профессии большого города
+DESCRIPTION:Монтаж профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:48ad1ab679b7279a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261013T090000
+DTEND;TZID=Europe/Moscow:20261013T110000
+SUMMARY:Обработка и сдача оранжерея Царицыно до 11:00 ТЗ:
+DESCRIPTION:Обработка и сдача оранжерея Царицыно до 11:00 ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw
+URL:https://disk.yandex.ru/i/NvcGlCZZu0bMqw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e30b50c76dea88f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261013T130000
+DTEND;TZID=Europe/Moscow:20261013T153000
+SUMMARY:Фото наград в офисе с
+DESCRIPTION:Фото наград в офисе с 13:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:856d3ce6d8ab993d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261013T140000
+DTEND;TZID=Europe/Moscow:20261013T150000
+SUMMARY:Просмотр локации театр Гоголь
+DESCRIPTION:14:00-15:00 Просмотр локации театр Гоголь
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b284705df7acd61c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Обработка и сдача Масловка
+DESCRIPTION:Обработка и сдача Масловка
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a22d73ea6f479f6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2e52edd292bb17@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Монтаж профессии большого города И СДАЧА РОЛИКА!!!!!
+DESCRIPTION:Монтаж профессии большого города И СДАЧА РОЛИКА!!!!!
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e61873de3ed820a3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5d30d700ee4ef7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:21406157f3543581@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Монтаж будильщица
+DESCRIPTION:Монтаж будильщица
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5e0b5aa16f3f1a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fae7eb5612fbe4ab@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261015T110000
+DTEND;TZID=Europe/Moscow:20261015T140000
+SUMMARY:Мастерская керамики тз: Рязанский проспект 105с1 тз:
+DESCRIPTION:11:00-14:00 Мастерская керамики тз: Рязанский проспект 105с1 тз: https://disk.yandex.ru/d/XNJSAwQfbLReeQ\n\n📍 Адрес: 11:00-14:00 Мастерская керамики\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/XNJSAwQfbLReeQ
+LOCATION:11:00-14:00 Мастерская керамики
+URL:https://disk.yandex.ru/d/XNJSAwQfbLReeQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98b7ecac7b31c6ef@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261015T110000
+DTEND;TZID=Europe/Moscow:20261015T140000
+SUMMARY:Мастерская керамики  ТЗ: Рязанский проспект 105с1 ТЗ:
+DESCRIPTION:11:00-14:00 Мастерская керамики  ТЗ: Рязанский проспект 105с1 ТЗ: https://disk.yandex.ru/d/XNJSAwQfbLReeQ\n\n📍 Адрес: 11:00-14:00 Мастерская керамики\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/XNJSAwQfbLReeQ
+LOCATION:11:00-14:00 Мастерская керамики
+URL:https://disk.yandex.ru/d/XNJSAwQfbLReeQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8cbe55411af0751b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Обработка и сдача мастерская керамики
+DESCRIPTION:Обработка и сдача мастерская керамики
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc28d7b2660ddf2a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Монтаж Керамика
+DESCRIPTION:Монтаж Керамика
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:21ff7e8ce4451245@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98908445bb9ae657@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:30601956b400a25a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea475d33a8af9860@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c91539feff2ab3e9@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:ФотоПроект "Царица огней"
+DESCRIPTION:ФотоПроект "Царица огней" https://disk.yandex.ru/i/DT5xSqd8fPgORw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DT5xSqd8fPgORw
+URL:https://disk.yandex.ru/i/DT5xSqd8fPgORw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:528a3006ff2bc3a7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Монтаж будильщица
+DESCRIPTION:Монтаж будильщица
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cccd96b60dd8e97f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Монтаж Керамика
+DESCRIPTION:Монтаж Керамика
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4c723656b1d43d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:ФотоПроект "Царица огней"
+DESCRIPTION:ФотоПроект "Царица огней" https://disk.yandex.ru/i/DT5xSqd8fPgORw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DT5xSqd8fPgORw
+URL:https://disk.yandex.ru/i/DT5xSqd8fPgORw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:777ee05b42b8a9c8@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261020T100000
+DTEND;TZID=Europe/Moscow:20261020T120000
+SUMMARY:до 12.00 не может в больнице
+DESCRIPTION:до 12.00 не может в больнице
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:783137a623f85d35@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261020T103000
+DTEND;TZID=Europe/Moscow:20261020T130000
+SUMMARY:ВИДЕО Голосование Золотая черепаха  Локация: офис
+DESCRIPTION:10:30 - 13:00 ВИДЕО Голосование Золотая черепаха https://disk.yandex.ru/i/Yq9tzRKW91Ne0A Локация: офис\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Yq9tzRKW91Ne0A
+LOCATION:офис
+URL:https://disk.yandex.ru/i/Yq9tzRKW91Ne0A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a5d09c9ffaaf74f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261020T103000
+DTEND;TZID=Europe/Moscow:20261020T130000
+SUMMARY:Голосование Золотая Черепаха Локация: Офис
+DESCRIPTION:10:30-13:00 Голосование Золотая Черепаха Локация: Офис\n\n📍 Адрес: Офис
+LOCATION:Офис
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd0d1847afc5afdd@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:ФотоПроект "Царица огней"
+DESCRIPTION:ФотоПроект "Царица огней" https://disk.yandex.ru/i/DT5xSqd8fPgORw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DT5xSqd8fPgORw
+URL:https://disk.yandex.ru/i/DT5xSqd8fPgORw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ebdc01e6e2df7d38@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261021T114000
+DTEND;TZID=Europe/Moscow:20261021T160000
+SUMMARY:Съёмка промо театр Гоголя к голосованию  Локация: ул. Казакова\, 8\, Москва
+DESCRIPTION:11:40-16:00 Съёмка промо театр Гоголя к голосованию  Локация: ул. Казакова\, 8\, Москва https://disk.yandex.ru/i/WiHDAcU1ww3pZw\n\n📍 Адрес: ул. Казакова\, 8\, Москва https://disk.yandex.ru/i/WiHDAcU1ww3pZw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WiHDAcU1ww3pZw
+LOCATION:ул. Казакова\, 8\, Москва https://disk.yandex.ru/i/WiHDAcU1ww3pZw
+URL:https://disk.yandex.ru/i/WiHDAcU1ww3pZw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc07351c2251a519@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261021T120000
+DTEND;TZID=Europe/Moscow:20261021T140000
+SUMMARY:до 14.00 Монтаж Голосование Выбираем имя сипухе
+DESCRIPTION:до 14.00 Монтаж Голосование Выбираем имя сипухе\nТЗ https://disk.yandex.ru/d/a9_nYSphOFooVQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/a9_nYSphOFooVQ
+URL:https://disk.yandex.ru/d/a9_nYSphOFooVQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68971fc2741731eb@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261021T164000
+DTEND;TZID=Europe/Moscow:20261021T190000
+SUMMARY:Съемки театр Маяквского  Локация Большая Никитская ул.\, 19/13с1
+DESCRIPTION:16:40-19:00 Съемки театр Маяквского https://disk.yandex.ru/i/NAYyETprh6sMcQ Локация Большая Никитская ул.\, 19/13с1\n\n📍 Адрес: 16:40-19:00 Съемки театр Маяквского https://disk.yandex.ru/i/NAYyETprh6sMcQ Локация Большая Никитская ул.\, 19/13с1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NAYyETprh6sMcQ
+LOCATION:16:40-19:00 Съемки театр Маяквского https://disk.yandex.ru/i/NAYyETprh6sMcQ Локация Большая Никитская ул.\, 19/13с1
+URL:https://disk.yandex.ru/i/NAYyETprh6sMcQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:254afc32ddf81aef@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Монтаж Театр Маяковского
+DESCRIPTION:Монтаж Театр Маяковского https://disk.yandex.ru/i/NAYyETprh6sMcQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NAYyETprh6sMcQ
+URL:https://disk.yandex.ru/i/NAYyETprh6sMcQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8d6c51dd062c22@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Монтаж промо Гоголя
+DESCRIPTION:Монтаж промо Гоголя
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11a22d98c65d98db@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261022T160000
+DTEND;TZID=Europe/Moscow:20261022T183000
+SUMMARY:Фото Бутафор Театр Гоголя (театральный сезон)
+DESCRIPTION:16:00 Фото Бутафор Театр Гоголя (театральный сезон) \nлокация:  3. ул. Казакова\, 8\n\n📍 Адрес: 3. ул. Казакова\, 8
+LOCATION:3. ул. Казакова\, 8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:866a8e184afbac89@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261022T160000
+DTEND;TZID=Europe/Moscow:20261022T190000
+SUMMARY:Видео съемка  Бутафор Театр Гоголя  (Театральный сезон)
+DESCRIPTION:16:00 -19.00 Видео съемка  Бутафор Театр Гоголя  (Театральный сезон) \nЛокация: 3. ул. Казакова\, 8\n\n📍 Адрес: 3. ул. Казакова\, 8
+LOCATION:3. ул. Казакова\, 8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd0273063847b84@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261023T090000
+DTEND;TZID=Europe/Moscow:20261023T180000
+SUMMARY:Монтаж и сдача золотая черепеха к голосованию
+DESCRIPTION:9.00-18.00 Монтаж и сдача золотая черепеха к голосованию
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6272ac5d56abdbc@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261023T114000
+DTEND;TZID=Europe/Moscow:20261023T140000
+SUMMARY:Съёмки Театр Модерн    Локация: : Спартаковская площадь\, 9/1
+DESCRIPTION:11:40-14:00 Съёмки Театр Модерн https://disk.yandex.ru/i/sbV0XzY0kShU9A   Локация: : Спартаковская площадь\, 9/1\n\n📍 Адрес: : Спартаковская площадь\, 9/1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/sbV0XzY0kShU9A
+LOCATION:: Спартаковская площадь\, 9/1
+URL:https://disk.yandex.ru/i/sbV0XzY0kShU9A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:416af527107d268b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261023T120000
+DTEND;TZID=Europe/Moscow:20261023T140000
+SUMMARY:до 14.00 Обработка Фото Бутафор
+DESCRIPTION:до 14.00 Обработка Фото Бутафор
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f31156ffafa5ee7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:695c3cbac665041a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4fda8ca9491e3d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b91d83468b9bf15@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93a37805f8aa257b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:ФОТО Голосование Кинотератр Россия (Данилюк)
+DESCRIPTION:ФОТО Голосование Кинотератр Россия (Данилюк) \nТЗ https://disk.yandex.ru/d/kUxwaf_mzF96YQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/kUxwaf_mzF96YQ
+URL:https://disk.yandex.ru/d/kUxwaf_mzF96YQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:137dd8dcbc4615ea@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Обработка и сдача художник-марочник + Кинотеатр РОсиия
+DESCRIPTION:Обработка и сдача художник-марочник + Кинотеатр РОсиия
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6a937456efcd2a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Монтаж и сдача промо Гоголя
+DESCRIPTION:Монтаж и сдача промо Гоголя
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c41c922ec726de5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261026T082000
+DTEND;TZID=Europe/Moscow:20261026T110000
+SUMMARY:ФОТО «95 лет Измайловскому парку»
+DESCRIPTION:8.20-11.00 ФОТО «95 лет Измайловскому парку»\nТЗ: https://disk.yandex.ru/d/72r_U4D6FJMzZg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/72r_U4D6FJMzZg
+URL:https://disk.yandex.ru/d/72r_U4D6FJMzZg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb0426008912e80@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261026T090000
+DTEND;TZID=Europe/Moscow:20261026T180000
+SUMMARY:Монтаж и сдача театр Маяковского
+DESCRIPTION:9.00-18.00 Монтаж и сдача театр Маяковского https://disk.yandex.ru/i/NAYyETprh6sMcQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NAYyETprh6sMcQ
+URL:https://disk.yandex.ru/i/NAYyETprh6sMcQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c13e37ecd744dfa@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261026T103000
+DTEND;TZID=Europe/Moscow:20261026T130000
+SUMMARY:ФОТО Художник-марочник
+DESCRIPTION:10:30 ФОТО Художник-марочник \nБольшая Грузинская ул.\, 4-6с9\nhttps://disk.yandex.ru/d/9p3J1Xe1yOcYeg\n\n📍 Адрес: Большая Грузинская ул.\, 4-6с9\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/9p3J1Xe1yOcYeg
+LOCATION:Большая Грузинская ул.\, 4-6с9
+URL:https://disk.yandex.ru/d/9p3J1Xe1yOcYeg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fffa42761f517f6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261026T120000
+DTEND;TZID=Europe/Moscow:20261026T150000
+SUMMARY:ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00
+DESCRIPTION:12.00-15.00 ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00  https://disk.yandex.ru/d/0wuW0XvCgLkLJQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/0wuW0XvCgLkLJQ
+URL:https://disk.yandex.ru/d/0wuW0XvCgLkLJQ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e2b4ee591b26070@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Монтаж театр Модерн
+DESCRIPTION:Монтаж театр Модерн https://disk.yandex.ru/i/sbV0XzY0kShU9A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/sbV0XzY0kShU9A
+URL:https://disk.yandex.ru/i/sbV0XzY0kShU9A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ce032761016ce0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261027T110000
+DTEND;TZID=Europe/Moscow:20261027T130000
+SUMMARY:ФОТО пенсионер-спортсмен (Мифтахутдинова)
+DESCRIPTION:11.00-13.00 ФОТО пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw
+LOCATION:3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1
+URL:https://disk.yandex.ru/d/wHyeEjSkjgyafw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:86614d500ad824f2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261027T110000
+DTEND;TZID=Europe/Moscow:20261027T130000
+SUMMARY:ВИДЕО пенсионер-спортсмен (Мифтахутдинова)
+DESCRIPTION:11.00-13.00 ВИДЕО пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw
+LOCATION:3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1
+URL:https://disk.yandex.ru/d/wHyeEjSkjgyafw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05d35f516e8f12cc@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261027T130000
+DTEND;TZID=Europe/Moscow:20261027T150000
+SUMMARY:До 15.00 ОБработка «95 лет Измайловскому парку»
+DESCRIPTION:До 15.00 ОБработка «95 лет Измайловскому парку»
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb32f52650bf4633@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261027T160000
+DTEND;TZID=Europe/Moscow:20261027T180000
+SUMMARY:до 18.00 Монтаж:  виджет проекта Профессии большого города
+DESCRIPTION:до 18.00 Монтаж:  виджет проекта Профессии большого города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:839bddd551a86adb@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:ОТГУЛ за 06.06
+DESCRIPTION:ОТГУЛ за 06.06
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8922d4f8608704db@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Монтаж и сдача "Бутафор"
+DESCRIPTION:Монтаж и сдача "Бутафор" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wE3Bl_7OSC7gzw
+URL:https://disk.yandex.ru/d/wE3Bl_7OSC7gzw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a97eaac5ec640eba@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Монтаж и сдача театр Модерн
+DESCRIPTION:Монтаж и сдача театр Модерн https://disk.yandex.ru/i/sbV0XzY0kShU9A\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/sbV0XzY0kShU9A
+URL:https://disk.yandex.ru/i/sbV0XzY0kShU9A
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:577bc7a1be85b857@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261028T140000
+DTEND;TZID=Europe/Moscow:20261028T160000
+SUMMARY:Обработка и сдача "ФотоРеп Царская набережная" до 16:00
+DESCRIPTION:Обработка и сдача "ФотоРеп Царская набережная" до 16:00
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6950e3e2ec1095a4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:ОТГУЛ за 15.08
+DESCRIPTION:ОТГУЛ за 15.08
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e72520fd1df04d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова)
+DESCRIPTION:Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw
+LOCATION:3) Новая Москва. поселение Воскресенское\, д. Лаптево\, СНТ Весна\, ул. Берёзовая аллея д. 1
+URL:https://disk.yandex.ru/d/wHyeEjSkjgyafw
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:15877b9684d914d7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Монтаж промо роликов под форматы театров
+DESCRIPTION:Монтаж промо роликов под форматы театров
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b328e8d334580be@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261029T170000
+DTEND;TZID=Europe/Moscow:20261029T193000
+SUMMARY:Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова\, 8
+DESCRIPTION:17:00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова\, 8\n\n📍 Адрес: ул. Казакова\, 8
+LOCATION:ул. Казакова\, 8
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:37e620dbb05f9cc5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:ОТГУЛ за 29.08
+DESCRIPTION:ОТГУЛ за 29.08
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77d4f580a90905df@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем
+DESCRIPTION:Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8a8f70870f6677@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Обработка и сдача "Театр помощник режиссера Гоголя"
+DESCRIPTION:Обработка и сдача "Театр помощник режиссера Гоголя"
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:298b49da20be3229@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1676c39c4b6d8f7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1c755e5e40c189@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8491d6ee689dfd7b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a1f85e01e577ff0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:806a5bb2e105a63e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261102T100000
+DTEND;TZID=Europe/Moscow:20261102T120000
+SUMMARY:до 12.00 фото пенсионер-спортсмен
+DESCRIPTION:до 12.00 фото пенсионер-спортсмен
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a120eb05e4ce4d0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:52b2e09c01b74078@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:153ee6792df54bf7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb27cc90a067825@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Видео Ролик  Царица
+DESCRIPTION:Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари\, инсталляции\, подсветка метро\, зданий\, мостов и т.п.)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4513a9eae233d5d5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Ролик по
+DESCRIPTION:Ролик по\nшаблону к Пульсу пиксель арт  – Театральная\nпауза
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12d128c55786b36f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2249aa6cd637bbf4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Видео Ролик  Царица
+DESCRIPTION:Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари\, инсталляции\, подсветка метро\, зданий\, мостов и т.п.)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9cb013d7c7bc9b2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ "Дорожные истории")
+DESCRIPTION:ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ "Дорожные истории")
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8bb68aff9c7ac1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:322ef21667969d25@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7302e5079b7c650@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6aadffb9f4cfb59e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:570a092770e2fa5a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6293edf226aaf6ee@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Монтаж РОлик Царица огней
+DESCRIPTION:Монтаж РОлик Царица огней
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eec4e82cbc5619d7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Фоторепортаж из театра Модерн "Скотный двор"
+DESCRIPTION:Фоторепортаж из театра Модерн "Скотный двор"
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cba2b08a84f81ba1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Съёмка новогодний ролик
+DESCRIPTION:Съёмка новогодний ролик
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c984b140d6d949c3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Монтаж новогодний ролик
+DESCRIPTION:Монтаж новогодний ролик
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2b354e7a0059ec@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Монтаж новогодний ролик
+DESCRIPTION:Монтаж новогодний ролик
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c93c3cb21652323b@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Монтаж новогодний ролик
+DESCRIPTION:Монтаж новогодний ролик
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a9851f51b081b5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:696a9900ee9dfa73@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f18c45175bc1e3f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87d5f0608999777d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fec4159fd8383c45@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Разработка визуала к меропритию АГ
+DESCRIPTION:Разработка визуала к меропритию АГ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbd43181a04d10e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Разработка визуала к меропритию АГ
+DESCRIPTION:Разработка визуала к меропритию АГ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec70e12df20efbcf@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Разработка визуала к меропритию АГ
+DESCRIPTION:Разработка визуала к меропритию АГ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a42b5587bcba13f0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:ОТПСУК
+DESCRIPTION:ОТПСУК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:72aaf92a22df66a1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64878f030e4bc8a4@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef0597b69eefd1f@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:142272f49bd58a25@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8b6fcf5c413f81@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:043dbd6a8652878a@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8d14c9da1b9d2a2@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70bbe312d66e8080@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a25ced81471c3f7@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:245e3f349cef6b41@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3532040a2a07f030@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:мероприятие сиц центр
+DESCRIPTION:мероприятие сиц центр
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c21105e582753f1@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Ролик
+DESCRIPTION:Ролик\nпо шаблону к Пульсу пиксель арт  –  Царица огней
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8b4adb28193d9db@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb28bb3beb8afa0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee192d42d017a56@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:60afb5bf7c41b4de@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f78cd72842d38716@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров\,
+DESCRIPTION:Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров\,\nгирлянды\, елочные шары и прочие игрушки - всё на улицах города\n\n📍 Адрес: гирлянды\, елочные шары и прочие игрушки - всё на улицах города
+LOCATION:гирлянды\, елочные шары и прочие игрушки - всё на улицах города
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2637aab6502398fc@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Монтаж Ролик Волшебный шар (старт пульса)
+DESCRIPTION:Монтаж Ролик Волшебный шар (старт пульса)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:08fa2f00b9c996e3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Монтаж Ролик Волшебный шар (старт пульса)
+DESCRIPTION:Монтаж Ролик Волшебный шар (старт пульса)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:376e0d958742e6a5@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:caeda8bf4a9ff54d@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba86a206e056ac0e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec1245dcf48b4cb0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:078529583af5a0a0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261215T100000
+DTEND;TZID=Europe/Moscow:20261215T140000
+SUMMARY:Съемка мероприятия АГ детям
+DESCRIPTION:10.00-14.00 Съемка мероприятия АГ детям \nТЗ:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c71d933a5f60df42@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261215T100000
+DTEND;TZID=Europe/Moscow:20261215T140000
+SUMMARY:Съемка мероприятия АГ детям
+DESCRIPTION:10.00-14.00 Съемка мероприятия АГ детям \nТЗ:
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:52c94c448882a6ff@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98d1ea5e86365b37@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:57713dc5fe4556da@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc0684509c96f7c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa8246845415ed6@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261222T160000
+DTEND;TZID=Europe/Moscow:20261222T190000
+SUMMARY:Съемка мероприятия Город заданий
+DESCRIPTION:16.00-19.00 Съемка мероприятия Город заданий
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b2067d86d5ea31@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;TZID=Europe/Moscow:20261222T160000
+DTEND;TZID=Europe/Moscow:20261222T190000
+SUMMARY:Съемка мероприятия Город заданий
+DESCRIPTION:16.00-19.00 Съемка мероприятия Город заданий
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f62ac3a343faac3@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8cbaae02a0ec8147@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bad0fe59bc988d22@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:26961d3c734cdd76@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:37e5434d5213505c@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd35d0f5da63a1ed@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:98261eb3403690e0@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9493548d32761211@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:ДЕЖ
+DESCRIPTION:ДЕЖ
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3199c026681b0e@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0fdf35941b5195@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7850f1c36d2da073@yandex-ag
+DTSTAMP:20261026T112127Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:ОТПУСК
+DESCRIPTION:ОТПУСК
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
