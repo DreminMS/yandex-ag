@@ -117,28 +117,68 @@
 
       <div class="settings-header">Подписка на Календарь (онлайн 24/7)</div>
       <div class="settings-group" style="padding: 14px 16px;">
-        <div style="font-size:14px;font-weight:600;margin-bottom:6px">Календарь для Миши:</div>
-        <div style="display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap">
-          <a class="modal-btn primary" href="https://calendar.google.com/calendar/r/settings/addbyurl" target="_blank" rel="noopener noreferrer" style="text-decoration:none;font-size:13px;padding:8px 12px">
-            Добавить в Google Календарь ↗
-          </a>
-          <a class="modal-btn secondary" href="webcal://dreminms.github.io/yandex-ag/misha.ics" style="text-decoration:none;font-size:13px;padding:8px 12px">
-            Apple Календарь (webcal)
-          </a>
+        <div style="font-size:13px;color:var(--ios-text-secondary);margin-bottom:12px;line-height:1.4">
+          Календари обновляются в облаке каждые 2 часа. Добавьте свой календарь по ссылке в Google или Apple Календарь — и расписание всегда будет под рукой.
         </div>
-        <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:4px">Ссылка для подписки (iCal):</div>
-        <div style="display:flex;gap:6px;align-items:center;margin-bottom:12px">
-          <input type="text" readonly value="https://dreminms.github.io/yandex-ag/misha.ics" id="calUrlMisha" style="flex:1;font-size:12px;padding:6px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.15);background:rgba(128,128,128,0.08);color:inherit">
-          <button class="modal-btn secondary" onclick="navigator.clipboard.writeText('https://dreminms.github.io/yandex-ag/misha.ics');alert('Ссылка скопирована!');" style="padding:6px 10px;font-size:12px">Копировать</button>
+        
+        <!-- Selection pills for participants -->
+        <div style="display:flex;gap:6px;margin-bottom:12px;overflow-x:auto;padding-bottom:4px">
+          <button class="modal-btn primary" id="subBtnMisha" onclick="selectCalendarPerson('misha')" style="font-size:13px;padding:6px 12px;font-weight:600">Миша</button>
+          <button class="modal-btn secondary" id="subBtnTanya" onclick="selectCalendarPerson('tanya')" style="font-size:13px;padding:6px 12px">Таня</button>
+          <button class="modal-btn secondary" id="subBtnIlya" onclick="selectCalendarPerson('ilya')" style="font-size:13px;padding:6px 12px">Илья</button>
+          <button class="modal-btn secondary" id="subBtnDima" onclick="selectCalendarPerson('dima')" style="font-size:13px;padding:6px 12px">Дима</button>
+          <button class="modal-btn secondary" id="subBtnAll" onclick="selectCalendarPerson('all')" style="font-size:13px;padding:6px 12px">Все</button>
         </div>
-        <div style="font-size:13px;font-weight:600;margin-bottom:6px">Календари коллег:</div>
-        <div style="font-size:12px;display:flex;flex-direction:column;gap:6px">
-          <div>👩 Таня: <a href="https://dreminms.github.io/yandex-ag/tanya.ics" target="_blank" style="color:var(--ios-blue)">tanya.ics</a> | <a href="webcal://dreminms.github.io/yandex-ag/tanya.ics" style="color:var(--ios-blue)">webcal</a></div>
-          <div>👨 Илья: <a href="https://dreminms.github.io/yandex-ag/ilya.ics" target="_blank" style="color:var(--ios-blue)">ilya.ics</a> | <a href="webcal://dreminms.github.io/yandex-ag/ilya.ics" style="color:var(--ios-blue)">webcal</a></div>
-          <div>👨 Дима: <a href="https://dreminms.github.io/yandex-ag/dima.ics" target="_blank" style="color:var(--ios-blue)">dima.ics</a> | <a href="webcal://dreminms.github.io/yandex-ag/dima.ics" style="color:var(--ios-blue)">webcal</a></div>
-          <div>👥 Вся команда: <a href="https://dreminms.github.io/yandex-ag/all.ics" target="_blank" style="color:var(--ios-blue)">all.ics</a> | <a href="webcal://dreminms.github.io/yandex-ag/all.ics" style="color:var(--ios-blue)">webcal</a></div>
+
+        <div id="subPersonContainer">
+          <div style="font-size:14px;font-weight:600;margin-bottom:8px" id="subPersonTitle">Календарь: Миша</div>
+          <div style="display:flex;gap:8px;margin-bottom:10px;flex-wrap:wrap">
+            <a class="modal-btn primary" id="subGoogleLink" href="https://calendar.google.com/calendar/r/settings/addbyurl" target="_blank" rel="noopener noreferrer" style="text-decoration:none;font-size:13px;padding:8px 12px">
+              Добавить в Google Календарь ↗
+            </a>
+            <a class="modal-btn secondary" id="subAppleLink" href="webcal://dreminms.github.io/yandex-ag/misha.ics" style="text-decoration:none;font-size:13px;padding:8px 12px">
+              Apple Календарь (webcal)
+            </a>
+          </div>
+          <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:4px">Прямая ссылка для подписки (iCal):</div>
+          <div style="display:flex;gap:6px;align-items:center">
+            <input type="text" readonly value="https://dreminms.github.io/yandex-ag/misha.ics" id="subInputUrl" style="flex:1;font-size:12px;padding:7px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.15);background:rgba(128,128,128,0.08);color:inherit">
+            <button class="modal-btn secondary" onclick="navigator.clipboard.writeText(document.getElementById('subInputUrl').value);alert('Ссылка скопирована!');" style="padding:7px 12px;font-size:12px">Копировать</button>
+          </div>
         </div>
       </div>
+
+      <script>
+        function selectCalendarPerson(key) {
+          const names = {
+            misha: 'Миша',
+            tanya: 'Таня',
+            ilya: 'Илья',
+            dima: 'Дима',
+            all: 'Вся команда'
+          };
+          const title = names[key] || key;
+          const url = 'https://dreminms.github.io/yandex-ag/' + key + '.ics';
+          const webcal = 'webcal://dreminms.github.io/yandex-ag/' + key + '.ics';
+
+          document.getElementById('subPersonTitle').textContent = 'Календарь: ' + title;
+          document.getElementById('subInputUrl').value = url;
+          document.getElementById('subAppleLink').href = webcal;
+
+          ['misha', 'tanya', 'ilya', 'dima', 'all'].forEach(function(k) {
+            var btn = document.getElementById('subBtn' + k.charAt(0).toUpperCase() + k.slice(1));
+            if (btn) {
+              if (k === key) {
+                btn.classList.add('primary');
+                btn.classList.remove('secondary');
+              } else {
+                btn.classList.add('secondary');
+                btn.classList.remove('primary');
+              }
+            }
+          });
+        }
+      </script>
 
       <div class="settings-header">Синхронизация</div>
       <div class="settings-group">
