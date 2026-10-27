@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:42:34.481837",
+  "updated_at": "2026-10-27T16:41:48.282145",
   "events_by_person": {
     "misha": [
       {
@@ -2987,6 +2987,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "611758494246a92f@yandex-ag",
+        "date": "2026-11-10",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "13:00 Мотбег",
+        "title": "Мотбег",
+        "description": "13:00 Мотбег",
+        "location": "",
+        "urls": [],
+        "start_time": "13:00",
+        "end_time": "15:30",
+        "is_all_day": false,
+        "row": "46",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "cd41e49f503f6ce2@yandex-ag",
         "date": "2026-11-23",
         "person_key": "tanya",
@@ -5525,6 +5541,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "57",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "e499711fef8a0852@yandex-ag",
+        "date": "2026-11-10",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "13:00 Мотбег",
+        "title": "Мотбег",
+        "description": "13:00 Мотбег",
+        "location": "",
+        "urls": [],
+        "start_time": "13:00",
+        "end_time": "15:30",
+        "is_all_day": false,
+        "row": "46",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -10679,6 +10711,38 @@
       "end_time": "16:30",
       "is_all_day": false,
       "row": "48",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "611758494246a92f@yandex-ag",
+      "date": "2026-11-10",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "13:00 Мотбег",
+      "title": "Мотбег",
+      "description": "13:00 Мотбег",
+      "location": "",
+      "urls": [],
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "is_all_day": false,
+      "row": "46",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "e499711fef8a0852@yandex-ag",
+      "date": "2026-11-10",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "13:00 Мотбег",
+      "title": "Мотбег",
+      "description": "13:00 Мотбег",
+      "location": "",
+      "urls": [],
+      "start_time": "13:00",
+      "end_time": "15:30",
+      "is_all_day": false,
+      "row": "46",
       "sheet": "Ноябрь 2026"
     },
     {
