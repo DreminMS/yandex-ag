@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:40:01.447367",
+  "updated_at": "2026-10-28T14:45:09.033617",
   "events_by_person": {
     "misha": [
       {
@@ -1209,15 +1209,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "5e9a2670abe4dfe6@yandex-ag",
+        "uid": "a80ac524002489a0@yandex-ag",
         "date": "2026-11-05",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "10:00-11:30 Фото пенсионера Портреты (Истории)",
+        "full_text": "10:00-11:30 Фото пенсионера Портреты (Истории) https://disk.yandex.ru/i/9eNZHa2okvTzEw",
         "title": "Фото пенсионера Портреты (Истории)",
-        "description": "10:00-11:30 Фото пенсионера Портреты (Истории)",
+        "description": "10:00-11:30 Фото пенсионера Портреты (Истории) https://disk.yandex.ru/i/9eNZHa2okvTzEw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/9eNZHa2okvTzEw",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/9eNZHa2okvTzEw"
+        ],
         "start_time": "10:00",
         "end_time": "11:30",
         "is_all_day": false,
@@ -10598,15 +10600,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "5e9a2670abe4dfe6@yandex-ag",
+      "uid": "a80ac524002489a0@yandex-ag",
       "date": "2026-11-05",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "10:00-11:30 Фото пенсионера Портреты (Истории)",
+      "full_text": "10:00-11:30 Фото пенсионера Портреты (Истории) https://disk.yandex.ru/i/9eNZHa2okvTzEw",
       "title": "Фото пенсионера Портреты (Истории)",
-      "description": "10:00-11:30 Фото пенсионера Портреты (Истории)",
+      "description": "10:00-11:30 Фото пенсионера Портреты (Истории) https://disk.yandex.ru/i/9eNZHa2okvTzEw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/9eNZHa2okvTzEw",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/9eNZHa2okvTzEw"
+      ],
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
