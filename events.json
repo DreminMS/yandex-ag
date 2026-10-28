@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T08:44:22.625953",
+  "updated_at": "2026-10-28T10:38:52.203761",
   "events_by_person": {
     "misha": [
       {
@@ -1254,6 +1254,24 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "00462a20e3559bd3@yandex-ag",
+        "date": "2026-11-10",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "13:00 ФОТО Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+        "title": "ФОТО Мотбег (мифтахутдинова)",
+        "description": "13:00 ФОТО Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+        ],
+        "start_time": "13:00",
+        "end_time": "15:30",
+        "is_all_day": false,
+        "row": "46",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2779,51 +2797,53 @@
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "c6f79909ad9ae5cf@yandex-ag",
+        "uid": "2b58ab8936a8c2e4@yandex-ag",
         "date": "2026-10-29",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "14:00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:",
-        "title": "Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:",
-        "description": "14:00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:\n\n📍 Адрес: ул. Казакова, 8",
+        "full_text": "15.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
+        "title": "Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8",
+        "description": "15.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: ул. Казакова, 8\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
         "location": "ул. Казакова, 8",
-        "urls": [],
-        "start_time": "14:00",
-        "end_time": "16:30",
+        "urls": [
+          "https://disk.yandex.ru/i/ad0fh4UGF955uA"
+        ],
+        "start_time": "15:00",
+        "end_time": "17:00",
         "is_all_day": false,
         "row": "9",
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "fc8a8f70870f6677@yandex-ag",
+        "uid": "9ddbe5c568aa4ed4@yandex-ag",
         "date": "2026-10-30",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-        "title": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-        "description": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "7",
-        "sheet": "Октябрь 2026"
-      },
-      {
-        "uid": "c3d28351fca31f64@yandex-ag",
-        "date": "2026-10-30",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "15:00 Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
-        "title": "Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
-        "description": "15:00 Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
+        "full_text": "15:00 Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
+        "title": "Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
+        "description": "15:00 Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
         "location": "",
         "urls": [],
         "start_time": "15:00",
         "end_time": "17:30",
         "is_all_day": false,
         "row": "6",
+        "sheet": "Октябрь 2026"
+      },
+      {
+        "uid": "4898aa1776dc3329@yandex-ag",
+        "date": "2026-10-30",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+        "title": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+        "description": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "7",
         "sheet": "Октябрь 2026"
       },
       {
@@ -2984,22 +3004,6 @@
         "end_time": "16:30",
         "is_all_day": false,
         "row": "48",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "611758494246a92f@yandex-ag",
-        "date": "2026-11-10",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "13:00 Мотбег",
-        "title": "Мотбег",
-        "description": "13:00 Мотбег",
-        "location": "",
-        "urls": [],
-        "start_time": "13:00",
-        "end_time": "15:30",
-        "is_all_day": false,
-        "row": "46",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4085,13 +4089,13 @@
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "8922d4f8608704db@yandex-ag",
+        "uid": "ba1aa3c78440ef08@yandex-ag",
         "date": "2026-10-28",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Монтаж и сдача \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
-        "title": "Монтаж и сдача \"Бутафор\"",
-        "description": "Монтаж и сдача \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
+        "full_text": "Монтаж \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
+        "title": "Монтаж \"Бутафор\"",
+        "description": "Монтаж \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
         "location": "",
         "urls": [
           "https://disk.yandex.ru/d/wE3Bl_7OSC7gzw"
@@ -4121,13 +4125,13 @@
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "05bf584444799369@yandex-ag",
+        "uid": "715e30c3af7985ca@yandex-ag",
         "date": "2026-11-03",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
-        "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик  Локация:",
+        "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
         "location": "",
         "urls": [
           "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
@@ -5426,7 +5430,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "15",
+        "row": "14",
         "sheet": "Октябрь 2026"
       },
       {
@@ -5444,7 +5448,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "12",
+        "row": "11",
         "sheet": "Октябрь 2026"
       },
       {
@@ -5496,19 +5500,19 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "9f9383d495b89819@yandex-ag",
+        "uid": "79537f5bafa64ab5@yandex-ag",
         "date": "2026-11-02",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
-        "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
-        "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) \nЛокация: Спартаковская площадь, 9/1 тз:",
+        "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории)",
+        "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) \nЛокация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
         "location": "Спартаковская площадь, 9/1",
         "urls": [],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "64",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5544,15 +5548,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "e499711fef8a0852@yandex-ag",
+        "uid": "054aab987b50a0dd@yandex-ag",
         "date": "2026-11-10",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "13:00 Мотбег",
-        "title": "Мотбег",
-        "description": "13:00 Мотбег",
+        "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+        "title": "ВИДЕО  Мотбег (мифтахутдинова)",
+        "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+        ],
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
@@ -5653,6 +5659,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "12",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "f6138da2cb04ee7f@yandex-ag",
+        "date": "2026-11-27",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Музыка в метро",
+        "title": "Монтаж Музыка в метро",
+        "description": "Монтаж Музыка в метро",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "10",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -9990,7 +10012,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "15",
+      "row": "14",
       "sheet": "Октябрь 2026"
     },
     {
@@ -10094,13 +10116,13 @@
       "sheet": "Октябрь 2026"
     },
     {
-      "uid": "8922d4f8608704db@yandex-ag",
+      "uid": "ba1aa3c78440ef08@yandex-ag",
       "date": "2026-10-28",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Монтаж и сдача \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
-      "title": "Монтаж и сдача \"Бутафор\"",
-      "description": "Монтаж и сдача \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
+      "full_text": "Монтаж \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
+      "title": "Монтаж \"Бутафор\"",
+      "description": "Монтаж \"Бутафор\" https://disk.yandex.ru/d/wE3Bl_7OSC7gzw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wE3Bl_7OSC7gzw",
       "location": "",
       "urls": [
         "https://disk.yandex.ru/d/wE3Bl_7OSC7gzw"
@@ -10126,7 +10148,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "12",
+      "row": "11",
       "sheet": "Октябрь 2026"
     },
     {
@@ -10214,17 +10236,19 @@
       "sheet": "Октябрь 2026"
     },
     {
-      "uid": "c6f79909ad9ae5cf@yandex-ag",
+      "uid": "2b58ab8936a8c2e4@yandex-ag",
       "date": "2026-10-29",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "14:00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:",
-      "title": "Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:",
-      "description": "14:00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 ТЗ:\n\n📍 Адрес: ул. Казакова, 8",
+      "full_text": "15.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
+      "title": "Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8",
+      "description": "15.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: ул. Казакова, 8\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
       "location": "ул. Казакова, 8",
-      "urls": [],
-      "start_time": "14:00",
-      "end_time": "16:30",
+      "urls": [
+        "https://disk.yandex.ru/i/ad0fh4UGF955uA"
+      ],
+      "start_time": "15:00",
+      "end_time": "17:00",
       "is_all_day": false,
       "row": "9",
       "sheet": "Октябрь 2026"
@@ -10246,35 +10270,35 @@
       "sheet": "Октябрь 2026"
     },
     {
-      "uid": "fc8a8f70870f6677@yandex-ag",
+      "uid": "9ddbe5c568aa4ed4@yandex-ag",
       "date": "2026-10-30",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-      "title": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-      "description": "Обработка и сдача \"Театр помощник режиссера Гоголя\"",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "7",
-      "sheet": "Октябрь 2026"
-    },
-    {
-      "uid": "c3d28351fca31f64@yandex-ag",
-      "date": "2026-10-30",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "15:00 Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
-      "title": "Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
-      "description": "15:00 Фото портрет Театр Гоголя Андрей Финягин + Обработка и сдача одним днем",
+      "full_text": "15:00 Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
+      "title": "Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
+      "description": "15:00 Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем",
       "location": "",
       "urls": [],
       "start_time": "15:00",
       "end_time": "17:30",
       "is_all_day": false,
       "row": "6",
+      "sheet": "Октябрь 2026"
+    },
+    {
+      "uid": "4898aa1776dc3329@yandex-ag",
+      "date": "2026-10-30",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+      "title": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+      "description": "до 18.00 Обработка и сдача \"Театр помощник режиссера Гоголя\"",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "7",
       "sheet": "Октябрь 2026"
     },
     {
@@ -10374,19 +10398,19 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "9f9383d495b89819@yandex-ag",
+      "uid": "79537f5bafa64ab5@yandex-ag",
       "date": "2026-11-02",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
-      "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:",
-      "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) Локация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "full_text": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) \nЛокация: Спартаковская площадь, 9/1 тз:",
+      "title": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории)",
+      "description": "Съёмка видео ТЕАТР МОДЕРН \"Мама Театра\" (Истории) \nЛокация: Спартаковская площадь, 9/1 тз:\n\n📍 Адрес: Спартаковская площадь, 9/1",
       "location": "Спартаковская площадь, 9/1",
       "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "64",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10456,13 +10480,13 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "05bf584444799369@yandex-ag",
+      "uid": "715e30c3af7985ca@yandex-ag",
       "date": "2026-11-03",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
-      "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "Съемка Сурдопереводчик  Локация:",
+      "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
       "location": "",
       "urls": [
         "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
@@ -10714,15 +10738,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "611758494246a92f@yandex-ag",
+      "uid": "00462a20e3559bd3@yandex-ag",
       "date": "2026-11-10",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "13:00 Мотбег",
-      "title": "Мотбег",
-      "description": "13:00 Мотбег",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "13:00 ФОТО Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+      "title": "ФОТО Мотбег (мифтахутдинова)",
+      "description": "13:00 ФОТО Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+      ],
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
@@ -10730,15 +10756,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "e499711fef8a0852@yandex-ag",
+      "uid": "054aab987b50a0dd@yandex-ag",
       "date": "2026-11-10",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "13:00 Мотбег",
-      "title": "Мотбег",
-      "description": "13:00 Мотбег",
+      "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+      "title": "ВИДЕО  Мотбег (мифтахутдинова)",
+      "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+      ],
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
@@ -11025,6 +11053,22 @@
       "full_text": "ОТПУСК",
       "title": "ОТПУСК",
       "description": "ОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "10",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "f6138da2cb04ee7f@yandex-ag",
+      "date": "2026-11-27",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Музыка в метро",
+      "title": "Монтаж Музыка в метро",
+      "description": "Монтаж Музыка в метро",
       "location": "",
       "urls": [],
       "start_time": null,
