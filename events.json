@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:40:20.633930",
+  "updated_at": "2026-10-30T14:48:58.564238",
   "events_by_person": {
     "misha": [
       {
@@ -1159,85 +1159,73 @@
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "806a5bb2e105a63e@yandex-ag",
+        "uid": "43f123b9c11924c6@yandex-ag",
         "date": "2026-11-02",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "до 12.00 фото пенсионер-спортсмен",
-        "title": "до 12.00 фото пенсионер-спортсмен",
-        "description": "до 12.00 фото пенсионер-спортсмен",
+        "full_text": "до 12.00 сдача фото пенсионер-спортсмен",
+        "title": "до 12.00 сдача фото пенсионер-спортсмен",
+        "description": "до 12.00 сдача фото пенсионер-спортсмен",
         "location": "",
         "urls": [],
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "66",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "2ed84da707026629@yandex-ag",
+        "uid": "a28d032413a17918@yandex-ag",
         "date": "2026-11-02",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+        "full_text": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw",
         "title": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
-        "description": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "description": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw\n\n📍 Адрес: Спартаковская площадь, 9/1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw",
         "location": "Спартаковская площадь, 9/1",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/5WlFyCZDFG4dgw"
+        ],
         "start_time": "14:00",
         "end_time": "16:00",
+        "is_all_day": false,
+        "row": "68",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "dec7fb4aeaf1ee1e@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "11.00-13.00 ФОТО Дом на набережной (Летников)  \nЛокация: 3. улица Серафимовича, 2\nТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+        "title": "ФОТО Дом на набережной (Летников)",
+        "description": "11.00-13.00 ФОТО Дом на набережной (Летников)  \nЛокация: 3. улица Серафимовича, 2\nТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ\n\n📍 Адрес: 3. улица Серафимовича, 2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+        "location": "3. улица Серафимовича, 2",
+        "urls": [
+          "https://disk.yandex.ru/i/nCuk1tWqJkRsCQ"
+        ],
+        "start_time": "11:00",
+        "end_time": "13:00",
         "is_all_day": false,
         "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "5a1f74ca9bd70859@yandex-ag",
+        "uid": "fd09a63d7bc29711@yandex-ag",
         "date": "2026-11-03",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "Обработка и сдача \"Театр модерн\" До 11:00",
-        "title": "Обработка и сдача \"Театр модерн\" До 11:00",
-        "description": "Обработка и сдача \"Театр модерн\" До 11:00",
-        "location": "",
-        "urls": [],
-        "start_time": "09:00",
-        "end_time": "11:00",
-        "is_all_day": false,
-        "row": "62",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "2575beb6d90e9b8f@yandex-ag",
-        "date": "2026-11-03",
-        "person_key": "misha",
-        "person_name": "Михаил Дремин",
-        "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
-        "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "location": "",
+        "full_text": "16:00-17.00  Съемка Сурдопереводчик  \nЛокация: офис \nЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик",
+        "description": "16:00-17.00  Съемка Сурдопереводчик  \nЛокация: офис \nЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "location": "офис",
         "urls": [
           "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
         ],
         "start_time": "16:00",
-        "end_time": "18:30",
+        "end_time": "17:00",
         "is_all_day": false,
-        "row": "63",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "ed9615542d6f44fb@yandex-ag",
-        "date": "2026-11-05",
-        "person_key": "misha",
-        "person_name": "Михаил Дремин",
-        "full_text": "Фотопроект Золотая черепаха",
-        "title": "Фотопроект Золотая черепаха",
-        "description": "Фотопроект Золотая черепаха",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "58",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1254,6 +1242,74 @@
         ],
         "start_time": "10:00",
         "end_time": "11:30",
+        "is_all_day": false,
+        "row": "59",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "f38546e752d8d136@yandex-ag",
+        "date": "2026-11-05",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "14.00-16.00 Фотопроект Золотая черепаха",
+        "title": "Фотопроект Золотая черепаха",
+        "description": "14.00-16.00 Фотопроект Золотая черепаха",
+        "location": "",
+        "urls": [],
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "is_all_day": false,
+        "row": "60",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "3f324aa1518f7915@yandex-ag",
+        "date": "2026-11-06",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+        "title": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+        "description": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+        "location": "",
+        "urls": [],
+        "start_time": "12:00",
+        "end_time": "14:00",
+        "is_all_day": false,
+        "row": "55",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "c88e7c6d333401e9@yandex-ag",
+        "date": "2026-11-06",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)  \nhttps://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+        "title": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)",
+        "description": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)  \nhttps://disk.yandex.ru/i/nCuk1tWqJkRsCQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/nCuk1tWqJkRsCQ"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "is_all_day": false,
+        "row": "56",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "b9ac2f8e61a63f7a@yandex-ag",
+        "date": "2026-11-06",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты https://disk.yandex.ru/i/9eNZHa2okvTzEw",
+        "title": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты",
+        "description": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты https://disk.yandex.ru/i/9eNZHa2okvTzEw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/9eNZHa2okvTzEw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/9eNZHa2okvTzEw"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:00",
         "is_all_day": false,
         "row": "57",
         "sheet": "Ноябрь 2026"
@@ -1288,6 +1344,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "1e865371df14bc66@yandex-ag",
+        "date": "2026-11-09",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
+        "title": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
+        "description": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
+        "location": "",
+        "urls": [],
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "is_all_day": false,
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1499,7 +1571,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "95",
+        "row": "98",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2927,6 +2999,22 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
+        "row": "71",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "22ffa4fb736d27e5@yandex-ag",
+        "date": "2026-11-02",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "-",
+        "title": "-",
+        "description": "-",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
         "row": "68",
         "sheet": "Ноябрь 2026"
       },
@@ -2943,7 +3031,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "66",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2959,7 +3047,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2975,7 +3063,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2991,7 +3079,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3043,17 +3131,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "333a8c913bc11fde@yandex-ag",
+        "uid": "c5c696f642361718@yandex-ag",
         "date": "2026-11-09",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+        "full_text": "14:00-16.00  Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
         "title": "Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-        "description": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "description": "14:00-16.00  Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
         "location": "Спартаковская площадь, 9/1",
         "urls": [],
         "start_time": "14:00",
-        "end_time": "16:30",
+        "end_time": "16:00",
         "is_all_day": false,
         "row": "48",
         "sheet": "Ноябрь 2026"
@@ -4249,8 +4337,26 @@
         "sheet": "Октябрь 2026"
       },
       {
-        "uid": "3702e847417d1328@yandex-ag",
+        "uid": "749b7aca2d16415b@yandex-ag",
         "date": "2026-10-30",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+        "title": "Монтаж пенсионер-спортсмен (Мифтахутдинова)",
+        "description": "Монтаж пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+        "location": "3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1",
+        "urls": [
+          "https://disk.yandex.ru/d/wHyeEjSkjgyafw"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "6",
+        "sheet": "Октябрь 2026"
+      },
+      {
+        "uid": "c3a55fdc511f3fc3@yandex-ag",
+        "date": "2026-11-02",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
         "full_text": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
@@ -4263,57 +4369,39 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "8",
-        "sheet": "Октябрь 2026"
+        "row": "68",
+        "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "715e30c3af7985ca@yandex-ag",
+        "uid": "8e0f713d93c11c38@yandex-ag",
         "date": "2026-11-03",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "title": "Съемка Сурдопереводчик  Локация:",
-        "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "full_text": "Отгул за 5.09",
+        "title": "Отгул за 5.09",
+        "description": "Отгул за 5.09",
         "location": "",
-        "urls": [
-          "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
-        ],
-        "start_time": "16:00",
-        "end_time": "18:30",
-        "is_all_day": false,
-        "row": "63",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "6fb27cc90a067825@yandex-ag",
+        "uid": "0b4e4f371a604678@yandex-ag",
         "date": "2026-11-05",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
-        "title": "Видео Ролик  Царица",
-        "description": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+        "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+        "title": "Монтаж Ролик  Царица",
+        "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
         "location": "",
         "urls": [],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "2249aa6cd637bbf4@yandex-ag",
-        "date": "2026-11-06",
-        "person_key": "ilya",
-        "person_name": "Илья Фесунов",
-        "full_text": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
-        "title": "Видео Ролик  Царица",
-        "description": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "55",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4346,22 +4434,6 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "6293edf226aaf6ee@yandex-ag",
-        "date": "2026-11-09",
-        "person_key": "ilya",
-        "person_name": "Илья Фесунов",
-        "full_text": "Монтаж РОлик Царица огней",
-        "title": "Монтаж РОлик Царица огней",
-        "description": "Монтаж РОлик Царица огней",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5622,7 +5694,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "8",
+        "row": "6",
         "sheet": "Октябрь 2026"
       },
       {
@@ -5654,7 +5726,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5672,7 +5744,23 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "65",
+        "row": "68",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "72fd443b628c7a54@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Промо-ролики для театров к старту сезона",
+        "title": "Промо-ролики для театров к старту сезона",
+        "description": "Промо-ролики для театров к старту сезона",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5688,7 +5776,25 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "65",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "07c04abe4a52a04b@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик  Локация:",
+        "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:30",
+        "is_all_day": false,
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5704,7 +5810,55 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "59",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "684ff0e76865e129@yandex-ag",
+        "date": "2026-11-05",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Модерн \"Мама Театра\"",
+        "title": "Монтаж Модерн \"Мама Театра\"",
+        "description": "Монтаж Модерн \"Мама Театра\"",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "60",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "54e33c0d53b4412f@yandex-ag",
+        "date": "2026-11-06",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Модерн \"Мама Театра\"",
+        "title": "Монтаж Модерн \"Мама Театра\"",
+        "description": "Монтаж Модерн \"Мама Театра\"",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "55",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "385ff28df3edd7ca@yandex-ag",
+        "date": "2026-11-09",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж и сдача сурдопереводчик ДО 18:00",
+        "title": "Монтаж и сдача сурдопереводчик ДО 18:00",
+        "description": "Монтаж и сдача сурдопереводчик ДО 18:00",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -6061,7 +6215,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "95",
+      "row": "98",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10448,13 +10602,13 @@
       "sheet": "Октябрь 2026"
     },
     {
-      "uid": "3702e847417d1328@yandex-ag",
+      "uid": "749b7aca2d16415b@yandex-ag",
       "date": "2026-10-30",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
-      "title": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова)",
-      "description": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+      "full_text": "Монтаж пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+      "title": "Монтаж пенсионер-спортсмен (Мифтахутдинова)",
+      "description": "Монтаж пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
       "location": "3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1",
       "urls": [
         "https://disk.yandex.ru/d/wHyeEjSkjgyafw"
@@ -10462,7 +10616,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "8",
+      "row": "6",
       "sheet": "Октябрь 2026"
     },
     {
@@ -10478,7 +10632,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "8",
+      "row": "6",
       "sheet": "Октябрь 2026"
     },
     {
@@ -10558,7 +10712,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10569,6 +10723,22 @@
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "description": "ДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "71",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "22ffa4fb736d27e5@yandex-ag",
+      "date": "2026-11-02",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "-",
+      "title": "-",
+      "description": "-",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10590,39 +10760,59 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "66",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "806a5bb2e105a63e@yandex-ag",
+      "uid": "c3a55fdc511f3fc3@yandex-ag",
+      "date": "2026-11-02",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+      "title": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова)",
+      "description": "Монтаж и сдача  пенсионер-спортсмен (Мифтахутдинова) \nЛокация: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\nТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw\n\n📍 Адрес: 3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/wHyeEjSkjgyafw",
+      "location": "3) Новая Москва. поселение Воскресенское, д. Лаптево, СНТ Весна, ул. Берёзовая аллея д. 1",
+      "urls": [
+        "https://disk.yandex.ru/d/wHyeEjSkjgyafw"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "68",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "43f123b9c11924c6@yandex-ag",
       "date": "2026-11-02",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "до 12.00 фото пенсионер-спортсмен",
-      "title": "до 12.00 фото пенсионер-спортсмен",
-      "description": "до 12.00 фото пенсионер-спортсмен",
+      "full_text": "до 12.00 сдача фото пенсионер-спортсмен",
+      "title": "до 12.00 сдача фото пенсионер-спортсмен",
+      "description": "до 12.00 сдача фото пенсионер-спортсмен",
       "location": "",
       "urls": [],
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "66",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "2ed84da707026629@yandex-ag",
+      "uid": "a28d032413a17918@yandex-ag",
       "date": "2026-11-02",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
+      "full_text": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw",
       "title": "Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:",
-      "description": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ:\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "description": "14:00 -16:00 Съёмка фото  ТЕАТР МОДЕРН \"Мама Театра\"  (Истории) Локация: Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw\n\n📍 Адрес: Спартаковская площадь, 9/1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5WlFyCZDFG4dgw",
       "location": "Спартаковская площадь, 9/1",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/5WlFyCZDFG4dgw"
+      ],
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "65",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10640,7 +10830,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "65",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10656,7 +10846,39 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "66",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "8e0f713d93c11c38@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Отгул за 5.09",
+      "title": "Отгул за 5.09",
+      "description": "Отгул за 5.09",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "65",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "72fd443b628c7a54@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Промо-ролики для театров к старту сезона",
+      "title": "Промо-ролики для театров к старту сезона",
+      "description": "Промо-ролики для театров к старту сезона",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10672,48 +10894,50 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "5a1f74ca9bd70859@yandex-ag",
+      "uid": "dec7fb4aeaf1ee1e@yandex-ag",
       "date": "2026-11-03",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "Обработка и сдача \"Театр модерн\" До 11:00",
-      "title": "Обработка и сдача \"Театр модерн\" До 11:00",
-      "description": "Обработка и сдача \"Театр модерн\" До 11:00",
-      "location": "",
-      "urls": [],
-      "start_time": "09:00",
-      "end_time": "11:00",
+      "full_text": "11.00-13.00 ФОТО Дом на набережной (Летников)  \nЛокация: 3. улица Серафимовича, 2\nТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+      "title": "ФОТО Дом на набережной (Летников)",
+      "description": "11.00-13.00 ФОТО Дом на набережной (Летников)  \nЛокация: 3. улица Серафимовича, 2\nТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ\n\n📍 Адрес: 3. улица Серафимовича, 2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+      "location": "3. улица Серафимовича, 2",
+      "urls": [
+        "https://disk.yandex.ru/i/nCuk1tWqJkRsCQ"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
       "is_all_day": false,
-      "row": "62",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "2575beb6d90e9b8f@yandex-ag",
+      "uid": "fd09a63d7bc29711@yandex-ag",
       "date": "2026-11-03",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "title": "Съемка Сурдопереводчик  Локация:   ТЗ:",
-      "description": "16:00 Съемка Сурдопереводчик  Локация:   ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "location": "",
+      "full_text": "16:00-17.00  Съемка Сурдопереводчик  \nЛокация: офис \nЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "Съемка Сурдопереводчик",
+      "description": "16:00-17.00  Съемка Сурдопереводчик  \nЛокация: офис \nЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "location": "офис",
       "urls": [
         "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
       ],
       "start_time": "16:00",
-      "end_time": "18:30",
+      "end_time": "17:00",
       "is_all_day": false,
-      "row": "63",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "715e30c3af7985ca@yandex-ag",
+      "uid": "07c04abe4a52a04b@yandex-ag",
       "date": "2026-11-03",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
       "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
       "title": "Съемка Сурдопереводчик  Локация:",
       "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
@@ -10724,7 +10948,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "63",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10740,23 +10964,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "ed9615542d6f44fb@yandex-ag",
-      "date": "2026-11-05",
-      "person_key": "misha",
-      "person_name": "Михаил Дремин",
-      "full_text": "Фотопроект Золотая черепаха",
-      "title": "Фотопроект Золотая черепаха",
-      "description": "Фотопроект Золотая черепаха",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "58",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10772,23 +10980,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "6fb27cc90a067825@yandex-ag",
+      "uid": "0b4e4f371a604678@yandex-ag",
       "date": "2026-11-05",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
-      "title": "Видео Ролик  Царица",
-      "description": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+      "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+      "title": "Монтаж Ролик  Царица",
+      "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
       "location": "",
       "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10804,7 +11012,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "59",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "684ff0e76865e129@yandex-ag",
+      "date": "2026-11-05",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Модерн \"Мама Театра\"",
+      "title": "Монтаж Модерн \"Мама Театра\"",
+      "description": "Монтаж Модерн \"Мама Театра\"",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10822,7 +11046,23 @@
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
-      "row": "57",
+      "row": "59",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "f38546e752d8d136@yandex-ag",
+      "date": "2026-11-05",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "14.00-16.00 Фотопроект Золотая черепаха",
+      "title": "Фотопроект Золотая черепаха",
+      "description": "14.00-16.00 Фотопроект Золотая черепаха",
+      "location": "",
+      "urls": [],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "is_all_day": false,
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10842,19 +11082,71 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "2249aa6cd637bbf4@yandex-ag",
+      "uid": "54e33c0d53b4412f@yandex-ag",
       "date": "2026-11-06",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
-      "full_text": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
-      "title": "Видео Ролик  Царица",
-      "description": "Видео Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Модерн \"Мама Театра\"",
+      "title": "Монтаж Модерн \"Мама Театра\"",
+      "description": "Монтаж Модерн \"Мама Театра\"",
       "location": "",
       "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
       "row": "55",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "3f324aa1518f7915@yandex-ag",
+      "date": "2026-11-06",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+      "title": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+      "description": "до 14.00 Обработка ФОТОпроект Золотоая черепаха",
+      "location": "",
+      "urls": [],
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "is_all_day": false,
+      "row": "55",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "c88e7c6d333401e9@yandex-ag",
+      "date": "2026-11-06",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)  \nhttps://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+      "title": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)",
+      "description": "до 16.00 ОБРАБОТКА ФОТО Дом на набережной (Летников)  \nhttps://disk.yandex.ru/i/nCuk1tWqJkRsCQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/nCuk1tWqJkRsCQ",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/nCuk1tWqJkRsCQ"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "is_all_day": false,
+      "row": "56",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "b9ac2f8e61a63f7a@yandex-ag",
+      "date": "2026-11-06",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты https://disk.yandex.ru/i/9eNZHa2okvTzEw",
+      "title": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты",
+      "description": "до 18.00 ОБРАБОТКА ФОТО пенсионера Портреты https://disk.yandex.ru/i/9eNZHa2okvTzEw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/9eNZHa2okvTzEw",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/9eNZHa2okvTzEw"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10954,33 +11246,49 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "6293edf226aaf6ee@yandex-ag",
+      "uid": "1e865371df14bc66@yandex-ag",
       "date": "2026-11-09",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
-      "full_text": "Монтаж РОлик Царица огней",
-      "title": "Монтаж РОлик Царица огней",
-      "description": "Монтаж РОлик Царица огней",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
+      "title": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
+      "description": "до 13.00 Обработка ТЕАТР МОДЕРН \"Мама Театра\"",
       "location": "",
       "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "is_all_day": false,
       "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "333a8c913bc11fde@yandex-ag",
+      "uid": "c5c696f642361718@yandex-ag",
       "date": "2026-11-09",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
+      "full_text": "14:00-16.00  Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
       "title": "Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-      "description": "14:00 Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "description": "14:00-16.00  Съёмка фото Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
       "location": "Спартаковская площадь, 9/1",
       "urls": [],
       "start_time": "14:00",
-      "end_time": "16:30",
+      "end_time": "16:00",
+      "is_all_day": false,
+      "row": "48",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "385ff28df3edd7ca@yandex-ag",
+      "date": "2026-11-09",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж и сдача сурдопереводчик ДО 18:00",
+      "title": "Монтаж и сдача сурдопереводчик ДО 18:00",
+      "description": "Монтаж и сдача сурдопереводчик ДО 18:00",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "18:00",
       "is_all_day": false,
       "row": "48",
       "sheet": "Ноябрь 2026"
