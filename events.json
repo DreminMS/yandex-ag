@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T06:41:53.659012",
+  "updated_at": "2026-10-30T08:45:55.954486",
   "events_by_person": {
     "misha": [
       {
@@ -1171,7 +1171,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1187,7 +1187,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1205,7 +1205,23 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "ed9615542d6f44fb@yandex-ag",
+        "date": "2026-11-05",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "Фотопроект Золотая черепаха",
+        "title": "Фотопроект Золотая черепаха",
+        "description": "Фотопроект Золотая черепаха",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1467,7 +1483,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "93",
+        "row": "94",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2895,7 +2911,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "66",
+        "row": "67",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2911,7 +2927,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2927,7 +2943,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2943,7 +2959,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "59",
+        "row": "60",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4249,7 +4265,7 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5622,7 +5638,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "66",
+        "row": "67",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5640,7 +5656,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5656,7 +5672,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -6029,7 +6045,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "93",
+      "row": "94",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10526,7 +10542,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "66",
+      "row": "67",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10542,7 +10558,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "66",
+      "row": "67",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10558,7 +10574,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10574,7 +10590,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10590,7 +10606,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10608,7 +10624,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10624,7 +10640,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10640,7 +10656,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10658,7 +10674,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10676,7 +10692,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -10692,7 +10708,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "59",
+      "row": "60",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "ed9615542d6f44fb@yandex-ag",
+      "date": "2026-11-05",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "Фотопроект Золотая черепаха",
+      "title": "Фотопроект Золотая черепаха",
+      "description": "Фотопроект Золотая черепаха",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
