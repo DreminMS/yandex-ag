@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:40:37.862407",
+  "updated_at": "2026-10-30T12:40:20.633930",
   "events_by_person": {
     "misha": [
       {
@@ -1188,6 +1188,22 @@
         "end_time": "16:00",
         "is_all_day": false,
         "row": "65",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "5a1f74ca9bd70859@yandex-ag",
+        "date": "2026-11-03",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "Обработка и сдача \"Театр модерн\" До 11:00",
+        "title": "Обработка и сдача \"Театр модерн\" До 11:00",
+        "description": "Обработка и сдача \"Театр модерн\" До 11:00",
+        "location": "",
+        "urls": [],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5696,12 +5712,12 @@
         "date": "2026-11-10",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+        "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw",
         "title": "ВИДЕО  Мотбег (мифтахутдинова)",
-        "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+        "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw",
         "location": "",
         "urls": [
-          "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+          "https://disk.yandex.ru/i/NaSHeRD_Wsn4mw"
         ],
         "start_time": "13:00",
         "end_time": "15:30",
@@ -10660,6 +10676,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "5a1f74ca9bd70859@yandex-ag",
+      "date": "2026-11-03",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "Обработка и сдача \"Театр модерн\" До 11:00",
+      "title": "Обработка и сдача \"Театр модерн\" До 11:00",
+      "description": "Обработка и сдача \"Театр модерн\" До 11:00",
+      "location": "",
+      "urls": [],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
+      "row": "62",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "2575beb6d90e9b8f@yandex-ag",
       "date": "2026-11-03",
       "person_key": "misha",
@@ -10976,12 +11008,12 @@
       "date": "2026-11-10",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+      "full_text": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw",
       "title": "ВИДЕО  Мотбег (мифтахутдинова)",
-      "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q",
+      "description": "13:00 ВИДЕО  Мотбег (мифтахутдинова) \nЛокация: \nТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NaSHeRD_Wsn4mw",
       "location": "",
       "urls": [
-        "https://disk.yandex.ru/i/xNo0zHs0Wsrb9Q"
+        "https://disk.yandex.ru/i/NaSHeRD_Wsn4mw"
       ],
       "start_time": "13:00",
       "end_time": "15:30",
