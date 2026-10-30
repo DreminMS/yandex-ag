@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:39:33.471553",
+  "updated_at": "2026-10-30T06:41:53.659012",
   "events_by_person": {
     "misha": [
       {
@@ -5578,6 +5578,22 @@
         "sheet": "Октябрь 2026"
       },
       {
+        "uid": "b4ca44ee7d2d1c16@yandex-ag",
+        "date": "2026-10-30",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Виджеты Театральный сезон",
+        "title": "Монтаж Виджеты Театральный сезон",
+        "description": "Монтаж Виджеты Театральный сезон",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "8",
+        "sheet": "Октябрь 2026"
+      },
+      {
         "uid": "e1676c39c4b6d8f7@yandex-ag",
         "date": "2026-10-31",
         "person_key": "dima",
@@ -10411,6 +10427,22 @@
       "urls": [
         "https://disk.yandex.ru/d/wHyeEjSkjgyafw"
       ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "8",
+      "sheet": "Октябрь 2026"
+    },
+    {
+      "uid": "b4ca44ee7d2d1c16@yandex-ag",
+      "date": "2026-10-30",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Виджеты Театральный сезон",
+      "title": "Монтаж Виджеты Театральный сезон",
+      "description": "Монтаж Виджеты Театральный сезон",
+      "location": "",
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
