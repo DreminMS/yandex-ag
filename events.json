@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T14:52:36.655833",
+  "updated_at": "2026-11-02T16:56:25.557102",
   "events_by_person": {
     "misha": [
       {
@@ -734,6 +734,22 @@
         "end_time": "15:30",
         "is_all_day": false,
         "row": "46",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "7534ba222355ad2e@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+        "title": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+        "description": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+        "location": "",
+        "urls": [],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "44",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1726,6 +1742,40 @@
         "end_time": "16:00",
         "is_all_day": false,
         "row": "48",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "177d83420258ddec@yandex-ag",
+        "date": "2026-11-10",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg",
+        "title": "ФОТО Офтальмолог (Тагирова)",
+        "description": "18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg\n\n📍 Адрес: 3. 2-ой Боткинский проезд, 5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg",
+        "location": "3. 2-ой Боткинский проезд, 5",
+        "urls": [
+          "https://disk.yandex.ru/i/PlT_qGslMY26tg"
+        ],
+        "start_time": "18:15",
+        "end_time": "19:00",
+        "is_all_day": false,
+        "row": "46",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "46104abd0dd5f3ce@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "до 12.00 обработа ФОТО  Офтальмолог",
+        "title": "до 12.00 обработа ФОТО  Офтальмолог",
+        "description": "до 12.00 обработа ФОТО  Офтальмолог",
+        "location": "",
+        "urls": [],
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "is_all_day": false,
+        "row": "44",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3546,6 +3596,22 @@
         "end_time": "15:30",
         "is_all_day": false,
         "row": "46",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "0c80f45f47de3155@yandex-ag",
+        "date": "2026-11-12",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Мотобег",
+        "title": "Монтаж Мотобег",
+        "description": "Монтаж Мотобег",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "42",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -6665,6 +6731,72 @@
       "end_time": "15:30",
       "is_all_day": false,
       "row": "46",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "177d83420258ddec@yandex-ag",
+      "date": "2026-11-10",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg",
+      "title": "ФОТО Офтальмолог (Тагирова)",
+      "description": "18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg\n\n📍 Адрес: 3. 2-ой Боткинский проезд, 5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg",
+      "location": "3. 2-ой Боткинский проезд, 5",
+      "urls": [
+        "https://disk.yandex.ru/i/PlT_qGslMY26tg"
+      ],
+      "start_time": "18:15",
+      "end_time": "19:00",
+      "is_all_day": false,
+      "row": "46",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "7534ba222355ad2e@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+      "title": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+      "description": "до 11.00 обработка ФОТО Мотобег (Мифтахутдинова)",
+      "location": "",
+      "urls": [],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
+      "row": "44",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "46104abd0dd5f3ce@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "до 12.00 обработа ФОТО  Офтальмолог",
+      "title": "до 12.00 обработа ФОТО  Офтальмолог",
+      "description": "до 12.00 обработа ФОТО  Офтальмолог",
+      "location": "",
+      "urls": [],
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "is_all_day": false,
+      "row": "44",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "0c80f45f47de3155@yandex-ag",
+      "date": "2026-11-12",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Мотобег",
+      "title": "Монтаж Мотобег",
+      "description": "Монтаж Мотобег",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "42",
       "sheet": "Ноябрь 2026"
     },
     {
