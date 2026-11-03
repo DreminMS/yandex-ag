@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:49:27.338530",
+  "updated_at": "2026-11-03T12:52:25.239820",
   "events_by_person": {
     "misha": [
       {
@@ -529,7 +529,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -547,7 +547,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -565,7 +565,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "67",
+        "row": "68",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -583,7 +583,7 @@
         "start_time": "16:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -601,23 +601,25 @@
         "start_time": "10:00",
         "end_time": "11:30",
         "is_all_day": false,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "f38546e752d8d136@yandex-ag",
+        "uid": "ecdea49e95b1a826@yandex-ag",
         "date": "2026-11-05",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "14.00-16.00 Фотопроект Золотая черепаха",
-        "title": "Фотопроект Золотая черепаха",
-        "description": "14.00-16.00 Фотопроект Золотая черепаха",
+        "full_text": "14.00-16.00 Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA",
+        "title": "Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ:",
+        "description": "14.00-16.00 Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/J9jPqTRXxG55mA"
+        ],
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -633,23 +635,23 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "6ce9b2ec65b54094@yandex-ag",
+        "uid": "b13b90dfdc1056e9@yandex-ag",
         "date": "2026-11-06",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "до 13.00 Обработка ФОТО сурдопереводчик",
-        "title": "до 13.00 Обработка ФОТО сурдопереводчик",
-        "description": "до 13.00 Обработка ФОТО сурдопереводчик",
+        "full_text": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
+        "title": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
+        "description": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
         "location": "",
         "urls": [],
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -667,7 +669,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "58",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -683,7 +685,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -699,7 +701,23 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "51",
+        "row": "52",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "6f9b4f633d5c1e35@yandex-ag",
+        "date": "2026-11-09",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 13.00 Обработка ФОТО сурдопереводчик",
+        "title": "до 13.00 Обработка ФОТО сурдопереводчик",
+        "description": "до 13.00 Обработка ФОТО сурдопереводчик",
+        "location": "",
+        "urls": [],
+        "start_time": "11:00",
+        "end_time": "13:00",
+        "is_all_day": false,
+        "row": "49",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -715,7 +733,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -753,6 +771,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "4e9783d63c69f410@yandex-ag",
+        "date": "2026-11-12",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "(предварительно) Сварщик для профессий",
+        "title": "(предварительно) Сварщик для профессий",
+        "description": "(предварительно) Сварщик для профессий",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "42",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "eec4e82cbc5619d7@yandex-ag",
         "date": "2026-11-13",
         "person_key": "misha",
@@ -766,6 +800,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "40",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "e6997b353b64ae4f@yandex-ag",
+        "date": "2026-11-16",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+        "title": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+        "description": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+        "location": "",
+        "urls": [],
+        "start_time": "13:00",
+        "end_time": "15:00",
+        "is_all_day": false,
+        "row": "33",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -943,7 +993,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "100",
+        "row": "101",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1597,7 +1647,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1613,7 +1663,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1629,7 +1679,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1645,7 +1695,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1661,7 +1711,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1677,7 +1727,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1693,7 +1743,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1709,7 +1759,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1725,7 +1775,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1741,7 +1791,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1792,6 +1842,22 @@
         "end_time": "12:00",
         "is_all_day": false,
         "row": "44",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "02ffea0aea2b1d4c@yandex-ag",
+        "date": "2026-11-13",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "(предварительно ) Сварщик для профессий",
+        "title": "(предварительно ) Сварщик для профессий",
+        "description": "(предварительно ) Сварщик для профессий",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "40",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2579,7 +2645,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2595,7 +2661,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "67",
+        "row": "68",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2611,7 +2677,25 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "a427f6960346235d@yandex-ag",
+        "date": "2026-11-05",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ https://disk.yandex.ru/i/pCpT_AFyu20kXw",
+        "title": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ",
+        "description": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ https://disk.yandex.ru/i/pCpT_AFyu20kXw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/pCpT_AFyu20kXw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/pCpT_AFyu20kXw"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2627,7 +2711,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2643,7 +2727,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2659,7 +2743,23 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "51",
+        "row": "52",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "8c4dee6c717f4094@yandex-ag",
+        "date": "2026-11-09",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Ролик метро (из фото) + титры графика",
+        "title": "Ролик метро (из фото) + титры графика",
+        "description": "Ролик метро (из фото) + титры графика",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "49",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3477,7 +3577,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3495,7 +3595,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3511,7 +3611,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "66",
+        "row": "67",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3527,17 +3627,17 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "67",
+        "row": "68",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "a6b2442069f7eaca@yandex-ag",
+        "uid": "d470d4f3be25e57a@yandex-ag",
         "date": "2026-11-03",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "title": "Съемка Сурдопереводчик  Локация:  офис",
-        "description": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "full_text": "16:00 ВИДЕО Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "ВИДЕО Съемка Сурдопереводчик  Локация:  офис",
+        "description": "16:00 ВИДЕО Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
         "location": "офис",
         "urls": [
           "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
@@ -3545,7 +3645,7 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3561,7 +3661,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3577,7 +3677,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3593,7 +3693,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3966,7 +4066,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "100",
+      "row": "101",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6134,7 +6234,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6150,7 +6250,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6166,7 +6266,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6182,7 +6282,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6200,7 +6300,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6216,7 +6316,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6234,7 +6334,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6252,7 +6352,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6268,7 +6368,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6284,7 +6384,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "67",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6300,7 +6400,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "66",
+      "row": "67",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6316,7 +6416,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "67",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6334,7 +6434,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "67",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6352,17 +6452,17 @@
       "start_time": "16:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "a6b2442069f7eaca@yandex-ag",
+      "uid": "d470d4f3be25e57a@yandex-ag",
       "date": "2026-11-03",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "title": "Съемка Сурдопереводчик  Локация:  офис",
-      "description": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "full_text": "16:00 ВИДЕО Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "ВИДЕО Съемка Сурдопереводчик  Локация:  офис",
+      "description": "16:00 ВИДЕО Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
       "location": "офис",
       "urls": [
         "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
@@ -6370,7 +6470,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6386,7 +6486,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6402,7 +6502,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6418,7 +6518,25 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "a427f6960346235d@yandex-ag",
+      "date": "2026-11-05",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ https://disk.yandex.ru/i/pCpT_AFyu20kXw",
+      "title": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ",
+      "description": "Монтаж и сдача видео про обезьянку (Голосования) ТЗ https://disk.yandex.ru/i/pCpT_AFyu20kXw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/pCpT_AFyu20kXw",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/pCpT_AFyu20kXw"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6434,7 +6552,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6452,23 +6570,25 @@
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "f38546e752d8d136@yandex-ag",
+      "uid": "ecdea49e95b1a826@yandex-ag",
       "date": "2026-11-05",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "14.00-16.00 Фотопроект Золотая черепаха",
-      "title": "Фотопроект Золотая черепаха",
-      "description": "14.00-16.00 Фотопроект Золотая черепаха",
+      "full_text": "14.00-16.00 Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA",
+      "title": "Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ:",
+      "description": "14.00-16.00 Фотопроект Золотая черепаха Локакация: Манежная площадь 1. ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/J9jPqTRXxG55mA",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/J9jPqTRXxG55mA"
+      ],
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6484,7 +6604,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6500,7 +6620,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6516,7 +6636,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6532,23 +6652,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "6ce9b2ec65b54094@yandex-ag",
+      "uid": "b13b90dfdc1056e9@yandex-ag",
       "date": "2026-11-06",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "до 13.00 Обработка ФОТО сурдопереводчик",
-      "title": "до 13.00 Обработка ФОТО сурдопереводчик",
-      "description": "до 13.00 Обработка ФОТО сурдопереводчик",
+      "full_text": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
+      "title": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
+      "description": "до 13:00 ОБРАБОТКА ФОТО \"Золотая черепаха\"",
       "location": "",
       "urls": [],
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6566,7 +6686,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "58",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6582,7 +6702,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6598,7 +6718,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6614,7 +6734,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6630,7 +6750,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6646,7 +6766,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6662,7 +6782,39 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "51",
+      "row": "52",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "8c4dee6c717f4094@yandex-ag",
+      "date": "2026-11-09",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Ролик метро (из фото) + титры графика",
+      "title": "Ролик метро (из фото) + титры графика",
+      "description": "Ролик метро (из фото) + титры графика",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "49",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "6f9b4f633d5c1e35@yandex-ag",
+      "date": "2026-11-09",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 13.00 Обработка ФОТО сурдопереводчик",
+      "title": "до 13.00 Обработка ФОТО сурдопереводчик",
+      "description": "до 13.00 Обработка ФОТО сурдопереводчик",
+      "location": "",
+      "urls": [],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "is_all_day": false,
+      "row": "49",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6678,7 +6830,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6694,7 +6846,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6710,7 +6862,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6816,6 +6968,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "4e9783d63c69f410@yandex-ag",
+      "date": "2026-11-12",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "(предварительно) Сварщик для профессий",
+      "title": "(предварительно) Сварщик для профессий",
+      "description": "(предварительно) Сварщик для профессий",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "42",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "0c80f45f47de3155@yandex-ag",
       "date": "2026-11-12",
       "person_key": "dima",
@@ -6839,6 +7007,22 @@
       "full_text": "Фоторепортаж из театра Модерн \"Скотный двор\"",
       "title": "Фоторепортаж из театра Модерн \"Скотный двор\"",
       "description": "Фоторепортаж из театра Модерн \"Скотный двор\"",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "40",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "02ffea0aea2b1d4c@yandex-ag",
+      "date": "2026-11-13",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "(предварительно ) Сварщик для профессий",
+      "title": "(предварительно ) Сварщик для профессий",
+      "description": "(предварительно ) Сварщик для профессий",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -6876,6 +7060,22 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "33",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "e6997b353b64ae4f@yandex-ag",
+      "date": "2026-11-16",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+      "title": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+      "description": "Обработка и сдача ФотоПроект \"Скотный двор\" до 15:00",
+      "location": "",
+      "urls": [],
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "is_all_day": false,
       "row": "33",
       "sheet": "Ноябрь 2026"
     },
