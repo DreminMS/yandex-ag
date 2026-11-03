@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:55:18.744920",
+  "updated_at": "2026-11-03T08:52:07.091433",
   "events_by_person": {
     "misha": [
       {
@@ -3499,14 +3499,14 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "07c04abe4a52a04b@yandex-ag",
+        "uid": "a6b2442069f7eaca@yandex-ag",
         "date": "2026-11-03",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "title": "Съемка Сурдопереводчик  Локация:",
-        "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-        "location": "",
+        "full_text": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "title": "Съемка Сурдопереводчик  Локация:  офис",
+        "description": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+        "location": "офис",
         "urls": [
           "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
         ],
@@ -6340,14 +6340,14 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "07c04abe4a52a04b@yandex-ag",
+      "uid": "a6b2442069f7eaca@yandex-ag",
       "date": "2026-11-03",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "title": "Съемка Сурдопереводчик  Локация:",
-      "description": "16:00 Съемка Сурдопереводчик  Локация:  \n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
-      "location": "",
+      "full_text": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "title": "Съемка Сурдопереводчик  Локация:  офис",
+      "description": "16:00 Съемка Сурдопереводчик  Локация:  офис\n ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw\n\n📍 Адрес: офис\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/-HPB_qn5TpkRjw",
+      "location": "офис",
       "urls": [
         "https://disk.yandex.ru/d/-HPB_qn5TpkRjw"
       ],
