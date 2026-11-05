@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:00:34.447806",
+  "updated_at": "2026-11-05T08:52:01.004772",
   "events_by_person": {
     "misha": [
       {
@@ -529,7 +529,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "72",
+        "row": "73",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -547,7 +547,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -565,7 +565,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -583,7 +583,7 @@
         "start_time": "16:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -601,7 +601,7 @@
         "start_time": "10:00",
         "end_time": "11:30",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -619,7 +619,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -635,7 +635,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -651,7 +651,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -669,7 +669,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "59",
+        "row": "60",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -685,7 +685,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "55",
+        "row": "56",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -701,7 +701,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "52",
+        "row": "53",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -717,7 +717,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -733,7 +733,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "50",
+        "row": "51",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -751,7 +751,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "47",
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -993,7 +993,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "101",
+        "row": "102",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1647,7 +1647,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "74",
+        "row": "75",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1663,7 +1663,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1679,7 +1679,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "72",
+        "row": "73",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1695,7 +1695,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1711,7 +1711,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1727,7 +1727,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1743,7 +1743,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1759,7 +1759,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "55",
+        "row": "56",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1775,23 +1775,25 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "52",
+        "row": "53",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "ed52ec64b25403c8@yandex-ag",
+        "uid": "846f3c036d47bda9@yandex-ag",
         "date": "2026-11-09",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-        "title": "ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-        "description": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+        "full_text": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
+        "title": "ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ:",
+        "description": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: Спартаковская площадь, 9/1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
         "location": "Спартаковская площадь, 9/1",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/ad0fh4UGF955uA"
+        ],
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "50",
+        "row": "51",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1807,7 +1809,7 @@
         "start_time": "12:00",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1825,7 +1827,7 @@
         "start_time": "18:15",
         "end_time": "19:00",
         "is_all_day": false,
-        "row": "47",
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1842,6 +1844,40 @@
         "end_time": "12:00",
         "is_all_day": false,
         "row": "44",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "b8846ddc014a8e20@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+        "title": "ФОТО  Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ",
+        "description": "ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n📍 Адрес: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+        "location": "3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+        "urls": [
+          "https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg"
+        ],
+        "start_time": "14:50",
+        "end_time": "17:00",
+        "is_all_day": false,
+        "row": "45",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "0209c22d2de30cb1@yandex-ag",
+        "date": "2026-11-12",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача до 12:00  Гостиный двор",
+        "title": "Обработка и сдача до 12:00  Гостиный двор",
+        "description": "Обработка и сдача до 12:00  Гостиный двор",
+        "location": "",
+        "urls": [],
+        "start_time": "10:00",
+        "end_time": "12:00",
+        "is_all_day": false,
+        "row": "42",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2645,7 +2681,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2661,7 +2697,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2669,15 +2705,17 @@
         "date": "2026-11-05",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+        "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.) https://disk.yandex.ru/i/qHMKSJDjkNp8jQ",
         "title": "Монтаж Ролик  Царица",
-        "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+        "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.) https://disk.yandex.ru/i/qHMKSJDjkNp8jQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qHMKSJDjkNp8jQ",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/qHMKSJDjkNp8jQ"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2695,7 +2733,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2711,7 +2749,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2727,7 +2765,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "55",
+        "row": "56",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2743,7 +2781,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "52",
+        "row": "53",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2759,7 +2797,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3577,7 +3615,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "74",
+        "row": "75",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3595,7 +3633,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3611,7 +3649,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "67",
+        "row": "68",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3627,7 +3665,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3645,7 +3683,7 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3661,7 +3699,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3677,7 +3715,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3693,7 +3731,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "50",
+        "row": "51",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3711,7 +3749,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "47",
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4066,7 +4104,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "101",
+      "row": "102",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6234,7 +6272,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "74",
+      "row": "75",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6250,7 +6288,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "74",
+      "row": "75",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6266,7 +6304,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6282,7 +6320,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "72",
+      "row": "73",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6300,7 +6338,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6316,7 +6354,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "72",
+      "row": "73",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6334,7 +6372,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6352,7 +6390,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6368,7 +6406,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6384,7 +6422,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6400,7 +6438,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "67",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6416,7 +6454,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6434,7 +6472,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6452,7 +6490,7 @@
       "start_time": "16:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6470,7 +6508,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6486,7 +6524,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6502,7 +6540,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6510,15 +6548,17 @@
       "date": "2026-11-05",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+      "full_text": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.) https://disk.yandex.ru/i/qHMKSJDjkNp8jQ",
       "title": "Монтаж Ролик  Царица",
-      "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.)",
+      "description": "Монтаж Ролик  Царица\nогней Старт Пульса (Городское\nосвещение: фонари, инсталляции, подсветка метро, зданий, мостов и т.п.) https://disk.yandex.ru/i/qHMKSJDjkNp8jQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/qHMKSJDjkNp8jQ",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/qHMKSJDjkNp8jQ"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6536,7 +6576,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6552,7 +6592,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6570,7 +6610,7 @@
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6588,7 +6628,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6604,7 +6644,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6620,7 +6660,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6636,7 +6676,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6652,7 +6692,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6668,7 +6708,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6686,7 +6726,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "59",
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6702,7 +6742,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "55",
+      "row": "56",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6718,7 +6758,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "55",
+      "row": "56",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6734,7 +6774,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "55",
+      "row": "56",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6750,7 +6790,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "52",
+      "row": "53",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6766,7 +6806,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "52",
+      "row": "53",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6782,7 +6822,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "52",
+      "row": "53",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6798,7 +6838,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6814,7 +6854,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6830,23 +6870,25 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "50",
+      "row": "51",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "ed52ec64b25403c8@yandex-ag",
+      "uid": "846f3c036d47bda9@yandex-ag",
       "date": "2026-11-09",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-      "title": "ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1",
-      "description": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1\n\n📍 Адрес: Спартаковская площадь, 9/1",
+      "full_text": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
+      "title": "ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ:",
+      "description": "14:00-16.00 ФОТО Помощник режиссера (Истории) Театр Модерн Локация:  Спартаковская площадь, 9/1 ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: Спартаковская площадь, 9/1\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA",
       "location": "Спартаковская площадь, 9/1",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/ad0fh4UGF955uA"
+      ],
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "50",
+      "row": "51",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6862,7 +6904,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "50",
+      "row": "51",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6878,7 +6920,7 @@
       "start_time": "12:00",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6896,7 +6938,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "47",
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6914,7 +6956,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "47",
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6932,7 +6974,7 @@
       "start_time": "18:15",
       "end_time": "19:00",
       "is_all_day": false,
-      "row": "47",
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6968,6 +7010,24 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "b8846ddc014a8e20@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+      "title": "ФОТО  Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ",
+      "description": "ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n📍 Адрес: 3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+      "location": "3. ул. Ильинка, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg",
+      "urls": [
+        "https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg"
+      ],
+      "start_time": "14:50",
+      "end_time": "17:00",
+      "is_all_day": false,
+      "row": "45",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "4e9783d63c69f410@yandex-ag",
       "date": "2026-11-12",
       "person_key": "misha",
@@ -6996,6 +7056,22 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "42",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "0209c22d2de30cb1@yandex-ag",
+      "date": "2026-11-12",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача до 12:00  Гостиный двор",
+      "title": "Обработка и сдача до 12:00  Гостиный двор",
+      "description": "Обработка и сдача до 12:00  Гостиный двор",
+      "location": "",
+      "urls": [],
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "is_all_day": false,
       "row": "42",
       "sheet": "Ноябрь 2026"
     },
