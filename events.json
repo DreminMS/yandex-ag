@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T10:55:04.286284",
+  "updated_at": "2026-11-05T12:56:23.384047",
   "events_by_person": {
     "misha": [
       {
@@ -816,6 +816,22 @@
         "end_time": "15:00",
         "is_all_day": false,
         "row": "33",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "48eabef9009e76a3@yandex-ag",
+        "date": "2026-11-18",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ФОТО для обложки ролик Профессии большого города",
+        "title": "ФОТО для обложки ролик Профессии большого города",
+        "description": "ФОТО для обложки ролик Профессии большого города",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "29",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2865,6 +2881,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "de388d64dcade4e1@yandex-ag",
+        "date": "2026-11-20",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж новогодний ролик",
+        "title": "Монтаж новогодний ролик",
+        "description": "Монтаж новогодний ролик",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "25",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "696a9900ee9dfa73@yandex-ag",
         "date": "2026-11-21",
         "person_key": "ilya",
@@ -3731,7 +3763,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "51",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3749,7 +3781,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "48",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3785,19 +3817,51 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "419c95ccd3c26e80@yandex-ag",
+        "uid": "39d088cbc20c4cd8@yandex-ag",
         "date": "2026-11-17",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Съёмка новогодний ролик",
-        "title": "Съёмка новогодний ролик",
-        "description": "Съёмка новогодний ролик",
+        "full_text": "10.00-13.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+        "title": "ВИДЕО Профессии большого города (Мастер измерений)",
+        "description": "10.00-13.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:\n\n📍 Адрес: район МГУ",
+        "location": "район МГУ",
+        "urls": [],
+        "start_time": "10:00",
+        "end_time": "13:00",
+        "is_all_day": false,
+        "row": "31",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "93ddeeed41eca8e5@yandex-ag",
+        "date": "2026-11-18",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Профессии большого города (мастер измерений)",
+        "title": "Монтаж Профессии большого города (мастер измерений)",
+        "description": "Монтаж Профессии большого города (мастер измерений)",
         "location": "",
         "urls": [],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "31",
+        "row": "29",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "138193ef62f87863@yandex-ag",
+        "date": "2026-11-19",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Профессии большого города (мастер измерений)",
+        "title": "Монтаж Профессии большого города (мастер измерений)",
+        "description": "Монтаж Профессии большого города (мастер измерений)",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -6904,7 +6968,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "51",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6956,7 +7020,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "48",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7172,19 +7236,35 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "419c95ccd3c26e80@yandex-ag",
+      "uid": "39d088cbc20c4cd8@yandex-ag",
       "date": "2026-11-17",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Съёмка новогодний ролик",
-      "title": "Съёмка новогодний ролик",
-      "description": "Съёмка новогодний ролик",
+      "full_text": "10.00-13.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+      "title": "ВИДЕО Профессии большого города (Мастер измерений)",
+      "description": "10.00-13.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:\n\n📍 Адрес: район МГУ",
+      "location": "район МГУ",
+      "urls": [],
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "is_all_day": false,
+      "row": "31",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "48eabef9009e76a3@yandex-ag",
+      "date": "2026-11-18",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ФОТО для обложки ролик Профессии большого города",
+      "title": "ФОТО для обложки ролик Профессии большого города",
+      "description": "ФОТО для обложки ролик Профессии большого города",
       "location": "",
       "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "31",
+      "row": "29",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7195,6 +7275,22 @@
       "full_text": "Монтаж новогодний ролик",
       "title": "Монтаж новогодний ролик",
       "description": "Монтаж новогодний ролик",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "29",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "93ddeeed41eca8e5@yandex-ag",
+      "date": "2026-11-18",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Профессии большого города (мастер измерений)",
+      "title": "Монтаж Профессии большого города (мастер измерений)",
+      "description": "Монтаж Профессии большого города (мастер измерений)",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -7217,6 +7313,38 @@
       "end_time": null,
       "is_all_day": true,
       "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "138193ef62f87863@yandex-ag",
+      "date": "2026-11-19",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Профессии большого города (мастер измерений)",
+      "title": "Монтаж Профессии большого города (мастер измерений)",
+      "description": "Монтаж Профессии большого города (мастер измерений)",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "de388d64dcade4e1@yandex-ag",
+      "date": "2026-11-20",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж новогодний ролик",
+      "title": "Монтаж новогодний ролик",
+      "description": "Монтаж новогодний ролик",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "25",
       "sheet": "Ноябрь 2026"
     },
     {
