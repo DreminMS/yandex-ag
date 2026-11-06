@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:55:45.478109",
+  "updated_at": "2026-11-06T12:52:10.802838",
   "events_by_person": {
     "misha": [
       {
@@ -2832,6 +2832,24 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "4c7ec61dfc7eeca2@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж ролика к Голосованию  «Москва. Архитектура времени» https://disk.yandex.ru/i/_H7r0F-kQPXAxg",
+        "title": "Монтаж ролика к Голосованию  «Москва. Архитектура времени»",
+        "description": "Монтаж ролика к Голосованию  «Москва. Архитектура времени» https://disk.yandex.ru/i/_H7r0F-kQPXAxg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_H7r0F-kQPXAxg",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/_H7r0F-kQPXAxg"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "45",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -7091,6 +7109,24 @@
       "end_time": "19:00",
       "is_all_day": false,
       "row": "48",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "4c7ec61dfc7eeca2@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж ролика к Голосованию  «Москва. Архитектура времени» https://disk.yandex.ru/i/_H7r0F-kQPXAxg",
+      "title": "Монтаж ролика к Голосованию  «Москва. Архитектура времени»",
+      "description": "Монтаж ролика к Голосованию  «Москва. Архитектура времени» https://disk.yandex.ru/i/_H7r0F-kQPXAxg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/_H7r0F-kQPXAxg",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/_H7r0F-kQPXAxg"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "45",
       "sheet": "Ноябрь 2026"
     },
     {
