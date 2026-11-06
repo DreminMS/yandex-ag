@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:52:10.802838",
+  "updated_at": "2026-11-06T14:49:18.704205",
   "events_by_person": {
     "misha": [
       {
@@ -673,15 +673,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "a9cb013d7c7bc9b2@yandex-ag",
+        "uid": "af0813c10d40f792@yandex-ag",
         "date": "2026-11-07",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
-        "title": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
-        "description": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
+        "full_text": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\" https://disk.yandex.ru/i/b8CnM-w1GWOwkA)",
+        "title": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\"",
+        "description": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\" https://disk.yandex.ru/i/b8CnM-w1GWOwkA)\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/b8CnM-w1GWOwkA)",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/b8CnM-w1GWOwkA)"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -1912,22 +1914,6 @@
         "end_time": "12:00",
         "is_all_day": false,
         "row": "42",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "02ffea0aea2b1d4c@yandex-ag",
-        "date": "2026-11-13",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "(предварительно ) Сварщик для профессий",
-        "title": "(предварительно ) Сварщик для профессий",
-        "description": "(предварительно ) Сварщик для профессий",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "40",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -6846,15 +6832,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "a9cb013d7c7bc9b2@yandex-ag",
+      "uid": "af0813c10d40f792@yandex-ag",
       "date": "2026-11-07",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
-      "title": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
-      "description": "ДЕЖ  (ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\")",
+      "full_text": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\" https://disk.yandex.ru/i/b8CnM-w1GWOwkA)",
+      "title": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\"",
+      "description": "ДЕЖ  ( 13:40-16:00 ФОТОПРОЕКТ В ТЕАТРЕ ГОГОЛЯ \"Дорожные истории\" https://disk.yandex.ru/i/b8CnM-w1GWOwkA)\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/b8CnM-w1GWOwkA)",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/b8CnM-w1GWOwkA)"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -7235,22 +7223,6 @@
       "full_text": "Фоторепортаж из театра Модерн \"Скотный двор\"",
       "title": "Фоторепортаж из театра Модерн \"Скотный двор\"",
       "description": "Фоторепортаж из театра Модерн \"Скотный двор\"",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "40",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "02ffea0aea2b1d4c@yandex-ag",
-      "date": "2026-11-13",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "(предварительно ) Сварщик для профессий",
-      "title": "(предварительно ) Сварщик для профессий",
-      "description": "(предварительно ) Сварщик для профессий",
       "location": "",
       "urls": [],
       "start_time": null,
