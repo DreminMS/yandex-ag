@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T04:50:50.611137",
+  "updated_at": "2026-11-06T06:59:58.209273",
   "events_by_person": {
     "misha": [
       {
@@ -2814,6 +2814,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "f635f4eb6cd31451@yandex-ag",
+        "date": "2026-11-13",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "предварительно ВИДЕО Водолаз",
+        "title": "предварительно ВИДЕО Водолаз",
+        "description": "предварительно ВИДЕО Водолаз",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "40",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -7163,6 +7179,22 @@
       "full_text": "(предварительно ) Сварщик для профессий",
       "title": "(предварительно ) Сварщик для профессий",
       "description": "(предварительно ) Сварщик для профессий",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "40",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "f635f4eb6cd31451@yandex-ag",
+      "date": "2026-11-13",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "предварительно ВИДЕО Водолаз",
+      "title": "предварительно ВИДЕО Водолаз",
+      "description": "предварительно ВИДЕО Водолаз",
       "location": "",
       "urls": [],
       "start_time": null,
