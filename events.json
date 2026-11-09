@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:56:04.038602",
+  "updated_at": "2026-11-09T07:13:56.513959",
   "events_by_person": {
     "misha": [
       {
@@ -3823,6 +3823,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "58d0d1af8a10fe60@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Мотобег",
+        "title": "Монтаж Мотобег",
+        "description": "Монтаж Мотобег",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "45",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "0c80f45f47de3155@yandex-ag",
         "date": "2026-11-12",
         "person_key": "dima",
@@ -7111,6 +7127,22 @@
       "urls": [
         "https://disk.yandex.ru/i/_H7r0F-kQPXAxg"
       ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "45",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "58d0d1af8a10fe60@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Мотобег",
+      "title": "Монтаж Мотобег",
+      "description": "Монтаж Мотобег",
+      "location": "",
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
