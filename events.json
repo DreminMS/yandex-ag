@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:49:48.989680",
+  "updated_at": "2026-11-09T12:57:59.226090",
   "events_by_person": {
     "misha": [
       {
@@ -1917,6 +1917,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "c782c48c2993440b@yandex-ag",
+        "date": "2026-11-19",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Зоопарк обезьяны модный журнал",
+        "title": "Зоопарк обезьяны модный журнал",
+        "description": "Зоопарк обезьяны модный журнал",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "27",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "cd41e49f503f6ce2@yandex-ag",
         "date": "2026-11-23",
         "person_key": "tanya",
@@ -2903,13 +2919,13 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "c93c3cb21652323b@yandex-ag",
+        "uid": "63f72fe6fa0c77f6@yandex-ag",
         "date": "2026-11-19",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Монтаж новогодний ролик",
-        "title": "Монтаж новогодний ролик",
-        "description": "Монтаж новогодний ролик",
+        "full_text": "Зоопарк обезьяны модный журнал",
+        "title": "Зоопарк обезьяны модный журнал",
+        "description": "Зоопарк обезьяны модный журнал",
         "location": "",
         "urls": [],
         "start_time": null,
@@ -7440,13 +7456,29 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "c93c3cb21652323b@yandex-ag",
+      "uid": "c782c48c2993440b@yandex-ag",
+      "date": "2026-11-19",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Зоопарк обезьяны модный журнал",
+      "title": "Зоопарк обезьяны модный журнал",
+      "description": "Зоопарк обезьяны модный журнал",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "63f72fe6fa0c77f6@yandex-ag",
       "date": "2026-11-19",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Монтаж новогодний ролик",
-      "title": "Монтаж новогодний ролик",
-      "description": "Монтаж новогодний ролик",
+      "full_text": "Зоопарк обезьяны модный журнал",
+      "title": "Зоопарк обезьяны модный журнал",
+      "description": "Зоопарк обезьяны модный журнал",
       "location": "",
       "urls": [],
       "start_time": null,
