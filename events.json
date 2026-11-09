@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T12:57:59.226090",
+  "updated_at": "2026-11-09T14:48:36.807449",
   "events_by_person": {
     "misha": [
       {
@@ -2834,6 +2834,24 @@
         "end_time": null,
         "is_all_day": true,
         "row": "51",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "f8c890f06ccd38cc@yandex-ag",
+        "date": "2026-11-10",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Скриншот из фильма ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw",
+        "title": "Скриншот из фильма ТЗ:",
+        "description": "Скриншот из фильма ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/h0aj95OJnxbCDw"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -7057,6 +7075,24 @@
       "end_time": "18:00",
       "is_all_day": false,
       "row": "51",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "f8c890f06ccd38cc@yandex-ag",
+      "date": "2026-11-10",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Скриншот из фильма ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw",
+      "title": "Скриншот из фильма ТЗ:",
+      "description": "Скриншот из фильма ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/h0aj95OJnxbCDw",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/h0aj95OJnxbCDw"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
