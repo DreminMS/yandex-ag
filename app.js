@@ -155,6 +155,55 @@
     });
   }
 
+  function cleanLocationStr(loc) {
+    if (!loc) return null;
+    let s = String(loc);
+    s = s.replace(/https?:\/\/[^\s]+/gi, '');
+    s = s.replace(/\s*тз\s*:?.*$/gi, '');
+    s = s.replace(/^\s*\d+[.)]\s*/, '');
+    s = s.replace(/^[:\-–—,.\s]+/, '').replace(/[:\-–—,.\s]+$/, '');
+    if (s.length < 3 || s.toLowerCase().includes('на улицах города')) return null;
+    return s.trim();
+  }
+
+  function extractSmartLocation(text) {
+    if (!text) return null;
+    const lines = text.split(/[\r\n]+/).map(l => l.trim()).filter(l => l.length > 0);
+
+    // 1. Explicit keyword match (Локация, Адрес, Адерес, Место)
+    const kwMatch = text.match(/(?:локаци[яи]|адрес|адерес|место)\s*:?\s*([^\n\r]+)/i);
+    if (kwMatch) {
+      const c = cleanLocationStr(kwMatch[1]);
+      if (c) return c;
+    }
+
+    // 2. TZ prefix match: 'тз: <address> тз: http'
+    const tzMatch = text.match(/тз\s*:\s*([^:\n\r]+?)(?=\s*тз|\s*https?:|$)/i);
+    if (tzMatch) {
+      const val = tzMatch[1].trim();
+      if (!val.toLowerCase().startsWith('http') && val.length > 4) {
+        const c = cleanLocationStr(val);
+        if (c) return c;
+      }
+    }
+
+    // 3. Street pattern match
+    const streetPatt = /(?:\bул\.|\bулиц[аеы]|\bпер\.|\bпереулок|\bпросп\.|\bпроспект|\bб-р\b|\bбульвар|\bшоссе\b|\bнаб\.|\bнабережная|\bплощадь|\bпл\.|\bпроезд\b|\bаллея\b|\bд\.\s*\d+)/i;
+    for (const line of lines) {
+      const low = line.toLowerCase();
+      if (low.startsWith('http') || low.startsWith('сдача') || low.startsWith('обработка') || low.startsWith('до 1') || low.startsWith('до 2')) {
+        continue;
+      }
+      if (low.includes('на улицах города')) continue;
+      if (streetPatt.test(line)) {
+        const mSub = line.match(/(?:локаци[яи]|адрес|адерес|место)\s*:?\s*(.+)/i);
+        const c = cleanLocationStr(mSub ? mSub[1] : line);
+        if (c) return c;
+      }
+    }
+    return null;
+  }
+
   // --- Detail Extractor (matching Android TaskDetailExtractor.kt) ---
   function extractDetails(rawText, sheetName = '', assignee = '') {
     const text = String(rawText || '').trim();
@@ -180,21 +229,7 @@
     }
 
     // 2. Location
-    let location = null;
-    const locMatch = text.match(/(?:локаци[яи]|адрес|место)\s*:\s*([^\n\r]+)/i);
-    if (locMatch) {
-      location = locMatch[1].trim();
-    } else if (text.toLowerCase().includes('тз:')) {
-      const tzLocMatch = text.match(/тз\s*:\s*([^:\n\r]+?)(?=\s*тз|\s*https?:|$)/i);
-      if (tzLocMatch && !tzLocMatch[1].toLowerCase().startsWith('http') && tzLocMatch[1].trim().length > 5) {
-        location = tzLocMatch[1].trim();
-      }
-    }
-
-    if (location) {
-      location = location.replace(/(?:тз\s*:|https?:\/\/[^\s]+).*/i, '').replace(/^[3.]+\s*/, '').trim().replace(/^[-–—,.\s]+|[-–—,.\s]+$/g, '');
-      if (location.length === 0) location = null;
-    }
+    const location = extractSmartLocation(text);
 
     // 3. Time Range
     let timeRange = null;
@@ -559,6 +594,8 @@
         const tzUrl = (ev.urls && ev.urls.length > 0) ? ev.urls[0] : '';
         const bitrixUrl = (ev.urls && ev.urls.find(u => u.includes('bitrix'))) || '';
 
+        const loc = cleanLocationStr(ev.location) || extractSmartLocation(ev.full_text || ev.description || '') || '';
+
         return {
           id: ev.uid || `task_${idCounter++}`,
           title: ev.title || 'Событие',
@@ -566,7 +603,7 @@
           timeRange: timeRange,
           assignee: cleanName,
           status: status,
-          location: ev.location || '',
+          location: loc,
           tzUrl: tzUrl,
           bitrixUrl: bitrixUrl,
           deadline: '',
@@ -928,10 +965,16 @@
       ${task.location ? `
       <div class="modal-detail-card" style="margin:0">
         <div style="font-size:12px;color:var(--ios-text-secondary);margin-bottom:4px">Локация / Адрес</div>
-        <div style="font-size:14px;margin-bottom:8px">${escapeHtml(task.location)}</div>
+        <div style="margin-bottom:8px">
+          <a class="modal-location-link" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer">
+            <span class="card-loc-icon">📍</span>
+            <span>${escapeHtml(task.location)}</span>
+            <svg class="card-loc-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
         <div class="modal-btn-row">
-          <a class="modal-btn maps-apple" href="https://maps.apple.com/?q=${encodeURIComponent(task.location)}" target="_blank">Apple Карты</a>
-          <a class="modal-btn maps-yandex" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank">Яндекс Карты</a>
+          <a class="modal-btn maps-yandex" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer">Яндекс Карты ↗</a>
+          <a class="modal-btn maps-apple" href="https://maps.apple.com/?q=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer">Apple Карты ↗</a>
         </div>
       </div>
       ` : ''}
@@ -1076,7 +1119,15 @@
       </div>
       <div class="card-title">${escapeHtml(task.title)}</div>
       ${task.detailsSnippet ? `<div class="card-details-snippet">📝 ${escapeHtml(task.detailsSnippet)}</div>` : ''}
-      ${task.location ? `<div class="card-location">📍 ${escapeHtml(task.location)}</div>` : ''}
+      ${task.location ? `
+        <div class="card-location-row">
+          <a class="card-location-link" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" title="Открыть адрес в Яндекс.Картах">
+            <span class="card-loc-icon">📍</span>
+            <span class="card-loc-text">${escapeHtml(task.location)}</span>
+            <svg class="card-loc-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
+      ` : ''}
       ${task.tzUrl ? `
         <div class="card-tz-row">
           <a class="card-tz-btn" href="${escapeHtml(task.tzUrl)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">
@@ -1089,6 +1140,7 @@
       <div class="card-footer">
         <span class="assignee-chip">👤 ${escapeHtml(task.assignee)}</span>
         <div class="card-actions">
+          ${task.location ? `<a class="action-pill maps" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Карты ↗</a>` : ''}
           ${task.bitrixUrl ? `<a class="action-pill b24" href="${escapeHtml(task.bitrixUrl)}" target="_blank" onclick="event.stopPropagation()">Битрикс24 ↗</a>` : ''}
         </div>
       </div>
@@ -1266,13 +1318,23 @@
     const locCard = document.getElementById('modalLocationCard');
     if (task.location) {
       locCard.style.display = 'block';
-      document.getElementById('modalLocationText').textContent = task.location;
-      document.getElementById('modalAppleMapsBtn').onclick = () => {
-        window.open(`maps://?q=${encodeURIComponent(task.location)}`, '_system');
-      };
-      document.getElementById('modalYandexMapsBtn').onclick = () => {
-        window.open(`https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}`, '_blank');
-      };
+      const locText = document.getElementById('modalLocationText');
+      if (locText) locText.textContent = task.location;
+
+      const locLink = document.getElementById('modalLocationLink');
+      if (locLink) {
+        locLink.href = `https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}`;
+      }
+
+      const yandexBtn = document.getElementById('modalYandexMapsBtn');
+      if (yandexBtn) {
+        yandexBtn.href = `https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}`;
+      }
+
+      const appleBtn = document.getElementById('modalAppleMapsBtn');
+      if (appleBtn) {
+        appleBtn.href = `https://maps.apple.com/?q=${encodeURIComponent(task.location)}`;
+      }
     } else {
       locCard.style.display = 'none';
     }

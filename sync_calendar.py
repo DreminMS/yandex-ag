@@ -122,21 +122,60 @@ def extract_time_and_clean_title(text):
 
     return None, None, first_line
 
+def clean_location_str(loc):
+    if not loc:
+        return ""
+    # Remove URLs
+    loc = re.sub(r"https?://[^\s]+", "", loc)
+    # Remove trailing ТЗ
+    loc = re.sub(r"\s*тз\s*:?.*$", "", loc, flags=re.IGNORECASE)
+    # Remove leading numbering like '3. ', '3) ', '1. '
+    loc = re.sub(r"^\s*[0-9]+[.)]\s*", "", loc)
+    # Remove leading/trailing punctuation, colons, dashes
+    loc = re.sub(r"^[:\-–—,.\s]+", "", loc)
+    loc = re.sub(r"[:\-–—,.\s]+$", "", loc)
+    if len(loc) < 3 or "на улицах города" in loc.lower():
+        return ""
+    return loc.strip()
+
 def extract_location(text):
     """
-    Ищет адрес/локацию в тексте задачи и убирает лишнее.
+    Умный поиск адреса/локации в тексте задачи с очисткой от номеров пунктов и ссылок.
     """
+    if not text:
+        return None
     lines = [l.strip() for l in text.split("\n") if l.strip()]
+
+    # 1. Поиск по явным маркерам: Локация, Адрес, Адерес, Место
+    kw_match = re.search(r"(?:локаци[яи]|адрес|адерес|место)\s*:?\s*([^\n\r]+)", text, re.IGNORECASE)
+    if kw_match:
+        c = clean_location_str(kw_match.group(1))
+        if c:
+            return c
+
+    # 2. Поиск по шаблону 'тз: <адрес> тз: http'
+    tz_match = re.search(r"тз\s*:\s*([^:\n\r]+?)(?=\s*тз|\s*https?:|$)", text, re.IGNORECASE)
+    if tz_match:
+        val = tz_match.group(1).strip()
+        if not val.lower().startswith("http") and len(val) > 4:
+            c = clean_location_str(val)
+            if c:
+                return c
+
+    # 3. Поиск по адресным паттернам (улицы, переулки, проспекты, шоссе и т.д.)
+    street_patt = r"(?:\bул\.|\bулиц[аеы]|\bпер\.|\bпереулок|\bпросп\.|\bпроспект|\bб-р\b|\bбульвар|\bшоссе\b|\bнаб\.|\bнабережная|\bплощадь|\bпл\.|\bпроезд\b|\bаллея\b|\bд\.\s*\d+)"
     for line in lines:
-        m = re.search(r"локаци[яи]\s*:\s*(.+)", line, re.IGNORECASE)
-        if m:
-            loc = m.group(1).strip()
-            loc = re.sub(r"\s*ТЗ\s*:.*$", "", loc, flags=re.IGNORECASE).strip()
-            return loc
-        if any(w in line.lower() for w in ["ул.", "улица", "пер.", "переулок", "просп.", "проспект", "б-р", "шоссе", "д."]):
-            if not line.startswith("http") and not line.lower().startswith("сдача") and not line.lower().startswith("обработка"):
-                clean = re.sub(r"\s*ТЗ\s*:.*$", "", line, flags=re.IGNORECASE).strip()
-                return clean
+        low = line.lower()
+        if low.startswith(("http", "сдача", "обработка", "до 1", "до 2")):
+            continue
+        if "на улицах города" in low:
+            continue
+        if re.search(street_patt, line, re.IGNORECASE):
+            m_sub = re.search(r"(?:локаци[яи]|адрес|адерес|место)\s*:?\s*(.+)", line, re.IGNORECASE)
+            cand = clean_location_str(m_sub.group(1) if m_sub else line)
+            if cand:
+                return cand
+
     return None
 
 def extract_urls(text):
@@ -268,10 +307,12 @@ def parse_workbook(xlsx_path):
                         if len(title) > 90:
                             title = title[:87] + "..."
 
-                        # Format detailed description
+                        # Format detailed description with clickable map links
                         desc_parts = [text_val]
                         if loc:
                             desc_parts.append(f"📍 Адрес: {loc}")
+                            enc_loc = urllib.parse.quote(loc)
+                            desc_parts.append(f"🗺 Яндекс Карты: https://yandex.ru/maps/?text={enc_loc}\n🧭 Apple Карты: https://maps.apple.com/?q={enc_loc}")
                         if urls:
                             desc_parts.append(f"🔗 Ссылка на ТЗ: {urls[0]}")
                         desc = "\n\n".join(desc_parts)
@@ -344,7 +385,12 @@ def generate_ics(events, calendar_name, calendar_id):
         d = datetime.datetime.strptime(ev["date"], "%Y-%m-%d").date()
         summary = escape_ics_text(ev["title"])
         desc = escape_ics_text(ev.get("description", ev["full_text"]))
-        loc = escape_ics_text(ev["location"])
+        
+        # Clean location for native Calendar geocoding: strip bullet numbers and take primary address
+        raw_loc = ev.get("location", "")
+        clean_loc = re.sub(r"^[0-9]+[.)]\s*", "", raw_loc).strip()
+        first_loc = re.split(r"\s*[/;]\s*|\n+", clean_loc)[0].strip()
+        loc_for_ics = escape_ics_text(first_loc if len(first_loc) > 3 else clean_loc)
         
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{ev['uid']}")
@@ -367,10 +413,12 @@ def generate_ics(events, calendar_name, calendar_id):
 
         lines.append(f"SUMMARY:{summary}")
         lines.append(f"DESCRIPTION:{desc}")
-        if loc:
-            lines.append(f"LOCATION:{loc}")
+        if loc_for_ics:
+            lines.append(f"LOCATION:{loc_for_ics}")
         if ev["urls"]:
             lines.append(f"URL:{ev['urls'][0]}")
+        elif clean_loc:
+            lines.append(f"URL:https://yandex.ru/maps/?text={urllib.parse.quote(clean_loc)}")
         lines.append("STATUS:CONFIRMED")
         lines.append("TRANSP:OPAQUE")
         lines.append("END:VEVENT")

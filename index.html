@@ -11,7 +11,7 @@
   <meta name="referrer" content="no-referrer">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css?v=5">
+  <link rel="stylesheet" href="style.css?v=6">
   <script>
     // Immediately unregister all Service Workers and clear caches
     if ('serviceWorker' in navigator) {
@@ -318,10 +318,16 @@
 
       <div class="modal-detail-card" id="modalLocationCard">
         <div style="font-size:13px;color:var(--ios-text-secondary);margin-bottom:4px">Локация / Адрес</div>
-        <div style="font-size:15px;margin-bottom:10px" id="modalLocationText"></div>
+        <div style="margin-bottom:10px">
+          <a class="modal-location-link" id="modalLocationLink" href="" target="_blank" rel="noopener noreferrer">
+            <span class="card-loc-icon">📍</span>
+            <span id="modalLocationText"></span>
+            <svg class="card-loc-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+          </a>
+        </div>
         <div class="modal-btn-row">
-          <button class="modal-btn maps-apple" id="modalAppleMapsBtn">Apple Карты</button>
-          <button class="modal-btn maps-yandex" id="modalYandexMapsBtn">Яндекс Карты</button>
+          <a class="modal-btn maps-yandex" id="modalYandexMapsBtn" target="_blank" rel="noopener noreferrer">Яндекс Карты ↗</a>
+          <a class="modal-btn maps-apple" id="modalAppleMapsBtn" target="_blank" rel="noopener noreferrer">Apple Карты ↗</a>
         </div>
       </div>
 
@@ -361,6 +367,6 @@
 
   <!-- Local Script Dependencies -->
   <script src="lib/xlsx.full.min.js"></script>
-  <script src="app.js?v=13"></script>
+  <script src="app.js?v=15"></script>
 </body>
 </html>

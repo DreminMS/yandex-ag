@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4d2d18b3c24d440a@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20250702
 DTEND;VALUE=DATE:20250703
 SUMMARY:дежурство
@@ -29,7 +29,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4d2d18b3c24d440a@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20250702
 DTEND;VALUE=DATE:20250703
 SUMMARY:дежурство
@@ -39,7 +39,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4d2d18b3c24d440a@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20250702
 DTEND;VALUE=DATE:20250703
 SUMMARY:дежурство
@@ -49,46 +49,47 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ef65e663c2e26f85@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261001T104500
 DTEND;TZID=Europe/Moscow:20261001T130000
 SUMMARY:ФОТО Историк который собирает проездные билеты (Ммифтахутдинова)
-DESCRIPTION:10:45-13:00 ФОТО Историк который собирает проездные билеты (Ммифтахутдинова) \nлокация: 3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная\nТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA\n\n📍 Адрес: 3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA
-LOCATION:3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная
+DESCRIPTION:10:45-13:00 ФОТО Историк который собирает проездные билеты (Ммифтахутдинова) \nлокация: 3) Пресненская набережная\, 2 (метро Филёвская линия Выставочная\nТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA\n\n📍 Адрес: Пресненская набережная\, 2 (метро Филёвская линия Выставочная\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C%202%20%28%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%A4%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C%202%20%28%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%A4%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F%20%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5nBsBJyr2C7wdA
+LOCATION:Пресненская набережная\, 2 (метро Филёвская линия Выставочная
 URL:https://disk.yandex.ru/i/5nBsBJyr2C7wdA
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0cce1ea1f8a07a29@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261001T154500
 DTEND;TZID=Europe/Moscow:20261001T180000
 SUMMARY:ФОТО Таксидермист. Тагирова)
-DESCRIPTION:15:45-18:00 ФОТО Таксидермист. Тагирова)\nлокация:  3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\nТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ\n\n📍 Адрес: 3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
-LOCATION:3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.
+DESCRIPTION:15:45-18:00 ФОТО Таксидермист. Тагирова)\nлокация:  3. ул. Вавилова\, 57\, Москва\, Дарвиновский музей.\nТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ\n\n📍 Адрес: ул. Вавилова\, 57\, Москва\, Дарвиновский музей\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%2C%2057%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%2C%2057%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B9\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
+LOCATION:ул. Вавилова\, 57\, Москва\, Дарвиновский музей
 URL:https://disk.yandex.ru/i/IaUFJkwe3ioeOQ
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:18621414e9d9c37f@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261002T093000
 DTEND;TZID=Europe/Moscow:20261002T120000
 SUMMARY:ФОТО Энтомолог (профессии большого города)
-DESCRIPTION:9.30 ФОТО Энтомолог (профессии большого города)  \nЛокация:  Прудовой проезд\, 3А\, строения 6\nТЗ\n\n📍 Адрес: Прудовой проезд\, 3А\, строения 6
+DESCRIPTION:9.30 ФОТО Энтомолог (профессии большого города)  \nЛокация:  Прудовой проезд\, 3А\, строения 6\nТЗ\n\n📍 Адрес: Прудовой проезд\, 3А\, строения 6\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9F%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%203%D0%90%2C%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%206\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9F%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%203%D0%90%2C%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%206
 LOCATION:Прудовой проезд\, 3А\, строения 6
+URL:https://yandex.ru/maps/?text=%D0%9F%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%203%D0%90%2C%20%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%206
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:44460d209325b55f@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261002T103000
 DTEND;TZID=Europe/Moscow:20261002T130000
 SUMMARY:ФОТО Будильщица (Тагирова)
-DESCRIPTION:10.30 -13.00 ФОТО Будильщица (Тагирова)  \nЛокация: Верхнелихоборская улица\, 5с5\nТЗ https://disk.yandex.ru/i/PfpGk4QhllvQ2A\n\n📍 Адрес: Верхнелихоборская улица\, 5с5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PfpGk4QhllvQ2A
+DESCRIPTION:10.30 -13.00 ФОТО Будильщица (Тагирова)  \nЛокация: Верхнелихоборская улица\, 5с5\nТЗ https://disk.yandex.ru/i/PfpGk4QhllvQ2A\n\n📍 Адрес: Верхнелихоборская улица\, 5с5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%205%D1%815\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C%205%D1%815\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PfpGk4QhllvQ2A
 LOCATION:Верхнелихоборская улица\, 5с5
 URL:https://disk.yandex.ru/i/PfpGk4QhllvQ2A
 STATUS:CONFIRMED
@@ -96,7 +97,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:14534e0c934dc93c@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261002T180000
 DTEND;TZID=Europe/Moscow:20261002T203000
 SUMMARY:обработка ФОТО Историк и  проездные билеты
@@ -106,7 +107,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5ef971333e739379@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:ДЕЖ
@@ -116,7 +117,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:10a54fdc8bb0e189@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:ДЕЖ
@@ -126,7 +127,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:047f1e0b35365c98@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261005T120000
 DTEND;TZID=Europe/Moscow:20261005T140000
 SUMMARY:до 14.00 Обработка и сдача Будильщица
@@ -136,23 +137,23 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8b1978405ba6ec01@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261005T144500
 DTEND;TZID=Europe/Moscow:20261005T170000
 SUMMARY:ФОТО Художник   Локация: 3. Смоленская площадь\, 13/21 ТЗ:
-DESCRIPTION:ФОТО Художник 14:45-17:00  Локация: 3. Смоленская площадь\, 13/21 ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w\n\n📍 Адрес: 3. Смоленская площадь\, 13/21\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w
-LOCATION:3. Смоленская площадь\, 13/21
+DESCRIPTION:ФОТО Художник 14:45-17:00  Локация: 3. Смоленская площадь\, 13/21 ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w\n\n📍 Адрес: Смоленская площадь\, 13/21\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%2C%2013/21\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%2C%2013/21\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/vQTFkpsolvw22w
+LOCATION:Смоленская площадь\, 13
 URL:https://disk.yandex.ru/i/vQTFkpsolvw22w
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:23305d0a7987d9fa@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261006T100000
 DTEND;TZID=Europe/Moscow:20261006T130000
 SUMMARY:ФотоРеп "Московский урожай Осень" Локация: улица Юных Ленинцев владение 52 ТЗ:
-DESCRIPTION:10.00-13.00 ФотоРеп "Московский урожай Осень" Локация: улица Юных Ленинцев владение 52 ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA\n\n📍 Адрес: улица Юных Ленинцев владение 52\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA
+DESCRIPTION:10.00-13.00 ФотоРеп "Московский урожай Осень" Локация: улица Юных Ленинцев владение 52 ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA\n\n📍 Адрес: улица Юных Ленинцев владение 52\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%D0%AE%D0%BD%D1%8B%D1%85%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%86%D0%B5%D0%B2%20%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%2052\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB%D0%B8%D1%86%D0%B0%20%D0%AE%D0%BD%D1%8B%D1%85%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D1%86%D0%B5%D0%B2%20%D0%B2%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%2052\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/KJLTn4JLx8AlrA
 LOCATION:улица Юных Ленинцев владение 52
 URL:https://disk.yandex.ru/i/KJLTn4JLx8AlrA
 STATUS:CONFIRMED
@@ -160,7 +161,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:a2e99a402aa89d79@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261006T110000
 DTEND;TZID=Europe/Moscow:20261006T130000
 SUMMARY:до 13.00 Обработка ФОТО  таксидермист
@@ -170,7 +171,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:65d00c735fe5af33@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261007T100000
 DTEND;TZID=Europe/Moscow:20261007T130000
 SUMMARY:ФОТО  Хавско-Шаболовский жилмассив (Летников)
@@ -181,7 +182,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c07ded15e611d9ec@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261007T160000
 DTEND;TZID=Europe/Moscow:20261007T180000
 SUMMARY:до 18.00 Обработка ФОТО Хавско-Шабаловский жилмассив
@@ -191,19 +192,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:45f137b801ee7e3c@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261008T110000
 DTEND;TZID=Europe/Moscow:20261008T130000
 SUMMARY:Молодая гвардия. Локация: 3. Сущёвская ул.\, 19\, стр. 5 ТЗ:
-DESCRIPTION:11:00 - 13:00 Молодая гвардия. Локация: 3. Сущёвская ул.\, 19\, стр. 5 ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ\n\n📍 Адрес: 3. Сущёвская ул.\, 19\, стр. 5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ
-LOCATION:3. Сущёвская ул.\, 19\, стр. 5
+DESCRIPTION:11:00 - 13:00 Молодая гвардия. Локация: 3. Сущёвская ул.\, 19\, стр. 5 ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ\n\n📍 Адрес: Сущёвская ул.\, 19\, стр. 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%A1%D1%83%D1%89%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2019%2C%20%D1%81%D1%82%D1%80.%205\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%A1%D1%83%D1%89%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2019%2C%20%D1%81%D1%82%D1%80.%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-vbsumgR7Et_BQ
+LOCATION:Сущёвская ул.\, 19\, стр. 5
 URL:https://disk.yandex.ru/i/-vbsumgR7Et_BQ
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f150e15ee0c4f8@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261008T140000
 DTEND;TZID=Europe/Moscow:20261008T160000
 SUMMARY:до 16.00 Обработка Московский урожай осень
@@ -213,11 +214,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bc7b11e96d4e98a8@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261009T100000
 DTEND;TZID=Europe/Moscow:20261009T130000
 SUMMARY:ФотоРеп Музей транспорта Локация: Новорязанская ул.\, 27 тз:
-DESCRIPTION:10:00-13:00 ФотоРеп Музей транспорта Локация: Новорязанская ул.\, 27 тз: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg\n\n📍 Адрес: Новорязанская ул.\, 27\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg
+DESCRIPTION:10:00-13:00 ФотоРеп Музей транспорта Локация: Новорязанская ул.\, 27 тз: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg\n\n📍 Адрес: Новорязанская ул.\, 27\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2027\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2027\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/iQtAMOKBH_L2Sg
 LOCATION:Новорязанская ул.\, 27
 URL:https://disk.yandex.ru/i/iQtAMOKBH_L2Sg
 STATUS:CONFIRMED
@@ -225,7 +226,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4e1904527371f359@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261009T160000
 DTEND;TZID=Europe/Moscow:20261009T180000
 SUMMARY:Обработка и сдача Молодая гвардия до 18:00
@@ -235,11 +236,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:071209289a23f2b9@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261012T110000
 DTEND;TZID=Europe/Moscow:20261012T120000
 SUMMARY:Царицыно Оранжерея (Истории Тагирова) Локация: Дольская ул.\, д. 1\, стр. 31\, метро Орехо...
-DESCRIPTION:11:00-12:00  Царицыно Оранжерея (Истории Тагирова) Локация: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2 ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw\n\n📍 Адрес: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw
+DESCRIPTION:11:00-12:00  Царицыно Оранжерея (Истории Тагирова) Локация: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2 ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw\n\n📍 Адрес: Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%20%D0%B4.%201%2C%20%D1%81%D1%82%D1%80.%2031%2C%C2%A0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE%2C%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%94%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%20%D0%B4.%201%2C%20%D1%81%D1%82%D1%80.%2031%2C%C2%A0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE%2C%20%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%202\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/NvcGlCZZu0bMqw
 LOCATION:Дольская ул.\, д. 1\, стр. 31\, метро Орехово\, выход 2
 URL:https://disk.yandex.ru/i/NvcGlCZZu0bMqw
 STATUS:CONFIRMED
@@ -247,7 +248,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6865e4ac711a116b@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261012T160000
 DTEND;TZID=Europe/Moscow:20261012T180000
 SUMMARY:ФотоРеп Музей транспорта обработка и сдача до 18:00
@@ -257,7 +258,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:48ad1ab679b7279a@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261013T090000
 DTEND;TZID=Europe/Moscow:20261013T110000
 SUMMARY:Обработка и сдача оранжерея Царицыно до 11:00 ТЗ:
@@ -268,7 +269,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2e30b50c76dea88f@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261013T130000
 DTEND;TZID=Europe/Moscow:20261013T153000
 SUMMARY:Фото наград в офисе с
@@ -278,7 +279,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2a22d73ea6f479f6@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:ДЕЖ
@@ -288,7 +289,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7a5d30d700ee4ef7@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:ДЕЖ
@@ -298,7 +299,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:21ff7e8ce4451245@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:ДЕЖ
@@ -308,7 +309,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:30601956b400a25a@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:ДЕЖ
@@ -318,7 +319,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:777ee05b42b8a9c8@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261020T100000
 DTEND;TZID=Europe/Moscow:20261020T120000
 SUMMARY:до 12.00 не может в больнице
@@ -328,7 +329,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7c41c922ec726de5@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261026T082000
 DTEND;TZID=Europe/Moscow:20261026T110000
 SUMMARY:ФОТО «95 лет Измайловскому парку»
@@ -339,18 +340,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6fffa42761f517f6@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261026T120000
 DTEND;TZID=Europe/Moscow:20261026T150000
 SUMMARY:ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00
-DESCRIPTION:12.00-15.00 ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00  https://disk.yandex.ru/d/0wuW0XvCgLkLJQ\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/0wuW0XvCgLkLJQ
+DESCRIPTION:12.00-15.00 ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00  https://disk.yandex.ru/d/0wuW0XvCgLkLJQ\n\n📍 Адрес: 00-15.00 ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=00-15.00%20%D0%A4%D0%9E%D0%A2%D0%9E%D0%A0%D0%95%D0%9F%20%22%D0%A4%D0%BE%D1%82%D0%BE%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0%22%20%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%81%2011%3A00\n🧭 Apple Карты: https://maps.apple.com/?q=00-15.00%20%D0%A4%D0%9E%D0%A2%D0%9E%D0%A0%D0%95%D0%9F%20%22%D0%A4%D0%BE%D1%82%D0%BE%D0%9F%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B0%22%20%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%81%2011%3A00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/d/0wuW0XvCgLkLJQ
+LOCATION:00-15.00 ФОТОРЕП "ФотоПрогулка" Царская набережная с 11:00
 URL:https://disk.yandex.ru/d/0wuW0XvCgLkLJQ
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:05d35f516e8f12cc@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261027T130000
 DTEND;TZID=Europe/Moscow:20261027T150000
 SUMMARY:До 15.00 ОБработка «95 лет Измайловскому парку»
@@ -360,7 +362,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3da323f21a945d40@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261027T150000
 DTEND;TZID=Europe/Moscow:20261027T180000
 SUMMARY:Обработка "ФотоРеп Царская набережная"
@@ -370,18 +372,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2d5222cb8fd9bb95@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261028T125000
 DTEND;TZID=Europe/Moscow:20261028T143000
 SUMMARY:Книжная лавка Локация. 3. Кузнецкий мост 18/7 Тз:
-DESCRIPTION:12:50-14:30 Книжная лавка Локация. 3. Кузнецкий мост 18/7 Тз: https://disk.yandex.ru/i/WzYgBwKdaHNG6g\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WzYgBwKdaHNG6g
+DESCRIPTION:12:50-14:30 Книжная лавка Локация. 3. Кузнецкий мост 18/7 Тз: https://disk.yandex.ru/i/WzYgBwKdaHNG6g\n\n📍 Адрес: 3. Кузнецкий мост 18/7\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=3.%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%2018/7\n🧭 Apple Карты: https://maps.apple.com/?q=3.%20%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%2018/7\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/WzYgBwKdaHNG6g
+LOCATION:Кузнецкий мост 18
 URL:https://disk.yandex.ru/i/WzYgBwKdaHNG6g
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:17386d37650def93@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261028T160000
 DTEND;TZID=Europe/Moscow:20261028T180000
 SUMMARY:Обработка и сдача "ФотоРеп Царская набережная" до 18:00
@@ -391,11 +394,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2ffc3717a2684b05@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261029T140000
 DTEND;TZID=Europe/Moscow:20261029T170000
 SUMMARY:Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова\, 8
-DESCRIPTION:14.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова\, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: ул. Казакова\, 8\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA
+DESCRIPTION:14.00-17.00 Фото театр помощник режиссера Гоголя (Истории) Локация: ул. Казакова\, 8 \nТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA\n\n📍 Адрес: ул. Казакова\, 8\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%2C%208\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%2C%208\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/ad0fh4UGF955uA
 LOCATION:ул. Казакова\, 8
 URL:https://disk.yandex.ru/i/ad0fh4UGF955uA
 STATUS:CONFIRMED
@@ -403,7 +406,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b1dd31adfe00c0a3@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261029T180000
 DTEND;TZID=Europe/Moscow:20261029T203000
 SUMMARY:Обработка и сдача дл  Книжная лавка
@@ -414,7 +417,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4898aa1776dc3329@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261030T160000
 DTEND;TZID=Europe/Moscow:20261030T180000
 SUMMARY:до 18.00 Обработка и сдача "Театр помощник режиссера Гоголя"
@@ -424,7 +427,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d6764ec02260cfa2@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261030T180000
 DTEND;TZID=Europe/Moscow:20261030T203000
 SUMMARY:Фото портрет Театр Гоголя Андрей Финягин для афиши + Обработка и сдача одним днем
@@ -434,7 +437,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:298b49da20be3229@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:ДЕЖ
@@ -444,7 +447,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8b1c755e5e40c189@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:ДЕЖ
@@ -454,7 +457,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:22ffa4fb736d27e5@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:-
@@ -464,7 +467,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2a1f85e01e577ff0@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:ОТПУСК
@@ -474,7 +477,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:5a120eb05e4ce4d0@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:ОТПУСК
@@ -484,7 +487,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:52b2e09c01b74078@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:ОТПУСК
@@ -494,7 +497,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:153ee6792df54bf7@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:ОТПУСК
@@ -504,7 +507,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:12d128c55786b36f@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:ОТПУСК
@@ -514,7 +517,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:dd8bb68aff9c7ac1@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:ОТПУСК
@@ -524,7 +527,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6aadffb9f4cfb59e@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:ОТПУСК
@@ -534,19 +537,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:177d83420258ddec@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261110T181500
 DTEND;TZID=Europe/Moscow:20261110T190000
 SUMMARY:ФОТО Офтальмолог (Тагирова)
-DESCRIPTION:18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд\, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg\n\n📍 Адрес: 3. 2-ой Боткинский проезд\, 5\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg
-LOCATION:3. 2-ой Боткинский проезд\, 5
+DESCRIPTION:18.15-19.00 ФОТО Офтальмолог (Тагирова)  \nЛокация: 3. 2-ой Боткинский проезд\, 5 \nТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg\n\n📍 Адрес: 2-ой Боткинский проезд\, 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=2-%D0%BE%D0%B9%20%D0%91%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%205\n🧭 Apple Карты: https://maps.apple.com/?q=2-%D0%BE%D0%B9%20%D0%91%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/PlT_qGslMY26tg
+LOCATION:2-ой Боткинский проезд\, 5
 URL:https://disk.yandex.ru/i/PlT_qGslMY26tg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:46104abd0dd5f3ce@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261111T100000
 DTEND;TZID=Europe/Moscow:20261111T120000
 SUMMARY:до 12.00 обработа ФОТО  Офтальмолог
@@ -556,19 +559,19 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b8846ddc014a8e20@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261111T145000
 DTEND;TZID=Europe/Moscow:20261111T170000
 SUMMARY:ФОТО  Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка\, 4 ТЗ
-DESCRIPTION:ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка\, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n📍 Адрес: 3. ул. Ильинка\, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg
-LOCATION:3. ул. Ильинка\, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg
+DESCRIPTION:ФОТО 14:50-17:00 Гостиный двор (Истории/Летников) Локация: 3. ул. Ильинка\, 4 ТЗ https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg\n\n📍 Адрес: ул. Ильинка\, 4\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D0%BA%D0%B0%2C%204\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D0%BA%D0%B0%2C%204\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg
+LOCATION:ул. Ильинка\, 4
 URL:https://disk.yandex.ru/i/Rg0L-ZDQsG-Rmg
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0209c22d2de30cb1@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261112T100000
 DTEND;TZID=Europe/Moscow:20261112T120000
 SUMMARY:Обработка и сдача до 12:00  Гостиный двор
@@ -578,7 +581,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:c782c48c2993440b@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Зоопарк обезьяны модный журнал
@@ -588,7 +591,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd41e49f503f6ce2@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Музыка в метро
@@ -598,7 +601,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:64878f030e4bc8a4@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:ДЕЖ
@@ -608,7 +611,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:2a8b6fcf5c413f81@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ДЕЖ
@@ -618,7 +621,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:b9a0f1a03bbed2a6@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Съёмка ФотоПроект "Волшебный шар"
@@ -629,7 +632,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1f92cfb9f8b2bc@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Съёмка ФотоПроект "Волшебный шар"
@@ -640,7 +643,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:0227381a8e84089e@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Съёмка ФотоПроект "Волшебный шар"
@@ -651,7 +654,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3463550f1c3f205@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261208T140000
 DTEND;TZID=Europe/Moscow:20261208T160000
 SUMMARY:Обработка и сдача ФотоПроект ДО 16:00 "Волшебный шар"
@@ -662,7 +665,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:376e0d958742e6a5@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:ДЕЖ
@@ -672,7 +675,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ba86a206e056ac0e@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:ДЕЖ
@@ -682,7 +685,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa8246845415ed6@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;TZID=Europe/Moscow:20261222T160000
 DTEND;TZID=Europe/Moscow:20261222T190000
 SUMMARY:Съемка мероприятия Город заданий
@@ -692,7 +695,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:3f62ac3a343faac3@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:ОТПУСК
@@ -702,7 +705,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:8cbaae02a0ec8147@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:ОТПУСК
@@ -712,7 +715,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:26961d3c734cdd76@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:ОТПУСК
@@ -722,7 +725,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:98261eb3403690e0@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:ОТПУСК
@@ -732,7 +735,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3199c026681b0e@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:ОТПУСК
@@ -742,7 +745,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:6d0fdf35941b5195@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:ОТПУСК
@@ -752,7 +755,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:7850f1c36d2da073@yandex-ag
-DTSTAMP:20261110T004702Z
+DTSTAMP:20261110T011858Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:ОТПУСК
