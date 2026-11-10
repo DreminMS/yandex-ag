@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T12:52:40.983080",
+  "updated_at": "2026-11-10T14:48:09.988723",
   "events_by_person": {
     "misha": [
       {
@@ -2957,15 +2957,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "f635f4eb6cd31451@yandex-ag",
+        "uid": "61e23858a5cf96aa@yandex-ag",
         "date": "2026-11-13",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "предварительно ВИДЕО Водолаз",
+        "full_text": "предварительно ВИДЕО Водолаз \nТЗ https://disk.yandex.ru/i/GPMp99-Keou8vg",
         "title": "предварительно ВИДЕО Водолаз",
-        "description": "предварительно ВИДЕО Водолаз",
+        "description": "предварительно ВИДЕО Водолаз \nТЗ https://disk.yandex.ru/i/GPMp99-Keou8vg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GPMp99-Keou8vg",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/GPMp99-Keou8vg"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -7500,15 +7502,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "f635f4eb6cd31451@yandex-ag",
+      "uid": "61e23858a5cf96aa@yandex-ag",
       "date": "2026-11-13",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "предварительно ВИДЕО Водолаз",
+      "full_text": "предварительно ВИДЕО Водолаз \nТЗ https://disk.yandex.ru/i/GPMp99-Keou8vg",
       "title": "предварительно ВИДЕО Водолаз",
-      "description": "предварительно ВИДЕО Водолаз",
+      "description": "предварительно ВИДЕО Водолаз \nТЗ https://disk.yandex.ru/i/GPMp99-Keou8vg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GPMp99-Keou8vg",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/GPMp99-Keou8vg"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
