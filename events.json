@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:58:25.690364",
+  "updated_at": "2026-11-11T08:49:59.038132",
   "events_by_person": {
     "misha": [
       {
@@ -1983,6 +1983,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "7609a615c6e748f8@yandex-ag",
+        "date": "2026-11-13",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "12:50-14:00 Театр Маяковского (Истории/Театральный сезон)",
+        "title": "Театр Маяковского (Истории/Театральный сезон)",
+        "description": "12:50-14:00 Театр Маяковского (Истории/Театральный сезон)",
+        "location": "",
+        "urls": [],
+        "start_time": "12:50",
+        "end_time": "14:00",
+        "is_all_day": false,
+        "row": "42",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "c782c48c2993440b@yandex-ag",
         "date": "2026-11-19",
         "person_key": "tanya",
@@ -2954,6 +2970,22 @@
         "end_time": null,
         "is_all_day": true,
         "row": "47",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "329ff74a9c8cd00e@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Виджет с совёнком из Коломенского",
+        "title": "Виджет с совёнком из Коломенского",
+        "description": "Виджет с совёнком из Коломенского",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "49",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -7338,6 +7370,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "329ff74a9c8cd00e@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Виджет с совёнком из Коломенского",
+      "title": "Виджет с совёнком из Коломенского",
+      "description": "Виджет с совёнком из Коломенского",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "49",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "58d0d1af8a10fe60@yandex-ag",
       "date": "2026-11-11",
       "person_key": "dima",
@@ -7516,6 +7564,22 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "42",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "7609a615c6e748f8@yandex-ag",
+      "date": "2026-11-13",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "12:50-14:00 Театр Маяковского (Истории/Театральный сезон)",
+      "title": "Театр Маяковского (Истории/Театральный сезон)",
+      "description": "12:50-14:00 Театр Маяковского (Истории/Театральный сезон)",
+      "location": "",
+      "urls": [],
+      "start_time": "12:50",
+      "end_time": "14:00",
+      "is_all_day": false,
       "row": "42",
       "sheet": "Ноябрь 2026"
     },
