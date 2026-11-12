@@ -264,6 +264,7 @@
     cleanTitle = cleanTitle.replace(/\s+(?:локаци[яи]|адрес|адерес|место|тз)\s*:?.*/gi, '');
     if (timeRange) cleanTitle = cleanTitle.replace(timeRange, '');
     cleanTitle = cleanTitle.replace(/\b\d{1,2}[:.]\d{2}\s*[-–—]\s*(?:\d{1,2}[:.]\d{2}|по ситуации)\b/gi, '');
+    cleanTitle = cleanTitle.replace(/\[\s*(?:(?:сдать(?:\s+фото|\s+видео|\s+ролик)?\s+)?до\s+\d{1,2}[:.]\d{2}|сдача\s+ролика|дедлайн[:\s]+\d{1,2}[:.]\d{2})\s*\]/gi, ' ');
     cleanTitle = cleanTitle.replace(/(?:^|[\s,.;(])до\s+\d{1,2}[:.]\d{2}(?=[\s,.;:!?)]|$)/gi, ' ');
     cleanTitle = cleanTitle.replace(/(?<!за\s)(?<!от\s)(?:^|\s|[вb]\s*)(\b\d{1,2})[.:](\d{2})(?!\s*г|\s*года)/gi, '');
     cleanTitle = cleanTitle.replace(/\([^)]*половина[^)]*\)/gi, '');

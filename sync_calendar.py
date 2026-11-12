@@ -331,7 +331,7 @@ def parse_workbook(xlsx_path):
                             title = title[:87] + "..."
 
                         # Format detailed description with clickable map links
-                        desc_parts = [text_val]
+                        desc_parts = []
                         if deadline:
                             desc_parts.append(f"⏳ Срок сдачи: {deadline}")
                         if loc:
@@ -340,6 +340,7 @@ def parse_workbook(xlsx_path):
                             desc_parts.append(f"🗺 Яндекс Карты: https://yandex.ru/maps/?text={enc_loc}\n🧭 Apple Карты: https://maps.apple.com/?q={enc_loc}")
                         if urls:
                             desc_parts.append(f"🔗 Ссылка на ТЗ: {urls[0]}")
+                        desc_parts.append(f"📋 Детали и ТЗ:\n{text_val}")
                         desc = "\n\n".join(desc_parts)
 
                         # Stable deterministic UID based on person, date and content hash
@@ -409,7 +410,10 @@ def generate_ics(events, calendar_name, calendar_id):
 
     for ev in events:
         d = datetime.datetime.strptime(ev["date"], "%Y-%m-%d").date()
-        summary = escape_ics_text(ev["title"])
+        summary_text = ev["title"]
+        if ev.get("deadline") and ev["deadline"] not in summary_text:
+            summary_text = f"[{ev['deadline']}] {summary_text}"
+        summary = escape_ics_text(summary_text)
         desc = escape_ics_text(ev.get("description", ev["full_text"]))
         
         # Clean location for native Calendar geocoding: strip bullet numbers and take primary address
