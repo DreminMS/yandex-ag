@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:51:19.180463",
+  "updated_at": "2026-11-12T07:01:11.472663",
   "events_by_person": {
     "misha": [
       {
@@ -1998,6 +1998,22 @@
         "end_time": "14:00",
         "is_all_day": false,
         "row": "42",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "bfc1d96a4ae08f2d@yandex-ag",
+        "date": "2026-11-16",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ДВОРЫ",
+        "title": "ДВОРЫ",
+        "description": "ДВОРЫ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "33",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -7637,6 +7653,22 @@
       "end_time": "14:00",
       "is_all_day": false,
       "row": "42",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "bfc1d96a4ae08f2d@yandex-ag",
+      "date": "2026-11-16",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ДВОРЫ",
+      "title": "ДВОРЫ",
+      "description": "ДВОРЫ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
       "sheet": "Ноябрь 2026"
     },
     {
