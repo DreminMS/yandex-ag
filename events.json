@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:56:41.645698",
+  "updated_at": "2026-11-12T14:49:35.084195",
   "events_by_person": {
     "misha": [
       {
@@ -2035,15 +2035,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "bfc1d96a4ae08f2d@yandex-ag",
+        "uid": "6d6a2dbf5aff6656@yandex-ag",
         "date": "2026-11-16",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "ДВОРЫ",
+        "full_text": "ДВОРЫ  https://disk.yandex.ru/i/YbvsgMxrtKhAZw",
         "title": "ДВОРЫ",
-        "description": "ДВОРЫ",
+        "description": "ДВОРЫ  https://disk.yandex.ru/i/YbvsgMxrtKhAZw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/YbvsgMxrtKhAZw",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/YbvsgMxrtKhAZw"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -3093,15 +3095,17 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "cba2b08a84f81ba1@yandex-ag",
+        "uid": "af3cb4601229405c@yandex-ag",
         "date": "2026-11-16",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Съёмка новогодний ролик",
+        "full_text": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
         "title": "Съёмка новогодний ролик",
-        "description": "Съёмка новогодний ролик",
+        "description": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -4125,6 +4129,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "0c8c73b2b8efdfe9@yandex-ag",
+        "date": "2026-11-11",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Промо-ролики для театров",
+        "title": "Промо-ролики для театров",
+        "description": "Промо-ролики для театров",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "50",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "0c80f45f47de3155@yandex-ag",
         "date": "2026-11-12",
         "person_key": "dima",
@@ -4141,15 +4161,33 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "608026469db60532@yandex-ag",
+        "uid": "99e49a8f0dff8dac@yandex-ag",
+        "date": "2026-11-13",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж и сдача Мотобег",
+        "title": "Монтаж и сдача Мотобег",
+        "description": "Монтаж и сдача Мотобег",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "43",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "60aeb9680f45e322@yandex-ag",
         "date": "2026-11-16",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Съёмка новогодний ролик",
+        "full_text": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
         "title": "Съёмка новогодний ролик",
-        "description": "Съёмка новогодний ролик",
+        "description": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -7504,6 +7542,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "0c8c73b2b8efdfe9@yandex-ag",
+      "date": "2026-11-11",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Промо-ролики для театров",
+      "title": "Промо-ролики для театров",
+      "description": "Промо-ролики для театров",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "50",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "7534ba222355ad2e@yandex-ag",
       "date": "2026-11-11",
       "person_key": "misha",
@@ -7670,6 +7724,22 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "99e49a8f0dff8dac@yandex-ag",
+      "date": "2026-11-13",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж и сдача Мотобег",
+      "title": "Монтаж и сдача Мотобег",
+      "description": "Монтаж и сдача Мотобег",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "43",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "47c97204d762e911@yandex-ag",
       "date": "2026-11-13",
       "person_key": "misha",
@@ -7724,15 +7794,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "bfc1d96a4ae08f2d@yandex-ag",
+      "uid": "6d6a2dbf5aff6656@yandex-ag",
       "date": "2026-11-16",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "ДВОРЫ",
+      "full_text": "ДВОРЫ  https://disk.yandex.ru/i/YbvsgMxrtKhAZw",
       "title": "ДВОРЫ",
-      "description": "ДВОРЫ",
+      "description": "ДВОРЫ  https://disk.yandex.ru/i/YbvsgMxrtKhAZw\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/YbvsgMxrtKhAZw",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/YbvsgMxrtKhAZw"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -7740,15 +7812,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "cba2b08a84f81ba1@yandex-ag",
+      "uid": "af3cb4601229405c@yandex-ag",
       "date": "2026-11-16",
       "person_key": "ilya",
       "person_name": "Илья Фесунов",
-      "full_text": "Съёмка новогодний ролик",
+      "full_text": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
       "title": "Съёмка новогодний ролик",
-      "description": "Съёмка новогодний ролик",
+      "description": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -7756,15 +7830,17 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "608026469db60532@yandex-ag",
+      "uid": "60aeb9680f45e322@yandex-ag",
       "date": "2026-11-16",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Съёмка новогодний ролик",
+      "full_text": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
       "title": "Съёмка новогодний ролик",
-      "description": "Съёмка новогодний ролик",
+      "description": "Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
