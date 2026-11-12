@@ -99,7 +99,9 @@ def extract_time_and_clean_title(text):
         if 0 <= eh <= 23 and 0 <= em <= 59:
             sh = max(0, eh - 2)
             sm = em
-            return (sh, sm), (eh, em), first_line
+            title = re.sub(r"\bдо\s*\d{1,2}[.:]\d{2}\b", "", first_line, flags=re.IGNORECASE)
+            title = re.sub(r"^[,\s–—-]+", "", title).strip()
+            return (sh, sm), (eh, em), title if len(title) > 3 else first_line
 
     # Single time: 10:30, 17:00, 10.30
     # Must NOT be preceded by "за " or "от " (which means a date)
@@ -121,6 +123,23 @@ def extract_time_and_clean_title(text):
             return (sh, sm), (eh, em), title if len(title) > 3 else first_line
 
     return None, None, first_line
+
+def extract_deadline(text):
+    """
+    Поиск дедлайна или срока сдачи в тексте задачи.
+    """
+    if not text:
+        return None
+    m = re.search(r'(?:(?:сдать(?:\s+фото|\s+видео|\s+ролик)?|сдача|обработка|дедлайн)\s+)?\bдо\s+(\d{1,2}[:.]\d{2})\b', text, re.I)
+    if m:
+        return f"до {m.group(1).replace('.', ':')}"
+    m2 = re.search(r'\bдедлайн[:\s]+(\d{1,2}[:.]\d{2})\b', text, re.I)
+    if m2:
+        return f"до {m2.group(1).replace('.', ':')}"
+    m3 = re.search(r'\b(сдача\s+ролика|сдача\s+материала|сдать\s+сегодня)\b', text, re.I)
+    if m3:
+        return m3.group(1)
+    return None
 
 def clean_location_str(loc):
     if not loc:
@@ -299,16 +318,22 @@ def parse_workbook(xlsx_path):
                         start_t, end_t, clean_title = extract_time_and_clean_title(text_val)
                         loc = extract_location(text_val)
                         urls = extract_urls(text_val)
+                        deadline = extract_deadline(text_val)
 
                         # Clean Title: short & expressive
                         title = clean_title.split("\n")[0].strip()
                         # Remove trailing URLs from title
                         title = re.sub(r"https?://[^\s]+", "", title).strip()
+                        # Remove trailing Location / TZ markers from title
+                        title = re.sub(r"\s+(?:локаци[яи]|адрес|адерес|место|тз)\s*:?.*", "", title, flags=re.IGNORECASE).strip()
+                        title = re.sub(r"^[-–—:,. \s]+|[-–—:,. \s]+$", "", title).strip()
                         if len(title) > 90:
                             title = title[:87] + "..."
 
                         # Format detailed description with clickable map links
                         desc_parts = [text_val]
+                        if deadline:
+                            desc_parts.append(f"⏳ Срок сдачи: {deadline}")
                         if loc:
                             desc_parts.append(f"📍 Адрес: {loc}")
                             enc_loc = urllib.parse.quote(loc)
@@ -328,6 +353,7 @@ def parse_workbook(xlsx_path):
                             "person_name": person_name,
                             "full_text": text_val,
                             "title": title or "Событие",
+                            "deadline": deadline or "",
                             "description": desc,
                             "location": loc or "",
                             "urls": urls,

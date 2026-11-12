@@ -560,6 +560,86 @@ body {
   overflow: hidden;
 }
 
+.card-badges-group {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.time-badge.deadline {
+  background: var(--ios-red-light);
+  color: var(--ios-red);
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 59, 48, 0.25);
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+@media (prefers-color-scheme: dark) {
+  .time-badge.deadline {
+    background: rgba(255, 69, 58, 0.2);
+    color: #ff453a;
+    border-color: rgba(255, 69, 58, 0.35);
+  }
+}
+
+.card-details-box {
+  background: var(--ios-fill-tertiary, rgba(0, 0, 0, 0.03));
+  border-left: 3px solid var(--ios-blue);
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin: 6px 0 8px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-details-box {
+    background: rgba(255, 255, 255, 0.05);
+    border-left-color: var(--ios-blue);
+  }
+}
+
+.card-details-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--ios-blue);
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.card-details-text {
+  color: var(--ios-text-primary);
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 140px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.card-details-text::-webkit-scrollbar {
+  width: 4px;
+}
+
+.card-details-text::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-details-text::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+  }
+}
+
 .card-tz-row {
   display: flex;
   align-items: center;

@@ -208,7 +208,7 @@
   function extractDetails(rawText, sheetName = '', assignee = '') {
     const text = String(rawText || '').trim();
     if (!text) {
-      return { cleanTitle: 'Без названия', timeRange: null, location: null, tzUrl: null, bitrixUrl: null, deadline: null, formattedDescription: '' };
+      return { cleanTitle: 'Без названия', timeRange: null, location: null, tzUrl: null, bitrixUrl: null, deadline: null, detailsSnippet: '', formattedDescription: '' };
     }
 
     // 1. URLs
@@ -243,11 +243,16 @@
       }
     }
 
-    // 4. Deadline
+    // 4. Deadline (Cyrillic-safe boundary matching)
     let deadline = null;
-    const dlMatch = text.match(/((?:сдать(?:\s+фото)?\s+до|сдача|до\s+\d{1,2}[:.]\d{2}|обработка\s+до)[^\n\r,.]+)/i);
-    if (dlMatch) {
-      deadline = dlMatch[1].trim();
+    const dlTimeMatch = text.match(/(?:^|[\s,.;:(])(?:(?:сдать(?:\s+фото|\s+видео|\s+ролик)?|сдача|обработка|дедлайн)\s+)?до\s+(\d{1,2}[:.]\d{2})(?=[\s,.;:!?)]|$)/i);
+    if (dlTimeMatch) {
+      deadline = `до ${dlTimeMatch[1].replace('.', ':')}`;
+    } else {
+      const dlNamedMatch = text.match(/(?:^|[\s,.;:(])(дедлайн[:\s]+\d{1,2}[:.]\d{2}|сдача\s+ролика|сдача\s+материала|сдать\s+сегодня)(?=[\s,.;:!?)]|$)/i);
+      if (dlNamedMatch) {
+        deadline = dlNamedMatch[1].replace(/\./g, ':').trim();
+      }
     }
 
     // 5. Clean Title
@@ -255,38 +260,59 @@
     const firstLine = lines[0] || '';
     let cleanTitle = firstLine;
 
-    if (timeRange && cleanTitle.includes(timeRange)) {
-      cleanTitle = cleanTitle.replace(timeRange, '');
-    }
-    cleanTitle = cleanTitle.replace(/\b\d{1,2}[:.]\d{2}\s*[-–—]\s*(?:\d{1,2}[:.]\d{2}|по ситуации)\b/gi, '');
-    cleanTitle = cleanTitle.replace(/\([^)]*половина[^)]*\)/gi, '');
     cleanTitle = cleanTitle.replace(/https?:\/\/[^\s]+/gi, '');
-    cleanTitle = cleanTitle.replace(/(?:локаци[яи]|адрес|место|тз)\s*:.*/gi, '');
+    cleanTitle = cleanTitle.replace(/\s+(?:локаци[яи]|адрес|адерес|место|тз)\s*:?.*/gi, '');
+    if (timeRange) cleanTitle = cleanTitle.replace(timeRange, '');
+    cleanTitle = cleanTitle.replace(/\b\d{1,2}[:.]\d{2}\s*[-–—]\s*(?:\d{1,2}[:.]\d{2}|по ситуации)\b/gi, '');
+    cleanTitle = cleanTitle.replace(/(?:^|[\s,.;(])до\s+\d{1,2}[:.]\d{2}(?=[\s,.;:!?)]|$)/gi, ' ');
+    cleanTitle = cleanTitle.replace(/(?<!за\s)(?<!от\s)(?:^|\s|[вb]\s*)(\b\d{1,2})[.:](\d{2})(?!\s*г|\s*года)/gi, '');
+    cleanTitle = cleanTitle.replace(/\([^)]*половина[^)]*\)/gi, '');
     cleanTitle = cleanTitle.trim().replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
 
     if (!cleanTitle && lines.length > 1) {
-      cleanTitle = lines[1].replace(/https?:\/\/[^\s]+/gi, '').trim().replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
+      cleanTitle = lines[1].replace(/https?:\/\/[^\s]+/gi, '').replace(/\s+(?:локаци[яи]|адрес|адерес|место|тз)\s*:?.*/gi, '').trim().replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
     }
     if (!cleanTitle) {
       cleanTitle = firstLine.slice(0, 60).trim();
     }
 
-    // 6. Extra Details Snippet (details from TZ and cell lines)
-    let detailsSnippet = '';
+    // 6. Extra Details Snippet (details from notes, journalist contacts, shooting specs)
     const detailLines = [];
     for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      if (line === firstLine) continue;
-      const withoutUrls = line.replace(/https?:\/\/[^\s]+/gi, '')
-                              .replace(/^(?:тз|ссылка|документ|файл|титры|описание)\s*:?\s*/gi, '')
-                              .trim()
-                              .replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
-      if (location && line.includes(location)) continue;
-      if (withoutUrls.length > 2) {
-        detailLines.push(withoutUrls);
+      const rawLine = lines[i];
+      let l = rawLine.replace(/https?:\/\/[^\s]+/gi, '').trim();
+
+      if (i === 0) {
+        // If line 0 had extra details beyond title/location/time
+        let rem = l;
+        if (cleanTitle) rem = rem.replace(cleanTitle, '');
+        if (timeRange) rem = rem.replace(timeRange, '');
+        rem = rem.replace(/\b\d{1,2}[:.]\d{2}\s*[-–—]\s*(?:\d{1,2}[:.]\d{2}|по ситуации)\b/gi, '');
+        rem = rem.replace(/(?:^|[\s,.;(])до\s+\d{1,2}[:.]\d{2}(?=[\s,.;:!?)]|$)/gi, ' ');
+        if (location) rem = rem.replace(location, '');
+        rem = rem.replace(/^\s*(?:локаци[яи]|адрес|адерес|место|тз)\s*:?/gi, '');
+        rem = rem.trim().replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
+        if (rem.length > 5) {
+          detailLines.push(rem);
+        }
+        continue;
+      }
+
+      // For lines > 0:
+      const locStripped = l.replace(/^(?:локаци[яи]|адрес|адерес|место)\s*:?\s*/gi, '').trim();
+      if (location && (l === location || locStripped === location)) {
+        continue;
+      }
+
+      l = l.replace(/^(?:тз|ссылка|документ|файл|титры|описание)\s*:?\s*/gi, '').trim();
+      l = l.replace(/^[-–—:,. \s]+|[-–—:,. \s]+$/g, '');
+
+      if (!l || l === cleanTitle) continue;
+      if (l.length > 2) {
+        detailLines.push(l);
       }
     }
-    detailsSnippet = detailLines.join(' • ');
+    const detailsSnippet = detailLines.join('\n').trim();
 
     // 7. Formatted Description
     let descParts = [];
@@ -596,19 +622,22 @@
 
         const loc = cleanLocationStr(ev.location) || extractSmartLocation(ev.full_text || ev.description || '') || '';
 
+        // Extract rich details, title, and deadline
+        const details = extractDetails(ev.full_text || ev.description || '', ev.sheet || '', cleanName);
+
         return {
           id: ev.uid || `task_${idCounter++}`,
-          title: ev.title || 'Событие',
+          title: details.cleanTitle || ev.title || 'Событие',
           date: ev.date,
-          timeRange: timeRange,
+          timeRange: timeRange || details.timeRange || '',
           assignee: cleanName,
           status: status,
-          location: loc,
-          tzUrl: tzUrl,
-          bitrixUrl: bitrixUrl,
-          deadline: '',
-          detailsSnippet: '',
-          description: ev.description || ev.full_text,
+          location: loc || details.location || '',
+          tzUrl: tzUrl || details.tzUrl || '',
+          bitrixUrl: bitrixUrl || details.bitrixUrl || '',
+          deadline: details.deadline || ev.deadline || '',
+          detailsSnippet: details.detailsSnippet || '',
+          description: details.formattedDescription || ev.description || ev.full_text,
           rawText: ev.full_text,
           sheetName: ev.sheet || '',
           sourceRow: ev.row || ''
@@ -1112,13 +1141,19 @@
           <span style="width:6px;height:6px;border-radius:50%;background:${task.status.color}"></span>
           ${task.status.name}
         </span>
-        <div style="display:flex;gap:6px;align-items:center">
-          ${task.timeRange ? `<span class="time-badge">🕒 ${task.timeRange}</span>` : ''}
+        <div class="card-badges-group">
+          ${task.deadline ? `<span class="time-badge deadline">⏳ ${escapeHtml(task.deadline)}</span>` : ''}
+          ${task.timeRange ? `<span class="time-badge">🕒 ${escapeHtml(task.timeRange)}</span>` : ''}
           ${dateBadge}
         </div>
       </div>
       <div class="card-title">${escapeHtml(task.title)}</div>
-      ${task.detailsSnippet ? `<div class="card-details-snippet">📝 ${escapeHtml(task.detailsSnippet)}</div>` : ''}
+      ${task.detailsSnippet ? `
+        <div class="card-details-box">
+          <div class="card-details-label">📋 Детали и ТЗ:</div>
+          <div class="card-details-text">${escapeHtml(task.detailsSnippet)}</div>
+        </div>
+      ` : ''}
       ${task.location ? `
         <div class="card-location-row">
           <a class="card-location-link" href="https://yandex.ru/maps/?text=${encodeURIComponent(task.location)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" title="Открыть адрес в Яндекс.Картах">
@@ -1134,7 +1169,7 @@
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
             <span>Открыть файл ТЗ ↗</span>
           </a>
-          <span class="card-tz-domain">${escapeHtml(domainName)}</span>
+          <span class="card-tz-domain">${escapeHtml(domainName || 'Яндекс.Диск')}</span>
         </div>
       ` : ''}
       <div class="card-footer">
