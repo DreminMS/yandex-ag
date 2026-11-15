@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T14:37:46.641390",
+  "updated_at": "2026-11-15T16:33:31.553299",
   "events_by_person": {
     "misha": [
       {
@@ -3299,25 +3299,6 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "be4d9912599d825b@yandex-ag",
-        "date": "2026-11-16",
-        "person_key": "ilya",
-        "person_name": "Илья Фесунов",
-        "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-        "title": "по ситуации Съёмка новогодний ролик",
-        "deadline": "",
-        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-        "location": "",
-        "urls": [
-          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
-        ],
-        "start_time": "12:00",
-        "end_time": "14:30",
-        "is_all_day": false,
-        "row": "34",
-        "sheet": "Ноябрь 2026"
-      },
-      {
         "uid": "9b492de3f3584de9@yandex-ag",
         "date": "2026-11-17",
         "person_key": "ilya",
@@ -3335,37 +3316,22 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "0f2b354e7a0059ec@yandex-ag",
+        "uid": "841e1fae01a0cd5f@yandex-ag",
         "date": "2026-11-18",
         "person_key": "ilya",
         "person_name": "Илья Фесунов",
-        "full_text": "Монтаж новогодний ролик",
-        "title": "Монтаж новогодний ролик",
+        "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+        "title": "по ситуации Съёмка новогодний ролик",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nМонтаж новогодний ролик",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
         "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
+        "urls": [
+          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:30",
+        "is_all_day": false,
         "row": "29",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "63f72fe6fa0c77f6@yandex-ag",
-        "date": "2026-11-19",
-        "person_key": "ilya",
-        "person_name": "Илья Фесунов",
-        "full_text": "Зоопарк обезьяны модный журнал",
-        "title": "Зоопарк обезьяны модный журнал",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4447,25 +4413,6 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "1e4cf16cb908c11b@yandex-ag",
-        "date": "2026-11-16",
-        "person_key": "dima",
-        "person_name": "Дмитрий Беляев",
-        "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-        "title": "по ситуации Съёмка новогодний ролик",
-        "deadline": "",
-        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-        "location": "",
-        "urls": [
-          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
-        ],
-        "start_time": "12:00",
-        "end_time": "14:30",
-        "is_all_day": false,
-        "row": "34",
-        "sheet": "Ноябрь 2026"
-      },
-      {
         "uid": "0066693cc791b498@yandex-ag",
         "date": "2026-11-17",
         "person_key": "dima",
@@ -4500,14 +4447,33 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "138193ef62f87863@yandex-ag",
+        "uid": "4e67e977ae96cedd@yandex-ag",
+        "date": "2026-11-18",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+        "title": "по ситуации Съёмка новогодний ролик",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+        ],
+        "start_time": "12:00",
+        "end_time": "14:30",
+        "is_all_day": false,
+        "row": "30",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "d1bd3b246f0b8f95@yandex-ag",
         "date": "2026-11-19",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Монтаж Профессии большого города (мастер измерений)",
-        "title": "Монтаж Профессии большого города (мастер измерений)",
+        "full_text": "Зоопарк обезьяны модный журнал",
+        "title": "Зоопарк обезьяны модный журнал",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nМонтаж Профессии большого города (мастер измерений)",
+        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
         "location": "",
         "urls": [],
         "start_time": null,
@@ -8336,44 +8302,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "be4d9912599d825b@yandex-ag",
-      "date": "2026-11-16",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
-      "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-      "title": "по ситуации Съёмка новогодний ролик",
-      "deadline": "",
-      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-      "location": "",
-      "urls": [
-        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "is_all_day": false,
-      "row": "34",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "1e4cf16cb908c11b@yandex-ag",
-      "date": "2026-11-16",
-      "person_key": "dima",
-      "person_name": "Дмитрий Беляев",
-      "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-      "title": "по ситуации Съёмка новогодний ролик",
-      "deadline": "",
-      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
-      "location": "",
-      "urls": [
-        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
-      ],
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "is_all_day": false,
-      "row": "34",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "85604343399768e1@yandex-ag",
       "date": "2026-11-16",
       "person_key": "misha",
@@ -8476,23 +8404,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "0f2b354e7a0059ec@yandex-ag",
-      "date": "2026-11-18",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
-      "full_text": "Монтаж новогодний ролик",
-      "title": "Монтаж новогодний ролик",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\nМонтаж новогодний ролик",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "29",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "93ddeeed41eca8e5@yandex-ag",
       "date": "2026-11-18",
       "person_key": "dima",
@@ -8507,6 +8418,44 @@
       "end_time": null,
       "is_all_day": true,
       "row": "29",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "841e1fae01a0cd5f@yandex-ag",
+      "date": "2026-11-18",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+      "title": "по ситуации Съёмка новогодний ролик",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:30",
+      "is_all_day": false,
+      "row": "29",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "4e67e977ae96cedd@yandex-ag",
+      "date": "2026-11-18",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+      "title": "по ситуации Съёмка новогодний ролик",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/5qgrxJ1rLHi6sg\n\n📋 Детали и ТЗ:\n12:00 - по ситуации Съёмка новогодний ролик https://disk.yandex.ru/i/5qgrxJ1rLHi6sg",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/5qgrxJ1rLHi6sg"
+      ],
+      "start_time": "12:00",
+      "end_time": "14:30",
+      "is_all_day": false,
+      "row": "30",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8544,31 +8493,14 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "63f72fe6fa0c77f6@yandex-ag",
+      "uid": "d1bd3b246f0b8f95@yandex-ag",
       "date": "2026-11-19",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
       "full_text": "Зоопарк обезьяны модный журнал",
       "title": "Зоопарк обезьяны модный журнал",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "27",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "138193ef62f87863@yandex-ag",
-      "date": "2026-11-19",
-      "person_key": "dima",
-      "person_name": "Дмитрий Беляев",
-      "full_text": "Монтаж Профессии большого города (мастер измерений)",
-      "title": "Монтаж Профессии большого города (мастер измерений)",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\nМонтаж Профессии большого города (мастер измерений)",
       "location": "",
       "urls": [],
       "start_time": null,
