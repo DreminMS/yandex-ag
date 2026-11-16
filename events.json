@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:26:16.169206",
+  "updated_at": "2026-11-16T08:26:26.476457",
   "events_by_person": {
     "misha": [
       {
@@ -2212,14 +2212,14 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "c782c48c2993440b@yandex-ag",
+        "uid": "860c4265e4917ab5@yandex-ag",
         "date": "2026-11-19",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "Зоопарк обезьяны модный журнал",
-        "title": "Зоопарк обезьяны модный журнал",
+        "full_text": "Зоопарк обезьяны",
+        "title": "Зоопарк обезьяны",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
+        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны",
         "location": "",
         "urls": [],
         "start_time": null,
@@ -3299,23 +3299,6 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "9b492de3f3584de9@yandex-ag",
-        "date": "2026-11-17",
-        "person_key": "ilya",
-        "person_name": "Илья Фесунов",
-        "full_text": "Съёмка новогодний ролик",
-        "title": "Съёмка новогодний ролик",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\nСъёмка новогодний ролик",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "32",
-        "sheet": "Ноябрь 2026"
-      },
-      {
         "uid": "841e1fae01a0cd5f@yandex-ag",
         "date": "2026-11-18",
         "person_key": "ilya",
@@ -3332,6 +3315,23 @@
         "end_time": "14:30",
         "is_all_day": false,
         "row": "29",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "c93c3cb21652323b@yandex-ag",
+        "date": "2026-11-19",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж новогодний ролик",
+        "title": "Монтаж новогодний ролик",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж новогодний ролик",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -8336,23 +8336,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "9b492de3f3584de9@yandex-ag",
-      "date": "2026-11-17",
-      "person_key": "ilya",
-      "person_name": "Илья Фесунов",
-      "full_text": "Съёмка новогодний ролик",
-      "title": "Съёмка новогодний ролик",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\nСъёмка новогодний ролик",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "32",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "4a31fb4bd502b9c5@yandex-ag",
       "date": "2026-11-17",
       "person_key": "tanya",
@@ -8476,14 +8459,31 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "c782c48c2993440b@yandex-ag",
+      "uid": "860c4265e4917ab5@yandex-ag",
       "date": "2026-11-19",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "Зоопарк обезьяны модный журнал",
-      "title": "Зоопарк обезьяны модный журнал",
+      "full_text": "Зоопарк обезьяны",
+      "title": "Зоопарк обезьяны",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
+      "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "c93c3cb21652323b@yandex-ag",
+      "date": "2026-11-19",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж новогодний ролик",
+      "title": "Монтаж новогодний ролик",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж новогодний ролик",
       "location": "",
       "urls": [],
       "start_time": null,
