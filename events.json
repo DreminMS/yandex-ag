@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:26:26.476457",
+  "updated_at": "2026-11-16T11:10:57.066182",
   "events_by_person": {
     "misha": [
       {
@@ -561,7 +561,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "80",
+        "row": "81",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -580,7 +580,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "79",
+        "row": "80",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -599,7 +599,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "76",
+        "row": "77",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -618,7 +618,7 @@
         "start_time": "16:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -637,7 +637,7 @@
         "start_time": "10:00",
         "end_time": "11:30",
         "is_all_day": false,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -656,7 +656,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -673,7 +673,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -690,7 +690,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -709,7 +709,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "67",
+        "row": "68",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -728,7 +728,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -745,7 +745,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -762,7 +762,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -781,7 +781,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -800,7 +800,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -817,7 +817,7 @@
         "start_time": "15:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "53",
+        "row": "54",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -834,7 +834,7 @@
         "start_time": "09:00",
         "end_time": "11:00",
         "is_all_day": false,
-        "row": "50",
+        "row": "51",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -853,7 +853,7 @@
         "start_time": "12:00",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -870,7 +870,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -887,7 +887,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "47",
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -906,7 +906,7 @@
         "start_time": "10:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "43",
+        "row": "44",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -925,7 +925,7 @@
         "start_time": "16:15",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "44",
+        "row": "45",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -941,23 +941,6 @@
         "urls": [],
         "start_time": "10:00",
         "end_time": "11:00",
-        "is_all_day": false,
-        "row": "34",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "9f04b0dd5ad0dff0@yandex-ag",
-        "date": "2026-11-16",
-        "person_key": "misha",
-        "person_name": "Михаил Дремин",
-        "full_text": "(предварительно) 12.00 Информационное моделирование  - ПБГ  \nЛокация \nТЗ",
-        "title": "(предварительно)  Информационное моделирование  - ПБГ",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\n(предварительно) 12.00 Информационное моделирование  - ПБГ  \nЛокация \nТЗ",
-        "location": "",
-        "urls": [],
-        "start_time": "12:00",
-        "end_time": "14:30",
         "is_all_day": false,
         "row": "35",
         "sheet": "Ноябрь 2026"
@@ -976,7 +959,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "36",
+        "row": "37",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -994,23 +977,6 @@
         "end_time": null,
         "is_all_day": true,
         "row": "32",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "48eabef9009e76a3@yandex-ag",
-        "date": "2026-11-18",
-        "person_key": "misha",
-        "person_name": "Михаил Дремин",
-        "full_text": "ФОТО для обложки ролик Профессии большого города",
-        "title": "ФОТО для обложки ролик Профессии большого города",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\nФОТО для обложки ролик Профессии большого города",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "29",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1216,7 +1182,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "109",
+        "row": "110",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1627,7 +1593,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "40",
+        "row": "41",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1644,7 +1610,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "38",
+        "row": "39",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1909,7 +1875,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "82",
+        "row": "83",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1926,7 +1892,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "79",
+        "row": "80",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1943,7 +1909,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "80",
+        "row": "81",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1960,7 +1926,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1977,7 +1943,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1994,7 +1960,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2011,7 +1977,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2028,7 +1994,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2045,7 +2011,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2064,7 +2030,7 @@
         "start_time": "18:15",
         "end_time": "19:00",
         "is_all_day": false,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2083,7 +2049,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2102,7 +2068,7 @@
         "start_time": "14:50",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2119,7 +2085,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2136,7 +2102,7 @@
         "start_time": "12:00",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "47",
+        "row": "48",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2155,7 +2121,7 @@
         "start_time": "12:50",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "44",
+        "row": "45",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2174,24 +2140,41 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "34",
+        "row": "35",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "4a31fb4bd502b9c5@yandex-ag",
+        "uid": "6a7cd75a9f7dfe40@yandex-ag",
         "date": "2026-11-17",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "9.15-12.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
-        "title": "ВИДЕО Профессии большого города (Мастер измерений)",
+        "full_text": "9.15-12.00 ФОТО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+        "title": "ФОТО Профессии большого города (Мастер измерений)",
         "deadline": "",
-        "description": "📍 Адрес: район МГУ\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n\n📋 Детали и ТЗ:\n9.15-12.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+        "description": "📍 Адрес: район МГУ\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n\n📋 Детали и ТЗ:\n9.15-12.00 ФОТО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
         "location": "район МГУ",
         "urls": [],
         "start_time": "09:15",
         "end_time": "12:00",
         "is_all_day": false,
         "row": "32",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "9e760a05a72ba89c@yandex-ag",
+        "date": "2026-11-17",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "14.30  Специалист информационного моделирования (ПБГ) \nЛокация:  \nТЗ",
+        "title": "Специалист информационного моделирования (ПБГ)",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n14.30  Специалист информационного моделирования (ПБГ) \nЛокация:  \nТЗ",
+        "location": "",
+        "urls": [],
+        "start_time": "14:30",
+        "end_time": "17:00",
+        "is_all_day": false,
+        "row": "33",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2212,19 +2195,19 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "860c4265e4917ab5@yandex-ag",
+        "uid": "b19c59287a3cfaab@yandex-ag",
         "date": "2026-11-19",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "Зоопарк обезьяны",
+        "full_text": "9:00- Зоопарк обезьяны",
         "title": "Зоопарк обезьяны",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны",
+        "description": "📋 Детали и ТЗ:\n9:00- Зоопарк обезьяны",
         "location": "",
         "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
+        "start_time": "09:00",
+        "end_time": "11:30",
+        "is_all_day": false,
         "row": "27",
         "sheet": "Ноябрь 2026"
       },
@@ -3060,7 +3043,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "79",
+        "row": "80",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3077,7 +3060,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "76",
+        "row": "77",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3096,7 +3079,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3115,7 +3098,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "70",
+        "row": "71",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3132,7 +3115,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3149,7 +3132,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "63",
+        "row": "64",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3166,7 +3149,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "60",
+        "row": "61",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3183,7 +3166,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3202,7 +3185,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "53",
+        "row": "54",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3221,7 +3204,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3240,7 +3223,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3257,7 +3240,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3276,7 +3259,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3295,7 +3278,7 @@
         "start_time": "10:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "43",
+        "row": "44",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3883,7 +3866,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "40",
+        "row": "41",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3900,7 +3883,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "38",
+        "row": "39",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4182,7 +4165,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "82",
+        "row": "83",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4201,7 +4184,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "79",
+        "row": "80",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4218,7 +4201,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "75",
+        "row": "76",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4235,7 +4218,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "76",
+        "row": "77",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4254,7 +4237,7 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4271,7 +4254,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "69",
+        "row": "70",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4288,7 +4271,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4305,7 +4288,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "58",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4322,7 +4305,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "56",
+        "row": "57",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4341,7 +4324,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "53",
+        "row": "54",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4358,7 +4341,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "49",
+        "row": "50",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4375,7 +4358,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "50",
+        "row": "51",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4392,7 +4375,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4409,7 +4392,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "43",
+        "row": "44",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4466,19 +4449,21 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "d1bd3b246f0b8f95@yandex-ag",
+        "uid": "17062a69dcb4b7a6@yandex-ag",
         "date": "2026-11-19",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Зоопарк обезьяны модный журнал",
+        "full_text": "9:00- 12:00 Зоопарк обезьяны модный журнал ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA",
         "title": "Зоопарк обезьяны модный журнал",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA\n\n📋 Детали и ТЗ:\n9:00- 12:00 Зоопарк обезьяны модный журнал ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA",
         "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
+        "urls": [
+          "https://disk.yandex.ru/i/DHekxnARYC6yeA"
+        ],
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "is_all_day": false,
         "row": "27",
         "sheet": "Ноябрь 2026"
       },
@@ -4822,7 +4807,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "109",
+      "row": "110",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -5946,7 +5931,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "40",
+      "row": "41",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -5980,7 +5965,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "40",
+      "row": "41",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -5997,7 +5982,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "38",
+      "row": "39",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6031,7 +6016,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "38",
+      "row": "39",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7120,7 +7105,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "82",
+      "row": "83",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7137,7 +7122,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "82",
+      "row": "83",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7154,7 +7139,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "79",
+      "row": "80",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7171,7 +7156,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "80",
+      "row": "81",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7190,7 +7175,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "79",
+      "row": "80",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7207,7 +7192,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "80",
+      "row": "81",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7226,7 +7211,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "79",
+      "row": "80",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7245,7 +7230,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "79",
+      "row": "80",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7262,7 +7247,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7279,7 +7264,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "76",
+      "row": "77",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7296,7 +7281,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "75",
+      "row": "76",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7313,7 +7298,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "76",
+      "row": "77",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7332,7 +7317,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "76",
+      "row": "77",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7351,7 +7336,7 @@
       "start_time": "16:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7370,7 +7355,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7387,7 +7372,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7404,7 +7389,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7423,7 +7408,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7442,7 +7427,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7459,7 +7444,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7478,7 +7463,7 @@
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
-      "row": "69",
+      "row": "70",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7497,7 +7482,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "70",
+      "row": "71",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7514,7 +7499,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7531,7 +7516,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7548,7 +7533,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7565,7 +7550,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7582,7 +7567,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7601,7 +7586,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "67",
+      "row": "68",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7620,7 +7605,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7637,7 +7622,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7654,7 +7639,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "63",
+      "row": "64",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7671,7 +7656,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7688,7 +7673,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7705,7 +7690,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "60",
+      "row": "61",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7722,7 +7707,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7741,7 +7726,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7758,7 +7743,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7775,7 +7760,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "58",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7792,7 +7777,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "56",
+      "row": "57",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7811,7 +7796,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "53",
+      "row": "54",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7830,7 +7815,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7849,7 +7834,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7868,7 +7853,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "53",
+      "row": "54",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7885,7 +7870,7 @@
       "start_time": "15:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "53",
+      "row": "54",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7904,7 +7889,7 @@
       "start_time": "18:15",
       "end_time": "19:00",
       "is_all_day": false,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7923,7 +7908,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7942,7 +7927,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7959,7 +7944,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7976,7 +7961,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "49",
+      "row": "50",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7993,7 +7978,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "50",
+      "row": "51",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8010,7 +7995,7 @@
       "start_time": "09:00",
       "end_time": "11:00",
       "is_all_day": false,
-      "row": "50",
+      "row": "51",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8029,7 +8014,7 @@
       "start_time": "12:00",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8048,7 +8033,7 @@
       "start_time": "14:50",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8067,7 +8052,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8084,7 +8069,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8101,7 +8086,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8118,7 +8103,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8135,7 +8120,7 @@
       "start_time": "12:00",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "47",
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8152,7 +8137,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "47",
+      "row": "48",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8169,7 +8154,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "43",
+      "row": "44",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8188,7 +8173,7 @@
       "start_time": "10:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "43",
+      "row": "44",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8207,7 +8192,7 @@
       "start_time": "10:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "43",
+      "row": "44",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8226,7 +8211,7 @@
       "start_time": "12:50",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "44",
+      "row": "45",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8245,7 +8230,7 @@
       "start_time": "16:15",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "44",
+      "row": "45",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8264,7 +8249,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "34",
+      "row": "35",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8280,23 +8265,6 @@
       "urls": [],
       "start_time": "10:00",
       "end_time": "11:00",
-      "is_all_day": false,
-      "row": "34",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "9f04b0dd5ad0dff0@yandex-ag",
-      "date": "2026-11-16",
-      "person_key": "misha",
-      "person_name": "Михаил Дремин",
-      "full_text": "(предварительно) 12.00 Информационное моделирование  - ПБГ  \nЛокация \nТЗ",
-      "title": "(предварительно)  Информационное моделирование  - ПБГ",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\n(предварительно) 12.00 Информационное моделирование  - ПБГ  \nЛокация \nТЗ",
-      "location": "",
-      "urls": [],
-      "start_time": "12:00",
-      "end_time": "14:30",
       "is_all_day": false,
       "row": "35",
       "sheet": "Ноябрь 2026"
@@ -8315,7 +8283,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "36",
+      "row": "37",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8336,14 +8304,14 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "4a31fb4bd502b9c5@yandex-ag",
+      "uid": "6a7cd75a9f7dfe40@yandex-ag",
       "date": "2026-11-17",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "9.15-12.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
-      "title": "ВИДЕО Профессии большого города (Мастер измерений)",
+      "full_text": "9.15-12.00 ФОТО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+      "title": "ФОТО Профессии большого города (Мастер измерений)",
       "deadline": "",
-      "description": "📍 Адрес: район МГУ\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n\n📋 Детали и ТЗ:\n9.15-12.00 ВИДЕО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
+      "description": "📍 Адрес: район МГУ\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%20%D0%9C%D0%93%D0%A3\n\n📋 Детали и ТЗ:\n9.15-12.00 ФОТО Профессии большого города (Мастер измерений)  \nЛокация:  район МГУ \nТЗ:",
       "location": "район МГУ",
       "urls": [],
       "start_time": "09:15",
@@ -8370,20 +8338,20 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "48eabef9009e76a3@yandex-ag",
-      "date": "2026-11-18",
-      "person_key": "misha",
-      "person_name": "Михаил Дремин",
-      "full_text": "ФОТО для обложки ролик Профессии большого города",
-      "title": "ФОТО для обложки ролик Профессии большого города",
+      "uid": "9e760a05a72ba89c@yandex-ag",
+      "date": "2026-11-17",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "14.30  Специалист информационного моделирования (ПБГ) \nЛокация:  \nТЗ",
+      "title": "Специалист информационного моделирования (ПБГ)",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\nФОТО для обложки ролик Профессии большого города",
+      "description": "📋 Детали и ТЗ:\n14.30  Специалист информационного моделирования (ПБГ) \nЛокация:  \nТЗ",
       "location": "",
       "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "29",
+      "start_time": "14:30",
+      "end_time": "17:00",
+      "is_all_day": false,
+      "row": "33",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8459,23 +8427,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "860c4265e4917ab5@yandex-ag",
-      "date": "2026-11-19",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "Зоопарк обезьяны",
-      "title": "Зоопарк обезьяны",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "27",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "c93c3cb21652323b@yandex-ag",
       "date": "2026-11-19",
       "person_key": "ilya",
@@ -8493,19 +8444,38 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "d1bd3b246f0b8f95@yandex-ag",
+      "uid": "b19c59287a3cfaab@yandex-ag",
+      "date": "2026-11-19",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "9:00- Зоопарк обезьяны",
+      "title": "Зоопарк обезьяны",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n9:00- Зоопарк обезьяны",
+      "location": "",
+      "urls": [],
+      "start_time": "09:00",
+      "end_time": "11:30",
+      "is_all_day": false,
+      "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "17062a69dcb4b7a6@yandex-ag",
       "date": "2026-11-19",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Зоопарк обезьяны модный журнал",
+      "full_text": "9:00- 12:00 Зоопарк обезьяны модный журнал ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA",
       "title": "Зоопарк обезьяны модный журнал",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\nЗоопарк обезьяны модный журнал",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA\n\n📋 Детали и ТЗ:\n9:00- 12:00 Зоопарк обезьяны модный журнал ТЗ: https://disk.yandex.ru/i/DHekxnARYC6yeA",
       "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
+      "urls": [
+        "https://disk.yandex.ru/i/DHekxnARYC6yeA"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "is_all_day": false,
       "row": "27",
       "sheet": "Ноябрь 2026"
     },
