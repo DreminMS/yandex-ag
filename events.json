@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:03:22.276513",
+  "updated_at": "2026-11-17T08:52:20.995704",
   "events_by_person": {
     "misha": [
       {
@@ -4646,16 +4646,18 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "fcbd43181a04d10e@yandex-ag",
+        "uid": "aa713d90fc3dfeb5@yandex-ag",
         "date": "2026-11-24",
         "person_key": "dima",
         "person_name": "Дмитрий Беляев",
-        "full_text": "Разработка визуала к меропритию АГ",
-        "title": "Разработка визуала к меропритию АГ",
+        "full_text": "Ролик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
+        "title": "Ролик к Голосования Московская реставрация (через ИИ)   ЖДЕМ ФОТКИ",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nРазработка визуала к меропритию АГ",
+        "description": "🔗 Ссылка на ТЗ: https://ag.mos.ru/polls/17346\n\n📋 Детали и ТЗ:\nРолик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://ag.mos.ru/polls/17346"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -8921,16 +8923,18 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "fcbd43181a04d10e@yandex-ag",
+      "uid": "aa713d90fc3dfeb5@yandex-ag",
       "date": "2026-11-24",
       "person_key": "dima",
       "person_name": "Дмитрий Беляев",
-      "full_text": "Разработка визуала к меропритию АГ",
-      "title": "Разработка визуала к меропритию АГ",
+      "full_text": "Ролик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
+      "title": "Ролик к Голосования Московская реставрация (через ИИ)   ЖДЕМ ФОТКИ",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\nРазработка визуала к меропритию АГ",
+      "description": "🔗 Ссылка на ТЗ: https://ag.mos.ru/polls/17346\n\n📋 Детали и ТЗ:\nРолик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://ag.mos.ru/polls/17346"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
