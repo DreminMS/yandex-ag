@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T10:55:38.877623",
+  "updated_at": "2026-11-17T12:54:28.435681",
   "events_by_person": {
     "misha": [
       {
@@ -984,12 +984,14 @@
         "date": "2026-11-18",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  \nТЗ: ждем",
+        "full_text": "13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  3.  ул. Косыгина, 17, корп. 1\nТЗ:https://disk.yandex.ru/i/fSe6sdk6UsS-zQ",
         "title": "00-15.00 ФОТО Дом Пионеров (Летников)",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\n13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  \nТЗ: ждем",
-        "location": "",
-        "urls": [],
+        "description": "📍 Адрес: ул. Косыгина, 17, корп. 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%9A%D0%BE%D1%81%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0%2C%2017%2C%20%D0%BA%D0%BE%D1%80%D0%BF.%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%9A%D0%BE%D1%81%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0%2C%2017%2C%20%D0%BA%D0%BE%D1%80%D0%BF.%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/fSe6sdk6UsS-zQ\n\n📋 Детали и ТЗ:\n13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  3.  ул. Косыгина, 17, корп. 1\nТЗ:https://disk.yandex.ru/i/fSe6sdk6UsS-zQ",
+        "location": "ул. Косыгина, 17, корп. 1",
+        "urls": [
+          "https://disk.yandex.ru/i/fSe6sdk6UsS-zQ"
+        ],
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
@@ -1047,6 +1049,23 @@
         "end_time": "12:30",
         "is_all_day": false,
         "row": "26",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "b0452ce3aedd817f@yandex-ag",
+        "date": "2026-11-20",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "До 18:00 обработка и сдача Дом пионеров",
+        "title": "обработка и сдача Дом пионеров",
+        "deadline": "до 18:00",
+        "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nДо 18:00 обработка и сдача Дом пионеров",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -8668,12 +8687,14 @@
       "date": "2026-11-18",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  \nТЗ: ждем",
+      "full_text": "13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  3.  ул. Косыгина, 17, корп. 1\nТЗ:https://disk.yandex.ru/i/fSe6sdk6UsS-zQ",
       "title": "00-15.00 ФОТО Дом Пионеров (Летников)",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\n13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  \nТЗ: ждем",
-      "location": "",
-      "urls": [],
+      "description": "📍 Адрес: ул. Косыгина, 17, корп. 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%9A%D0%BE%D1%81%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0%2C%2017%2C%20%D0%BA%D0%BE%D1%80%D0%BF.%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%9A%D0%BE%D1%81%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0%2C%2017%2C%20%D0%BA%D0%BE%D1%80%D0%BF.%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/fSe6sdk6UsS-zQ\n\n📋 Детали и ТЗ:\n13.00.00-15.00 ФОТО Дом Пионеров (Летников)  \nЛокация:  3.  ул. Косыгина, 17, корп. 1\nТЗ:https://disk.yandex.ru/i/fSe6sdk6UsS-zQ",
+      "location": "ул. Косыгина, 17, корп. 1",
+      "urls": [
+        "https://disk.yandex.ru/i/fSe6sdk6UsS-zQ"
+      ],
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
@@ -8907,6 +8928,23 @@
       "end_time": "14:00",
       "is_all_day": false,
       "row": "26",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "b0452ce3aedd817f@yandex-ag",
+      "date": "2026-11-20",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "До 18:00 обработка и сдача Дом пионеров",
+      "title": "обработка и сдача Дом пионеров",
+      "deadline": "до 18:00",
+      "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nДо 18:00 обработка и сдача Дом пионеров",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "27",
       "sheet": "Ноябрь 2026"
     },
     {
