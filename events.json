@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T12:54:28.435681",
+  "updated_at": "2026-11-17T14:50:28.611293",
   "events_by_person": {
     "misha": [
       {
@@ -1031,7 +1031,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "31",
+        "row": "30",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -8859,7 +8859,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "31",
+      "row": "30",
       "sheet": "Ноябрь 2026"
     },
     {
