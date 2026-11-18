@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:02:27.871130",
+  "updated_at": "2026-11-18T08:55:13.395264",
   "events_by_person": {
     "misha": [
       {
@@ -1100,6 +1100,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "21",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "819000554e7d5eca@yandex-ag",
+        "date": "2026-11-26",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "16.00-18.00 Награждение Общенственная палата (будет ЕА \nТЗ:",
+        "title": "Награждение Общенственная палата (будет ЕА",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n16.00-18.00 Награждение Общенственная палата (будет ЕА \nТЗ:",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "12",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2286,39 +2303,20 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "ab560ca239bef553@yandex-ag",
+        "uid": "a86faaefbf90fe60@yandex-ag",
         "date": "2026-11-18",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "до 11.00 обработка бэкстейдж с измерителя",
-        "title": "обработка бэкстейдж с измерителя",
-        "deadline": "до 11:00",
-        "description": "⏳ Срок сдачи: до 11:00\n\n📋 Детали и ТЗ:\nдо 11.00 обработка бэкстейдж с измерителя",
+        "full_text": "ОБРАБОТКА  \n1)     \nДворы \n\n2)     \nТеатр Маяковского \n\nЧетверг Информационное моделирование \n\nЧетверг Бэкстейдж",
+        "title": "ОБРАБОТКА",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОБРАБОТКА  \n1)     \nДворы \n\n2)     \nТеатр Маяковского \n\nЧетверг Информационное моделирование \n\nЧетверг Бэкстейдж",
         "location": "",
         "urls": [],
-        "start_time": "09:00",
-        "end_time": "11:00",
-        "is_all_day": false,
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
         "row": "33",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "7aca220327afd5f7@yandex-ag",
-        "date": "2026-11-18",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-        "title": "Театр Маяковского Костюмер",
-        "deadline": "",
-        "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-        "location": "ул. Большая Никитская, 19/13, стр 1",
-        "urls": [
-          "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
-        ],
-        "start_time": "13:00",
-        "end_time": "16:00",
-        "is_all_day": false,
-        "row": "34",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2341,23 +2339,6 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "6ca3b14aaf544cd5@yandex-ag",
-        "date": "2026-11-19",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "Обрпаботка фото Дом советов",
-        "title": "Обрпаботка фото Дом советов",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\nОбрпаботка фото Дом советов",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "31",
-        "sheet": "Ноябрь 2026"
-      },
-      {
         "uid": "fc12aadd4be36c31@yandex-ag",
         "date": "2026-11-19",
         "person_key": "tanya",
@@ -2375,6 +2356,23 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "4691e3568c278824@yandex-ag",
+        "date": "2026-11-19",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка фото Дом советов до 18.00",
+        "title": "Обработка фото Дом советов",
+        "deadline": "до 18:00",
+        "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nОбработка фото Дом советов до 18.00",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "31",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "65f4d3e5bb3b7d93@yandex-ag",
         "date": "2026-11-20",
         "person_key": "tanya",
@@ -2389,23 +2387,6 @@
         "end_time": "14:00",
         "is_all_day": false,
         "row": "26",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "420c7e24a0e420c5@yandex-ag",
-        "date": "2026-11-20",
-        "person_key": "tanya",
-        "person_name": "Таня",
-        "full_text": "до 18.00 ОБРАБОТКА фото театр Маяковского костюмер",
-        "title": "ОБРАБОТКА фото театр Маяковского костюмер",
-        "deadline": "до 18:00",
-        "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nдо 18.00 ОБРАБОТКА фото театр Маяковского костюмер",
-        "location": "",
-        "urls": [],
-        "start_time": "16:00",
-        "end_time": "18:00",
-        "is_all_day": false,
-        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -8611,6 +8592,23 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "a86faaefbf90fe60@yandex-ag",
+      "date": "2026-11-18",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОБРАБОТКА  \n1)     \nДворы \n\n2)     \nТеатр Маяковского \n\nЧетверг Информационное моделирование \n\nЧетверг Бэкстейдж",
+      "title": "ОБРАБОТКА",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОБРАБОТКА  \n1)     \nДворы \n\n2)     \nТеатр Маяковского \n\nЧетверг Информационное моделирование \n\nЧетверг Бэкстейдж",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "93ddeeed41eca8e5@yandex-ag",
       "date": "2026-11-18",
       "person_key": "dima",
@@ -8624,23 +8622,6 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "33",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "ab560ca239bef553@yandex-ag",
-      "date": "2026-11-18",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "до 11.00 обработка бэкстейдж с измерителя",
-      "title": "обработка бэкстейдж с измерителя",
-      "deadline": "до 11:00",
-      "description": "⏳ Срок сдачи: до 11:00\n\n📋 Детали и ТЗ:\nдо 11.00 обработка бэкстейдж с измерителя",
-      "location": "",
-      "urls": [],
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "is_all_day": false,
       "row": "33",
       "sheet": "Ноябрь 2026"
     },
@@ -8702,25 +8683,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "7aca220327afd5f7@yandex-ag",
-      "date": "2026-11-18",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-      "title": "Театр Маяковского Костюмер",
-      "deadline": "",
-      "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-      "location": "ул. Большая Никитская, 19/13, стр 1",
-      "urls": [
-        "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
-      ],
-      "start_time": "13:00",
-      "end_time": "16:00",
-      "is_all_day": false,
-      "row": "34",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "3b3a1dd1a2ae66ab@yandex-ag",
       "date": "2026-11-19",
       "person_key": "tanya",
@@ -8737,23 +8699,6 @@
       "end_time": null,
       "is_all_day": true,
       "row": "30",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "6ca3b14aaf544cd5@yandex-ag",
-      "date": "2026-11-19",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "Обрпаботка фото Дом советов",
-      "title": "Обрпаботка фото Дом советов",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\nОбрпаботка фото Дом советов",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "31",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8863,6 +8808,23 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "4691e3568c278824@yandex-ag",
+      "date": "2026-11-19",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка фото Дом советов до 18.00",
+      "title": "Обработка фото Дом советов",
+      "deadline": "до 18:00",
+      "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nОбработка фото Дом советов до 18.00",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "31",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "de388d64dcade4e1@yandex-ag",
       "date": "2026-11-20",
       "person_key": "ilya",
@@ -8939,23 +8901,6 @@
       "title": "обработка и сдача Дом пионеров",
       "deadline": "до 18:00",
       "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nДо 18:00 обработка и сдача Дом пионеров",
-      "location": "",
-      "urls": [],
-      "start_time": "16:00",
-      "end_time": "18:00",
-      "is_all_day": false,
-      "row": "27",
-      "sheet": "Ноябрь 2026"
-    },
-    {
-      "uid": "420c7e24a0e420c5@yandex-ag",
-      "date": "2026-11-20",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "до 18.00 ОБРАБОТКА фото театр Маяковского костюмер",
-      "title": "ОБРАБОТКА фото театр Маяковского костюмер",
-      "deadline": "до 18:00",
-      "description": "⏳ Срок сдачи: до 18:00\n\n📋 Детали и ТЗ:\nдо 18.00 ОБРАБОТКА фото театр Маяковского костюмер",
       "location": "",
       "urls": [],
       "start_time": "16:00",
@@ -9150,6 +9095,23 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "12",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "819000554e7d5eca@yandex-ag",
+      "date": "2026-11-26",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "16.00-18.00 Награждение Общенственная палата (будет ЕА \nТЗ:",
+      "title": "Награждение Общенственная палата (будет ЕА",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n16.00-18.00 Награждение Общенственная палата (будет ЕА \nТЗ:",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "is_all_day": false,
       "row": "12",
       "sheet": "Ноябрь 2026"
     },
