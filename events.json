@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T06:23:07.837186",
+  "updated_at": "2026-11-19T17:08:42.722602",
   "events_by_person": {
     "misha": [
       {
@@ -561,7 +561,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "88",
+        "row": "89",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -580,7 +580,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "87",
+        "row": "88",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -599,7 +599,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "84",
+        "row": "85",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -618,7 +618,7 @@
         "start_time": "16:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "85",
+        "row": "86",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -637,7 +637,7 @@
         "start_time": "10:00",
         "end_time": "11:30",
         "is_all_day": false,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -656,7 +656,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "78",
+        "row": "79",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -673,7 +673,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "79",
+        "row": "80",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -690,7 +690,7 @@
         "start_time": "11:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -709,7 +709,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "75",
+        "row": "76",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -728,7 +728,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -745,7 +745,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -762,7 +762,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -781,7 +781,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "65",
+        "row": "66",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -800,7 +800,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -817,7 +817,7 @@
         "start_time": "15:00",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -834,7 +834,7 @@
         "start_time": "09:00",
         "end_time": "11:00",
         "is_all_day": false,
-        "row": "58",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -853,7 +853,7 @@
         "start_time": "12:00",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "59",
+        "row": "60",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -870,7 +870,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -887,7 +887,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "55",
+        "row": "56",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -906,7 +906,7 @@
         "start_time": "10:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -925,7 +925,7 @@
         "start_time": "16:15",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "52",
+        "row": "53",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -942,7 +942,7 @@
         "start_time": "10:00",
         "end_time": "11:00",
         "is_all_day": false,
-        "row": "42",
+        "row": "43",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -959,7 +959,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "44",
+        "row": "45",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -976,7 +976,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "38",
+        "row": "39",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -995,7 +995,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "34",
+        "row": "35",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1014,7 +1014,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "30",
+        "row": "31",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1031,22 +1031,22 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "31",
+        "row": "32",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "bf00fff465487cb7@yandex-ag",
+        "uid": "1c4466a966579c43@yandex-ag",
         "date": "2026-11-20",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "(предварительно) 10.00 Инженеруроавдения водоснабжение (Мосводоканал)  \nЛокация:  \nТЗ:",
-        "title": "(предварительно)  Инженеруроавдения водоснабжение (Мосводоканал)",
+        "full_text": "12.30-13.30 Встреча по фото в офисе",
+        "title": "Встреча по фото в офисе",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\n(предварительно) 10.00 Инженеруроавдения водоснабжение (Мосводоканал)  \nЛокация:  \nТЗ:",
+        "description": "📋 Детали и ТЗ:\n12.30-13.30 Встреча по фото в офисе",
         "location": "",
         "urls": [],
-        "start_time": "10:00",
-        "end_time": "12:30",
+        "start_time": "12:30",
+        "end_time": "13:30",
         "is_all_day": false,
         "row": "27",
         "sheet": "Ноябрь 2026"
@@ -1305,7 +1305,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "117",
+        "row": "118",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1699,7 +1699,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "48",
+        "row": "49",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1716,7 +1716,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1981,7 +1981,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "90",
+        "row": "91",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -1998,7 +1998,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "87",
+        "row": "88",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2015,7 +2015,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "88",
+        "row": "89",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2032,7 +2032,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "85",
+        "row": "86",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2049,7 +2049,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "81",
+        "row": "82",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2066,7 +2066,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2083,7 +2083,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2100,7 +2100,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2117,7 +2117,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2136,7 +2136,7 @@
         "start_time": "18:15",
         "end_time": "19:00",
         "is_all_day": false,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2155,7 +2155,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2174,7 +2174,7 @@
         "start_time": "14:50",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "59",
+        "row": "60",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2191,7 +2191,7 @@
         "start_time": "10:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2208,7 +2208,7 @@
         "start_time": "12:00",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "55",
+        "row": "56",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2227,7 +2227,7 @@
         "start_time": "12:50",
         "end_time": "14:00",
         "is_all_day": false,
-        "row": "52",
+        "row": "53",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2246,7 +2246,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "42",
+        "row": "43",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2265,7 +2265,7 @@
         "start_time": "09:15",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "38",
+        "row": "39",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2282,7 +2282,7 @@
         "start_time": "14:30",
         "end_time": "17:00",
         "is_all_day": false,
-        "row": "39",
+        "row": "40",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2299,7 +2299,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "40",
+        "row": "41",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2316,7 +2316,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "34",
+        "row": "35",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2335,7 +2335,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "31",
+        "row": "32",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2352,7 +2352,7 @@
         "start_time": "09:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "30",
+        "row": "31",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2369,41 +2369,41 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "32",
+        "row": "33",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "65f4d3e5bb3b7d93@yandex-ag",
+        "uid": "2d0be3db145e91a9@yandex-ag",
         "date": "2026-11-20",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "до 14.00 ФОТО Зоопарк обезьяны",
-        "title": "ФОТО Зоопарк обезьяны",
-        "deadline": "до 14:00",
-        "description": "⏳ Срок сдачи: до 14:00\n\n📋 Детали и ТЗ:\nдо 14.00 ФОТО Зоопарк обезьяны",
+        "full_text": "12.30-13.30  Встреча по фото в офисе",
+        "title": "Встреча по фото в офисе",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n12.30-13.30  Встреча по фото в офисе",
         "location": "",
         "urls": [],
-        "start_time": "12:00",
-        "end_time": "14:00",
+        "start_time": "12:30",
+        "end_time": "13:30",
         "is_all_day": false,
         "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "e07db725e5821d72@yandex-ag",
-        "date": "2026-11-23",
+        "uid": "6403add42e66c18a@yandex-ag",
+        "date": "2026-11-20",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "(утро) ФОТО Музыка в метро",
-        "title": "(утро) ФОТО Музыка в метро",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\n(утро) ФОТО Музыка в метро",
+        "full_text": "до 16.00 ФОТО Зоопарк обезьяны",
+        "title": "ФОТО Зоопарк обезьяны",
+        "deadline": "до 16:00",
+        "description": "⏳ Срок сдачи: до 16:00\n\n📋 Детали и ТЗ:\nдо 16.00 ФОТО Зоопарк обезьяны",
         "location": "",
         "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "19",
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "is_all_day": false,
+        "row": "28",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2421,6 +2421,25 @@
         "end_time": null,
         "is_all_day": true,
         "row": "20",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "cc0f174eb486395a@yandex-ag",
+        "date": "2026-11-23",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "9.00-11.00  ФОТО Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+        "title": "ФОТО Музыка в метро (мифтахутдинова)",
+        "deadline": "",
+        "description": "📍 Адрес: Южный речной вокзал. Проспект Андропова д.11, корп.2\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA\n\n📋 Детали и ТЗ:\n9.00-11.00  ФОТО Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+        "location": "Южный речной вокзал. Проспект Андропова д.11, корп.2",
+        "urls": [
+          "https://disk.yandex.ru/i/HA8BsNMGzzewzA"
+        ],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "19",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3238,7 +3257,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "87",
+        "row": "88",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3255,7 +3274,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "84",
+        "row": "85",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3274,7 +3293,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3293,7 +3312,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "78",
+        "row": "79",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3310,7 +3329,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3327,7 +3346,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "71",
+        "row": "72",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3344,7 +3363,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "68",
+        "row": "69",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3361,7 +3380,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3380,7 +3399,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3399,7 +3418,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "62",
+        "row": "63",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3418,7 +3437,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3435,7 +3454,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "59",
+        "row": "60",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3454,7 +3473,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3473,7 +3492,7 @@
         "start_time": "10:00",
         "end_time": "13:00",
         "is_all_day": false,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3492,7 +3511,7 @@
         "start_time": "12:00",
         "end_time": "14:30",
         "is_all_day": false,
-        "row": "34",
+        "row": "35",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3509,7 +3528,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "30",
+        "row": "31",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -3526,7 +3545,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "27",
+        "row": "28",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4095,7 +4114,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "48",
+        "row": "49",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4112,7 +4131,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "46",
+        "row": "47",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4394,7 +4413,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "90",
+        "row": "91",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4413,7 +4432,7 @@
         "start_time": "14:00",
         "end_time": "16:00",
         "is_all_day": false,
-        "row": "87",
+        "row": "88",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4430,7 +4449,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "83",
+        "row": "84",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4447,7 +4466,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "84",
+        "row": "85",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4466,7 +4485,7 @@
         "start_time": "16:00",
         "end_time": "18:30",
         "is_all_day": false,
-        "row": "85",
+        "row": "86",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4483,7 +4502,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "77",
+        "row": "78",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4500,7 +4519,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "73",
+        "row": "74",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4517,7 +4536,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "66",
+        "row": "67",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4534,7 +4553,7 @@
         "start_time": "16:00",
         "end_time": "18:00",
         "is_all_day": false,
-        "row": "64",
+        "row": "65",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4553,7 +4572,7 @@
         "start_time": "13:00",
         "end_time": "15:30",
         "is_all_day": false,
-        "row": "61",
+        "row": "62",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4570,7 +4589,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "57",
+        "row": "58",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4587,7 +4606,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "58",
+        "row": "59",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4604,7 +4623,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "54",
+        "row": "55",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4621,7 +4640,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "51",
+        "row": "52",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4640,7 +4659,7 @@
         "start_time": "09:15",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "38",
+        "row": "39",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4659,7 +4678,7 @@
         "start_time": "12:00",
         "end_time": "14:30",
         "is_all_day": false,
-        "row": "35",
+        "row": "36",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4676,7 +4695,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "31",
+        "row": "32",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4695,7 +4714,7 @@
         "start_time": "09:00",
         "end_time": "12:00",
         "is_all_day": false,
-        "row": "30",
+        "row": "31",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4712,24 +4731,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "27",
-        "sheet": "Ноябрь 2026"
-      },
-      {
-        "uid": "a398f4b2288fca2e@yandex-ag",
-        "date": "2026-11-23",
-        "person_key": "dima",
-        "person_name": "Дмитрий Беляев",
-        "full_text": "(утро) ВИДЕО Музыка в метро",
-        "title": "(утро) ВИДЕО Музыка в метро",
-        "deadline": "",
-        "description": "📋 Детали и ТЗ:\n(утро) ВИДЕО Музыка в метро",
-        "location": "",
-        "urls": [],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "19",
+        "row": "28",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4747,6 +4749,25 @@
         "end_time": null,
         "is_all_day": true,
         "row": "20",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "f376b9094f5d7d9a@yandex-ag",
+        "date": "2026-11-23",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "9.00-11.00  Видео Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+        "title": "Видео Музыка в метро (мифтахутдинова)",
+        "deadline": "",
+        "description": "📍 Адрес: Южный речной вокзал. Проспект Андропова д.11, корп.2\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA\n\n📋 Детали и ТЗ:\n9.00-11.00  Видео Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+        "location": "Южный речной вокзал. Проспект Андропова д.11, корп.2",
+        "urls": [
+          "https://disk.yandex.ru/i/HA8BsNMGzzewzA"
+        ],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "19",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4888,6 +4909,23 @@
         "is_all_day": true,
         "row": "4",
         "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "9453f553df5aa4a2@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "title": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "65",
+        "sheet": "декабрь 2026"
       },
       {
         "uid": "3532040a2a07f030@yandex-ag",
@@ -5110,7 +5148,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "117",
+      "row": "118",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6217,7 +6255,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "48",
+      "row": "49",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6251,7 +6289,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "48",
+      "row": "49",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6268,7 +6306,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -6302,7 +6340,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "46",
+      "row": "47",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7391,7 +7429,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "90",
+      "row": "91",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7408,7 +7446,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "90",
+      "row": "91",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7425,7 +7463,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "87",
+      "row": "88",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7442,7 +7480,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "88",
+      "row": "89",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7461,7 +7499,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "87",
+      "row": "88",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7478,7 +7516,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "88",
+      "row": "89",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7497,7 +7535,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "87",
+      "row": "88",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7516,7 +7554,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "87",
+      "row": "88",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7533,7 +7571,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "85",
+      "row": "86",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7550,7 +7588,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "84",
+      "row": "85",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7567,7 +7605,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "83",
+      "row": "84",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7584,7 +7622,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "84",
+      "row": "85",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7603,7 +7641,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "84",
+      "row": "85",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7622,7 +7660,7 @@
       "start_time": "16:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "85",
+      "row": "86",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7641,7 +7679,7 @@
       "start_time": "16:00",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "85",
+      "row": "86",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7658,7 +7696,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "81",
+      "row": "82",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7675,7 +7713,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7694,7 +7732,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7713,7 +7751,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "78",
+      "row": "79",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7730,7 +7768,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7749,7 +7787,7 @@
       "start_time": "10:00",
       "end_time": "11:30",
       "is_all_day": false,
-      "row": "77",
+      "row": "78",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7768,7 +7806,7 @@
       "start_time": "14:00",
       "end_time": "16:00",
       "is_all_day": false,
-      "row": "78",
+      "row": "79",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7785,7 +7823,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "79",
+      "row": "80",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7802,7 +7840,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7819,7 +7857,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7836,7 +7874,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7853,7 +7891,7 @@
       "start_time": "11:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "73",
+      "row": "74",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7872,7 +7910,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "75",
+      "row": "76",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7891,7 +7929,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7908,7 +7946,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7925,7 +7963,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "71",
+      "row": "72",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7942,7 +7980,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7959,7 +7997,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7976,7 +8014,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "68",
+      "row": "69",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -7993,7 +8031,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8012,7 +8050,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "65",
+      "row": "66",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8029,7 +8067,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8046,7 +8084,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "66",
+      "row": "67",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8063,7 +8101,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "64",
+      "row": "65",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8082,7 +8120,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8101,7 +8139,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8120,7 +8158,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8139,7 +8177,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8156,7 +8194,7 @@
       "start_time": "15:00",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "61",
+      "row": "62",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8175,7 +8213,7 @@
       "start_time": "18:15",
       "end_time": "19:00",
       "is_all_day": false,
-      "row": "62",
+      "row": "63",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8194,7 +8232,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8213,7 +8251,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8230,7 +8268,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "59",
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8247,7 +8285,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "57",
+      "row": "58",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8264,7 +8302,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "58",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8281,7 +8319,7 @@
       "start_time": "09:00",
       "end_time": "11:00",
       "is_all_day": false,
-      "row": "58",
+      "row": "59",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8300,7 +8338,7 @@
       "start_time": "12:00",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "59",
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8319,7 +8357,7 @@
       "start_time": "14:50",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "59",
+      "row": "60",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8338,7 +8376,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8355,7 +8393,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8372,7 +8410,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8389,7 +8427,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "54",
+      "row": "55",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8406,7 +8444,7 @@
       "start_time": "12:00",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "55",
+      "row": "56",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8423,7 +8461,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "55",
+      "row": "56",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8440,7 +8478,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8459,7 +8497,7 @@
       "start_time": "10:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8478,7 +8516,7 @@
       "start_time": "10:00",
       "end_time": "13:00",
       "is_all_day": false,
-      "row": "51",
+      "row": "52",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8497,7 +8535,7 @@
       "start_time": "12:50",
       "end_time": "14:00",
       "is_all_day": false,
-      "row": "52",
+      "row": "53",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8516,7 +8554,7 @@
       "start_time": "16:15",
       "end_time": "18:30",
       "is_all_day": false,
-      "row": "52",
+      "row": "53",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8535,7 +8573,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "42",
+      "row": "43",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8552,7 +8590,7 @@
       "start_time": "10:00",
       "end_time": "11:00",
       "is_all_day": false,
-      "row": "42",
+      "row": "43",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8569,7 +8607,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "44",
+      "row": "45",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8586,7 +8624,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "38",
+      "row": "39",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8605,7 +8643,7 @@
       "start_time": "09:15",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "38",
+      "row": "39",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8624,7 +8662,7 @@
       "start_time": "09:15",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "38",
+      "row": "39",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8641,7 +8679,7 @@
       "start_time": "14:30",
       "end_time": "17:00",
       "is_all_day": false,
-      "row": "39",
+      "row": "40",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8658,7 +8696,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "40",
+      "row": "41",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8675,7 +8713,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "34",
+      "row": "35",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8694,7 +8732,7 @@
       "start_time": "12:00",
       "end_time": "14:30",
       "is_all_day": false,
-      "row": "34",
+      "row": "35",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8713,7 +8751,7 @@
       "start_time": "12:00",
       "end_time": "14:30",
       "is_all_day": false,
-      "row": "35",
+      "row": "36",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8732,7 +8770,7 @@
       "start_time": "13:00",
       "end_time": "15:30",
       "is_all_day": false,
-      "row": "34",
+      "row": "35",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8751,7 +8789,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "31",
+      "row": "32",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8768,7 +8806,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "30",
+      "row": "31",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8785,7 +8823,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "31",
+      "row": "32",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8802,7 +8840,7 @@
       "start_time": "09:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "30",
+      "row": "31",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8821,7 +8859,7 @@
       "start_time": "09:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "30",
+      "row": "31",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8840,7 +8878,7 @@
       "start_time": "10:00",
       "end_time": "12:00",
       "is_all_day": false,
-      "row": "30",
+      "row": "31",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8857,7 +8895,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "31",
+      "row": "32",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8874,7 +8912,7 @@
       "start_time": "16:00",
       "end_time": "18:00",
       "is_all_day": false,
-      "row": "32",
+      "row": "33",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8891,7 +8929,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "27",
+      "row": "28",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8908,41 +8946,58 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "27",
+      "row": "28",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "bf00fff465487cb7@yandex-ag",
+      "uid": "1c4466a966579c43@yandex-ag",
       "date": "2026-11-20",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "(предварительно) 10.00 Инженеруроавдения водоснабжение (Мосводоканал)  \nЛокация:  \nТЗ:",
-      "title": "(предварительно)  Инженеруроавдения водоснабжение (Мосводоканал)",
+      "full_text": "12.30-13.30 Встреча по фото в офисе",
+      "title": "Встреча по фото в офисе",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\n(предварительно) 10.00 Инженеруроавдения водоснабжение (Мосводоканал)  \nЛокация:  \nТЗ:",
+      "description": "📋 Детали и ТЗ:\n12.30-13.30 Встреча по фото в офисе",
       "location": "",
       "urls": [],
-      "start_time": "10:00",
-      "end_time": "12:30",
+      "start_time": "12:30",
+      "end_time": "13:30",
       "is_all_day": false,
       "row": "27",
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "65f4d3e5bb3b7d93@yandex-ag",
+      "uid": "2d0be3db145e91a9@yandex-ag",
       "date": "2026-11-20",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "до 14.00 ФОТО Зоопарк обезьяны",
-      "title": "ФОТО Зоопарк обезьяны",
-      "deadline": "до 14:00",
-      "description": "⏳ Срок сдачи: до 14:00\n\n📋 Детали и ТЗ:\nдо 14.00 ФОТО Зоопарк обезьяны",
+      "full_text": "12.30-13.30  Встреча по фото в офисе",
+      "title": "Встреча по фото в офисе",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n12.30-13.30  Встреча по фото в офисе",
       "location": "",
       "urls": [],
-      "start_time": "12:00",
-      "end_time": "14:00",
+      "start_time": "12:30",
+      "end_time": "13:30",
       "is_all_day": false,
       "row": "27",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "6403add42e66c18a@yandex-ag",
+      "date": "2026-11-20",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "до 16.00 ФОТО Зоопарк обезьяны",
+      "title": "ФОТО Зоопарк обезьяны",
+      "deadline": "до 16:00",
+      "description": "⏳ Срок сдачи: до 16:00\n\n📋 Детали и ТЗ:\nдо 16.00 ФОТО Зоопарк обезьяны",
+      "location": "",
+      "urls": [],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "is_all_day": false,
+      "row": "28",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -9031,23 +9086,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "e07db725e5821d72@yandex-ag",
-      "date": "2026-11-23",
-      "person_key": "tanya",
-      "person_name": "Таня",
-      "full_text": "(утро) ФОТО Музыка в метро",
-      "title": "(утро) ФОТО Музыка в метро",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\n(утро) ФОТО Музыка в метро",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "19",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "1200fbe847c758ff@yandex-ag",
       "date": "2026-11-23",
       "person_key": "tanya",
@@ -9082,23 +9120,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "a398f4b2288fca2e@yandex-ag",
-      "date": "2026-11-23",
-      "person_key": "dima",
-      "person_name": "Дмитрий Беляев",
-      "full_text": "(утро) ВИДЕО Музыка в метро",
-      "title": "(утро) ВИДЕО Музыка в метро",
-      "deadline": "",
-      "description": "📋 Детали и ТЗ:\n(утро) ВИДЕО Музыка в метро",
-      "location": "",
-      "urls": [],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "19",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "02a9fcaa6c3d5845@yandex-ag",
       "date": "2026-11-23",
       "person_key": "dima",
@@ -9113,6 +9134,44 @@
       "end_time": null,
       "is_all_day": true,
       "row": "20",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "cc0f174eb486395a@yandex-ag",
+      "date": "2026-11-23",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "9.00-11.00  ФОТО Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+      "title": "ФОТО Музыка в метро (мифтахутдинова)",
+      "deadline": "",
+      "description": "📍 Адрес: Южный речной вокзал. Проспект Андропова д.11, корп.2\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA\n\n📋 Детали и ТЗ:\n9.00-11.00  ФОТО Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+      "location": "Южный речной вокзал. Проспект Андропова д.11, корп.2",
+      "urls": [
+        "https://disk.yandex.ru/i/HA8BsNMGzzewzA"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
+      "row": "19",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "f376b9094f5d7d9a@yandex-ag",
+      "date": "2026-11-23",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "9.00-11.00  Видео Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+      "title": "Видео Музыка в метро (мифтахутдинова)",
+      "deadline": "",
+      "description": "📍 Адрес: Южный речной вокзал. Проспект Андропова д.11, корп.2\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB.%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0%20%D0%B4.11%2C%20%D0%BA%D0%BE%D1%80%D0%BF.2\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA\n\n📋 Детали и ТЗ:\n9.00-11.00  Видео Музыка в метро (мифтахутдинова) \nЛокация: 3) Южный речной вокзал. Проспект Андропова д.11, корп.2\nТЗ: https://disk.yandex.ru/i/HA8BsNMGzzewzA",
+      "location": "Южный речной вокзал. Проспект Андропова д.11, корп.2",
+      "urls": [
+        "https://disk.yandex.ru/i/HA8BsNMGzzewzA"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
+      "row": "19",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -9417,6 +9476,23 @@
       "title": "ОТПУСК",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "65",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "9453f553df5aa4a2@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+      "title": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
       "location": "",
       "urls": [],
       "start_time": null,
