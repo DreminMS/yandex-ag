@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:22:19.960386",
+  "updated_at": "2026-11-20T09:46:47.457627",
   "events_by_person": {
     "misha": [
       {
@@ -1103,6 +1103,23 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "86f86b5bcaf06b33@yandex-ag",
+        "date": "2026-11-24",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "(уточняется) ФОТО портрет Мосводоканал для дизайна \nЛокация:  ТЗ:",
+        "title": "(уточняется) ФОТО портрет Мосводоканал для дизайна",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n(уточняется) ФОТО портрет Мосводоканал для дизайна \nЛокация:  ТЗ:",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "16",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "819000554e7d5eca@yandex-ag",
         "date": "2026-11-26",
         "person_key": "misha",
@@ -1271,7 +1288,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "92",
+        "row": "93",
         "sheet": "декабрь 2026"
       },
       {
@@ -2443,6 +2460,25 @@
         "sheet": "Ноябрь 2026"
       },
       {
+        "uid": "b48510fc792647c3@yandex-ag",
+        "date": "2026-11-25",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+        "title": "(ПРЕДВАРИТЕЛЬНО)13:00 -  Театр Маяковского Костюмер",
+        "deadline": "",
+        "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+        "location": "ул. Большая Никитская, 19/13, стр 1",
+        "urls": [
+          "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
+        ],
+        "start_time": "16:00",
+        "end_time": "18:30",
+        "is_all_day": false,
+        "row": "14",
+        "sheet": "Ноябрь 2026"
+      },
+      {
         "uid": "64878f030e4bc8a4@yandex-ag",
         "date": "2026-11-28",
         "person_key": "tanya",
@@ -2475,6 +2511,44 @@
         "is_all_day": true,
         "row": "6",
         "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "5bcc40981de4ff00@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+        "title": "Игруля (Истории/Мифтахутдинова)",
+        "deadline": "",
+        "description": "📍 Адрес: Ленинградский проспект дом 80 к 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\n9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+        "location": "Ленинградский проспект дом 80 к 5",
+        "urls": [
+          "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+        ],
+        "start_time": "09:50",
+        "end_time": "12:00",
+        "is_all_day": false,
+        "row": "65",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "737c07f1d4f2bf48@yandex-ag",
+        "date": "2026-12-02",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+        "title": "Обработка и сдача \"Игруля\"",
+        "deadline": "до 11:00",
+        "description": "⏳ Срок сдачи: до 11:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\nОбработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+        ],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "63",
+        "sheet": "декабрь 2026"
       },
       {
         "uid": "b9a0f1a03bbed2a6@yandex-ag",
@@ -3545,7 +3619,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "28",
+        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -4731,7 +4805,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "28",
+        "row": "27",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5114,7 +5188,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "92",
+      "row": "93",
       "sheet": "декабрь 2026"
     },
     {
@@ -8929,7 +9003,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "28",
+      "row": "27",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -8946,7 +9020,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "28",
+      "row": "27",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -9175,6 +9249,23 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "86f86b5bcaf06b33@yandex-ag",
+      "date": "2026-11-24",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "(уточняется) ФОТО портрет Мосводоканал для дизайна \nЛокация:  ТЗ:",
+      "title": "(уточняется) ФОТО портрет Мосводоканал для дизайна",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n(уточняется) ФОТО портрет Мосводоканал для дизайна \nЛокация:  ТЗ:",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "16",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "f3336f8e2607be2d@yandex-ag",
       "date": "2026-11-24",
       "person_key": "ilya",
@@ -9241,6 +9332,25 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "14",
+      "sheet": "Ноябрь 2026"
+    },
+    {
+      "uid": "b48510fc792647c3@yandex-ag",
+      "date": "2026-11-25",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+      "title": "(ПРЕДВАРИТЕЛЬНО)13:00 -  Театр Маяковского Костюмер",
+      "deadline": "",
+      "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+      "location": "ул. Большая Никитская, 19/13, стр 1",
+      "urls": [
+        "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:30",
+      "is_all_day": false,
       "row": "14",
       "sheet": "Ноябрь 2026"
     },
@@ -9502,6 +9612,25 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "5bcc40981de4ff00@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+      "title": "Игруля (Истории/Мифтахутдинова)",
+      "deadline": "",
+      "description": "📍 Адрес: Ленинградский проспект дом 80 к 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\n9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+      "location": "Ленинградский проспект дом 80 к 5",
+      "urls": [
+        "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+      ],
+      "start_time": "09:50",
+      "end_time": "12:00",
+      "is_all_day": false,
+      "row": "65",
+      "sheet": "декабрь 2026"
+    },
+    {
       "uid": "245e3f349cef6b41@yandex-ag",
       "date": "2026-12-02",
       "person_key": "ilya",
@@ -9515,6 +9644,25 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
+      "row": "63",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "737c07f1d4f2bf48@yandex-ag",
+      "date": "2026-12-02",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+      "title": "Обработка и сдача \"Игруля\"",
+      "deadline": "до 11:00",
+      "description": "⏳ Срок сдачи: до 11:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\nОбработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
       "row": "63",
       "sheet": "декабрь 2026"
     },
