@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:46:26.803076",
+  "updated_at": "2026-11-24T14:37:41.215690",
   "events_by_person": {
     "misha": [
       {
@@ -1158,20 +1158,20 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "50a72504a7966b35@yandex-ag",
+        "uid": "42a5a077f722ed0a@yandex-ag",
         "date": "2026-11-25",
         "person_key": "misha",
         "person_name": "Михаил Дремин",
-        "full_text": "(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-        "title": "(ПРЕДВАРИТЕЛЬНО)13:00 -  Театр Маяковского Костюмер",
+        "full_text": "16:30 - 18:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+        "title": "Театр Маяковского Костюмер",
         "deadline": "",
-        "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+        "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n16:30 - 18:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
         "location": "ул. Большая Никитская, 19/13, стр 1",
         "urls": [
           "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
         ],
-        "start_time": "16:00",
-        "end_time": "18:30",
+        "start_time": "16:30",
+        "end_time": "18:00",
         "is_all_day": false,
         "row": "14",
         "sheet": "Ноябрь 2026"
@@ -1192,6 +1192,23 @@
         "is_all_day": false,
         "row": "12",
         "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "967e82bb269fed86@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "10:00-17:00 Осмотр дом Мельникова после реставрации",
+        "title": "Осмотр дом Мельникова после реставрации",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n10:00-17:00 Осмотр дом Мельникова после реставрации",
+        "location": "",
+        "urls": [],
+        "start_time": "10:00",
+        "end_time": "17:00",
+        "is_all_day": false,
+        "row": "65",
+        "sheet": "декабрь 2026"
       },
       {
         "uid": "d348044c8ec1b14d@yandex-ag",
@@ -4985,25 +5002,6 @@
         "sheet": "Ноябрь 2026"
       },
       {
-        "uid": "aa713d90fc3dfeb5@yandex-ag",
-        "date": "2026-11-24",
-        "person_key": "dima",
-        "person_name": "Дмитрий Беляев",
-        "full_text": "Ролик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
-        "title": "Ролик к Голосования Московская реставрация (через ИИ)   ЖДЕМ ФОТКИ",
-        "deadline": "",
-        "description": "🔗 Ссылка на ТЗ: https://ag.mos.ru/polls/17346\n\n📋 Детали и ТЗ:\nРолик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
-        "location": "",
-        "urls": [
-          "https://ag.mos.ru/polls/17346"
-        ],
-        "start_time": null,
-        "end_time": null,
-        "is_all_day": true,
-        "row": "16",
-        "sheet": "Ноябрь 2026"
-      },
-      {
         "uid": "bcfeb18573e0f865@yandex-ag",
         "date": "2026-11-24",
         "person_key": "dima",
@@ -5017,7 +5015,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "17",
+        "row": "16",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -9423,25 +9421,6 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "aa713d90fc3dfeb5@yandex-ag",
-      "date": "2026-11-24",
-      "person_key": "dima",
-      "person_name": "Дмитрий Беляев",
-      "full_text": "Ролик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
-      "title": "Ролик к Голосования Московская реставрация (через ИИ)   ЖДЕМ ФОТКИ",
-      "deadline": "",
-      "description": "🔗 Ссылка на ТЗ: https://ag.mos.ru/polls/17346\n\n📋 Детали и ТЗ:\nРолик к Голосования Московская реставрация (через ИИ) https://ag.mos.ru/polls/17346  ЖДЕМ ФОТКИ",
-      "location": "",
-      "urls": [
-        "https://ag.mos.ru/polls/17346"
-      ],
-      "start_time": null,
-      "end_time": null,
-      "is_all_day": true,
-      "row": "16",
-      "sheet": "Ноябрь 2026"
-    },
-    {
       "uid": "bcfeb18573e0f865@yandex-ag",
       "date": "2026-11-24",
       "person_key": "dima",
@@ -9455,7 +9434,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "17",
+      "row": "16",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -9565,20 +9544,20 @@
       "sheet": "Ноябрь 2026"
     },
     {
-      "uid": "50a72504a7966b35@yandex-ag",
+      "uid": "42a5a077f722ed0a@yandex-ag",
       "date": "2026-11-25",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
-      "full_text": "(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
-      "title": "(ПРЕДВАРИТЕЛЬНО)13:00 -  Театр Маяковского Костюмер",
+      "full_text": "16:30 - 18:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+      "title": "Театр Маяковского Костюмер",
       "deadline": "",
-      "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n(ПРЕДВАРИТЕЛЬНО)13:00 - 16:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
+      "description": "📍 Адрес: ул. Большая Никитская, 19/13, стр 1\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n🧭 Apple Карты: https://maps.apple.com/?q=%D1%83%D0%BB.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B0%D1%8F%2C%2019/13%2C%20%D1%81%D1%82%D1%80%201\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw\n\n📋 Детали и ТЗ:\n16:30 - 18:00 Театр Маяковского Костюмер Локация: 4)  ул. Большая Никитская, 19/13, стр 1 ТЗ: https://disk.yandex.ru/i/GZ75dd6yYfDhYw",
       "location": "ул. Большая Никитская, 19/13, стр 1",
       "urls": [
         "https://disk.yandex.ru/i/GZ75dd6yYfDhYw"
       ],
-      "start_time": "16:00",
-      "end_time": "18:30",
+      "start_time": "16:30",
+      "end_time": "18:00",
       "is_all_day": false,
       "row": "14",
       "sheet": "Ноябрь 2026"
@@ -9891,6 +9870,23 @@
       ],
       "start_time": "09:50",
       "end_time": "12:00",
+      "is_all_day": false,
+      "row": "65",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "967e82bb269fed86@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "10:00-17:00 Осмотр дом Мельникова после реставрации",
+      "title": "Осмотр дом Мельникова после реставрации",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n10:00-17:00 Осмотр дом Мельникова после реставрации",
+      "location": "",
+      "urls": [],
+      "start_time": "10:00",
+      "end_time": "17:00",
       "is_all_day": false,
       "row": "65",
       "sheet": "декабрь 2026"
