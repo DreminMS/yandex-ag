@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:25:32.644132",
+  "updated_at": "2026-11-25T10:56:58.491888",
   "events_by_person": {
     "misha": [
       {
@@ -1191,6 +1191,23 @@
         "end_time": "18:00",
         "is_all_day": false,
         "row": "12",
+        "sheet": "Ноябрь 2026"
+      },
+      {
+        "uid": "90c5d3e2070d353e@yandex-ag",
+        "date": "2026-11-27",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "до 15.00 Обрабюотка Рыжов",
+        "title": "Обрабюотка Рыжов",
+        "deadline": "до 15:00",
+        "description": "⏳ Срок сдачи: до 15:00\n\n📋 Детали и ТЗ:\nдо 15.00 Обрабюотка Рыжов",
+        "location": "",
+        "urls": [],
+        "start_time": "13:00",
+        "end_time": "15:00",
+        "is_all_day": false,
+        "row": "10",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -2798,6 +2815,63 @@
         "end_time": null,
         "is_all_day": true,
         "row": "40",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "bf032d674a070f30@yandex-ag",
+        "date": "2026-12-14",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "37",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "1c571cf4dbb52639@yandex-ag",
+        "date": "2026-12-15",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "35",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "92e0893afcc7c7a0@yandex-ag",
+        "date": "2026-12-16",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nОбработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "33",
         "sheet": "декабрь 2026"
       },
       {
@@ -9665,6 +9739,23 @@
       "sheet": "Ноябрь 2026"
     },
     {
+      "uid": "90c5d3e2070d353e@yandex-ag",
+      "date": "2026-11-27",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "до 15.00 Обрабюотка Рыжов",
+      "title": "Обрабюотка Рыжов",
+      "deadline": "до 15:00",
+      "description": "⏳ Срок сдачи: до 15:00\n\n📋 Детали и ТЗ:\nдо 15.00 Обрабюотка Рыжов",
+      "location": "",
+      "urls": [],
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "is_all_day": false,
+      "row": "10",
+      "sheet": "Ноябрь 2026"
+    },
+    {
       "uid": "64878f030e4bc8a4@yandex-ag",
       "date": "2026-11-28",
       "person_key": "tanya",
@@ -10257,6 +10348,44 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "bf032d674a070f30@yandex-ag",
+      "date": "2026-12-14",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "37",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "1c571cf4dbb52639@yandex-ag",
+      "date": "2026-12-15",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "35",
+      "sheet": "декабрь 2026"
+    },
+    {
       "uid": "078529583af5a0a0@yandex-ag",
       "date": "2026-12-15",
       "person_key": "misha",
@@ -10288,6 +10417,25 @@
       "end_time": "14:00",
       "is_all_day": false,
       "row": "35",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "92e0893afcc7c7a0@yandex-ag",
+      "date": "2026-12-16",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nОбработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
       "sheet": "декабрь 2026"
     },
     {
