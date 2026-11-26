@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:44:54.955280",
+  "updated_at": "2026-11-26T22:51:07.891327",
   "events_by_person": {
     "misha": [
       {
@@ -2969,16 +2969,18 @@
         "sheet": "январь 2027"
       },
       {
-        "uid": "5560f07d9ba064cc@yandex-ag",
+        "uid": "50683e7a6c3b0f41@yandex-ag",
         "date": "2026-12-02",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "ОТГУЛ",
-        "title": "ОТГУЛ",
+        "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "title": "Съёмка ФотоПроект \"Волшебный шар\"",
         "deadline": "",
-        "description": "📋 Детали и ТЗ:\nОТГУЛ",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
         "location": "",
-        "urls": [],
+        "urls": [
+          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+        ],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -3024,18 +3026,16 @@
         "sheet": "декабрь 2026"
       },
       {
-        "uid": "4f1f92cfb9f8b2bc@yandex-ag",
+        "uid": "593cd025f077c7cc@yandex-ag",
         "date": "2026-12-04",
         "person_key": "tanya",
         "person_name": "Таня",
-        "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
-        "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+        "full_text": "ОТГУЛ",
+        "title": "ОТГУЛ",
         "deadline": "",
-        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "description": "📋 Детали и ТЗ:\nОТГУЛ",
         "location": "",
-        "urls": [
-          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
-        ],
+        "urls": [],
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
@@ -11250,16 +11250,18 @@
       "sheet": "январь 2027"
     },
     {
-      "uid": "5560f07d9ba064cc@yandex-ag",
+      "uid": "50683e7a6c3b0f41@yandex-ag",
       "date": "2026-12-02",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "ОТГУЛ",
-      "title": "ОТГУЛ",
+      "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "title": "Съёмка ФотоПроект \"Волшебный шар\"",
       "deadline": "",
-      "description": "📋 Детали и ТЗ:\nОТГУЛ",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
       "location": "",
-      "urls": [],
+      "urls": [
+        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+      ],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -11441,18 +11443,16 @@
       "sheet": "декабрь 2026"
     },
     {
-      "uid": "4f1f92cfb9f8b2bc@yandex-ag",
+      "uid": "593cd025f077c7cc@yandex-ag",
       "date": "2026-12-04",
       "person_key": "tanya",
       "person_name": "Таня",
-      "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
-      "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+      "full_text": "ОТГУЛ",
+      "title": "ОТГУЛ",
       "deadline": "",
-      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "description": "📋 Детали и ТЗ:\nОТГУЛ",
       "location": "",
-      "urls": [
-        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
-      ],
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
