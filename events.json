@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:58:50.062777",
+  "updated_at": "2026-11-26T13:44:54.955280",
   "events_by_person": {
     "misha": [
       {
@@ -1261,6 +1261,23 @@
         "end_time": "17:00",
         "is_all_day": false,
         "row": "65",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "967e82bb269fed86@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "10:00-17:00 Осмотр дом Мельникова после реставрации",
+        "title": "Осмотр дом Мельникова после реставрации",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n10:00-17:00 Осмотр дом Мельникова после реставрации",
+        "location": "",
+        "urls": [],
+        "start_time": "10:00",
+        "end_time": "17:00",
+        "is_all_day": false,
+        "row": "66",
         "sheet": "декабрь 2026"
       },
       {
@@ -1278,6 +1295,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "61",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "75fa7c42b5c36b7c@yandex-ag",
+        "date": "2026-12-03",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "15.30 мероприятие сиц центр",
+        "title": "мероприятие сиц центр",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n15.30 мероприятие сиц центр",
+        "location": "",
+        "urls": [],
+        "start_time": "15:30",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "62",
         "sheet": "декабрь 2026"
       },
       {
@@ -1298,6 +1332,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "f8b4adb28193d9db@yandex-ag",
+        "date": "2026-12-05",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "57",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "6ee192d42d017a56@yandex-ag",
         "date": "2026-12-06",
         "person_key": "misha",
@@ -1313,6 +1364,23 @@
         "is_all_day": true,
         "row": "55",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "6ee192d42d017a56@yandex-ag",
+        "date": "2026-12-06",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "55",
+        "sheet": "январь 2027"
       },
       {
         "uid": "64183bbfb4290d93@yandex-ag",
@@ -1332,6 +1400,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "64183bbfb4290d93@yandex-ag",
+        "date": "2026-12-11",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "Фото премия  18:30-21:00",
+        "title": "Фото премия",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nФото премия  18:30-21:00",
+        "location": "",
+        "urls": [],
+        "start_time": "18:30",
+        "end_time": "21:00",
+        "is_all_day": false,
+        "row": "44",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "078529583af5a0a0@yandex-ag",
         "date": "2026-12-15",
         "person_key": "misha",
@@ -1344,6 +1429,23 @@
         "urls": [],
         "start_time": "10:00",
         "end_time": "14:00",
+        "is_all_day": false,
+        "row": "35",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "eaf39f356394f4c2@yandex-ag",
+        "date": "2026-12-15",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "11.00-12.00Съемка мероприятия АГ детям \nТЗ:",
+        "title": "Съемка мероприятия АГ детям",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n11.00-12.00Съемка мероприятия АГ детям \nТЗ:",
+        "location": "",
+        "urls": [],
+        "start_time": "11:00",
+        "end_time": "12:00",
         "is_all_day": false,
         "row": "35",
         "sheet": "декабрь 2026"
@@ -1366,6 +1468,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "52c94c448882a6ff@yandex-ag",
+        "date": "2026-12-19",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "27",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "57713dc5fe4556da@yandex-ag",
         "date": "2026-12-20",
         "person_key": "misha",
@@ -1381,6 +1500,23 @@
         "is_all_day": true,
         "row": "25",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "57713dc5fe4556da@yandex-ag",
+        "date": "2026-12-20",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "25",
+        "sheet": "январь 2027"
       },
       {
         "uid": "bad0fe59bc988d22@yandex-ag",
@@ -1400,6 +1536,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "bad0fe59bc988d22@yandex-ag",
+        "date": "2026-12-26",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "12",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "fd35d0f5da63a1ed@yandex-ag",
         "date": "2026-12-27",
         "person_key": "misha",
@@ -1415,6 +1568,23 @@
         "is_all_day": true,
         "row": "10",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "fd35d0f5da63a1ed@yandex-ag",
+        "date": "2026-12-27",
+        "person_key": "misha",
+        "person_name": "Михаил Дремин",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "10",
+        "sheet": "январь 2027"
       }
     ],
     "tanya": [
@@ -1433,6 +1603,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "93",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "4d2d18b3c24d440a@yandex-ag",
+        "date": "2025-07-02",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "дежурство",
+        "title": "дежурство",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nдежурство",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "94",
         "sheet": "декабрь 2026"
       },
       {
@@ -2705,6 +2892,25 @@
         "end_time": "11:00",
         "is_all_day": false,
         "row": "66",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "5014d13e9e7666bc@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+        "title": "Обработка и сдача \"Игруля\"",
+        "deadline": "до 11:00",
+        "description": "⏳ Срок сдачи: до 11:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\nОбработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+        ],
+        "start_time": "09:00",
+        "end_time": "11:00",
+        "is_all_day": false,
+        "row": "67",
         "sheet": "декабрь 2026"
       },
       {
@@ -2724,6 +2930,25 @@
         "end_time": "12:00",
         "is_all_day": false,
         "row": "65",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "5bcc40981de4ff00@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+        "title": "Игруля (Истории/Мифтахутдинова)",
+        "deadline": "",
+        "description": "📍 Адрес: Ленинградский проспект дом 80 к 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\n9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+        "location": "Ленинградский проспект дом 80 к 5",
+        "urls": [
+          "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+        ],
+        "start_time": "09:50",
+        "end_time": "12:00",
+        "is_all_day": false,
+        "row": "66",
         "sheet": "декабрь 2026"
       },
       {
@@ -2741,6 +2966,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "63",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "5560f07d9ba064cc@yandex-ag",
+        "date": "2026-12-02",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТГУЛ",
+        "title": "ОТГУЛ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТГУЛ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "64",
         "sheet": "декабрь 2026"
       },
       {
@@ -2760,6 +3002,25 @@
         "end_time": null,
         "is_all_day": true,
         "row": "61",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "b9a0f1a03bbed2a6@yandex-ag",
+        "date": "2026-12-03",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "62",
         "sheet": "декабрь 2026"
       },
       {
@@ -2782,6 +3043,25 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "4f1f92cfb9f8b2bc@yandex-ag",
+        "date": "2026-12-04",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "59",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "0227381a8e84089e@yandex-ag",
         "date": "2026-12-07",
         "person_key": "tanya",
@@ -2799,6 +3079,25 @@
         "is_all_day": true,
         "row": "53",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "0227381a8e84089e@yandex-ag",
+        "date": "2026-12-07",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "53",
+        "sheet": "январь 2027"
       },
       {
         "uid": "d3463550f1c3f205@yandex-ag",
@@ -2820,6 +3119,25 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "d3463550f1c3f205@yandex-ag",
+        "date": "2026-12-08",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача ФотоПроект ДО 16:00 \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "title": "Обработка и сдача ФотоПроект  \"Волшебный шар\"",
+        "deadline": "до 16:00",
+        "description": "⏳ Срок сдачи: до 16:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nОбработка и сдача ФотоПроект ДО 16:00 \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+        ],
+        "start_time": "14:00",
+        "end_time": "16:00",
+        "is_all_day": false,
+        "row": "50",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "376e0d958742e6a5@yandex-ag",
         "date": "2026-12-12",
         "person_key": "tanya",
@@ -2837,6 +3155,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "376e0d958742e6a5@yandex-ag",
+        "date": "2026-12-12",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "42",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "ba86a206e056ac0e@yandex-ag",
         "date": "2026-12-13",
         "person_key": "tanya",
@@ -2852,6 +3187,23 @@
         "is_all_day": true,
         "row": "40",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "ba86a206e056ac0e@yandex-ag",
+        "date": "2026-12-13",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "40",
+        "sheet": "январь 2027"
       },
       {
         "uid": "bf032d674a070f30@yandex-ag",
@@ -2873,6 +3225,25 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "bf032d674a070f30@yandex-ag",
+        "date": "2026-12-14",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "37",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "1c571cf4dbb52639@yandex-ag",
         "date": "2026-12-15",
         "person_key": "tanya",
@@ -2890,6 +3261,25 @@
         "is_all_day": true,
         "row": "35",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "1c571cf4dbb52639@yandex-ag",
+        "date": "2026-12-15",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "35",
+        "sheet": "январь 2027"
       },
       {
         "uid": "92e0893afcc7c7a0@yandex-ag",
@@ -2911,6 +3301,25 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "92e0893afcc7c7a0@yandex-ag",
+        "date": "2026-12-16",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "title": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+        "deadline": "",
+        "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nОбработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+        "location": "",
+        "urls": [
+          "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+        ],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "33",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "ffa8246845415ed6@yandex-ag",
         "date": "2026-12-22",
         "person_key": "tanya",
@@ -2925,6 +3334,40 @@
         "end_time": "19:00",
         "is_all_day": false,
         "row": "20",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "ffa8246845415ed6@yandex-ag",
+        "date": "2026-12-22",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "16.00-19.00 Съемка мероприятия Город заданий",
+        "title": "Съемка мероприятия Город заданий",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n16.00-19.00 Съемка мероприятия Город заданий",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "is_all_day": false,
+        "row": "20",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "aca957d3e455a6d6@yandex-ag",
+        "date": "2026-12-23",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "Обработка фото Город заданий",
+        "title": "Обработка фото Город заданий",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОбработка фото Город заданий",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "18",
         "sheet": "декабрь 2026"
       },
       {
@@ -2945,6 +3388,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "3f62ac3a343faac3@yandex-ag",
+        "date": "2026-12-24",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "16",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "8cbaae02a0ec8147@yandex-ag",
         "date": "2026-12-25",
         "person_key": "tanya",
@@ -2960,6 +3420,23 @@
         "is_all_day": true,
         "row": "14",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "8cbaae02a0ec8147@yandex-ag",
+        "date": "2026-12-25",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "14",
+        "sheet": "январь 2027"
       },
       {
         "uid": "26961d3c734cdd76@yandex-ag",
@@ -2979,6 +3456,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "26961d3c734cdd76@yandex-ag",
+        "date": "2026-12-26",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "12",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "98261eb3403690e0@yandex-ag",
         "date": "2026-12-27",
         "person_key": "tanya",
@@ -2994,6 +3488,23 @@
         "is_all_day": true,
         "row": "10",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "98261eb3403690e0@yandex-ag",
+        "date": "2026-12-27",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "10",
+        "sheet": "январь 2027"
       },
       {
         "uid": "6c3199c026681b0e@yandex-ag",
@@ -3013,6 +3524,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "6c3199c026681b0e@yandex-ag",
+        "date": "2026-12-28",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "8",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "6d0fdf35941b5195@yandex-ag",
         "date": "2026-12-29",
         "person_key": "tanya",
@@ -3030,6 +3558,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "6d0fdf35941b5195@yandex-ag",
+        "date": "2026-12-29",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "6",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "7850f1c36d2da073@yandex-ag",
         "date": "2026-12-30",
         "person_key": "tanya",
@@ -3045,6 +3590,23 @@
         "is_all_day": true,
         "row": "4",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "7850f1c36d2da073@yandex-ag",
+        "date": "2026-12-30",
+        "person_key": "tanya",
+        "person_name": "Таня",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "4",
+        "sheet": "январь 2027"
       }
     ],
     "ilya": [
@@ -4057,6 +4619,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "65",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "7a25ced81471c3f7@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "66",
         "sheet": "декабрь 2026"
       },
       {
@@ -4074,6 +4653,57 @@
         "end_time": null,
         "is_all_day": true,
         "row": "63",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "245e3f349cef6b41@yandex-ag",
+        "date": "2026-12-02",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ОТПУСК",
+        "title": "ОТПУСК",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТПУСК",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "64",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "0a8438593aaf5bd1@yandex-ag",
+        "date": "2026-12-03",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж водолаз",
+        "title": "Монтаж водолаз",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "61",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "b9c270c5d1d1303c@yandex-ag",
+        "date": "2026-12-04",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж водолаз",
+        "title": "Монтаж водолаз",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "59",
         "sheet": "декабрь 2026"
       },
       {
@@ -4094,6 +4724,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "dbb28bb3beb8afa0@yandex-ag",
+        "date": "2026-12-05",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "57",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "60afb5bf7c41b4de@yandex-ag",
         "date": "2026-12-06",
         "person_key": "ilya",
@@ -4108,6 +4755,91 @@
         "end_time": null,
         "is_all_day": true,
         "row": "55",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "60afb5bf7c41b4de@yandex-ag",
+        "date": "2026-12-06",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "55",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "2054f402499405ef@yandex-ag",
+        "date": "2026-12-07",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж водолаз",
+        "title": "Монтаж водолаз",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "53",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "8a2ef5ec7d324364@yandex-ag",
+        "date": "2026-12-08",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж высотник",
+        "title": "Монтаж высотник",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "50",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "46a49ad67b98bbf8@yandex-ag",
+        "date": "2026-12-09",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж высотник",
+        "title": "Монтаж высотник",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "48",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "51266b8c692847cf@yandex-ag",
+        "date": "2026-12-10",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж высотник",
+        "title": "Монтаж высотник",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "46",
         "sheet": "декабрь 2026"
       },
       {
@@ -4128,6 +4860,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "955ab128e1d80662@yandex-ag",
+        "date": "2026-12-16",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ОТГУЛ за 10.10",
+        "title": "ОТГУЛ за 10.10",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТГУЛ за 10.10",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "33",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "d95738a8eca8fdcf@yandex-ag",
         "date": "2026-12-17",
         "person_key": "ilya",
@@ -4143,6 +4892,23 @@
         "is_all_day": true,
         "row": "31",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "d95738a8eca8fdcf@yandex-ag",
+        "date": "2026-12-17",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ОТГУЛ",
+        "title": "ОТГУЛ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТГУЛ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "31",
+        "sheet": "январь 2027"
       },
       {
         "uid": "98d1ea5e86365b37@yandex-ag",
@@ -4162,6 +4928,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "98d1ea5e86365b37@yandex-ag",
+        "date": "2026-12-19",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "27",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "7dc0684509c96f7c@yandex-ag",
         "date": "2026-12-20",
         "person_key": "ilya",
@@ -4179,6 +4962,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "7dc0684509c96f7c@yandex-ag",
+        "date": "2026-12-20",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "25",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "f5b2067d86d5ea31@yandex-ag",
         "date": "2026-12-22",
         "person_key": "ilya",
@@ -4193,6 +4993,57 @@
         "end_time": "19:00",
         "is_all_day": false,
         "row": "20",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "f5b2067d86d5ea31@yandex-ag",
+        "date": "2026-12-22",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "16.00-19.00 Съемка мероприятия Город заданий",
+        "title": "Съемка мероприятия Город заданий",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n16.00-19.00 Съемка мероприятия Город заданий",
+        "location": "",
+        "urls": [],
+        "start_time": "16:00",
+        "end_time": "19:00",
+        "is_all_day": false,
+        "row": "20",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "d0dfbd3845d7bb07@yandex-ag",
+        "date": "2026-12-23",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Монтаж Город Заданий",
+        "title": "Монтаж Город Заданий",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж Город Заданий",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "18",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "32ce8d9fe1c17351@yandex-ag",
+        "date": "2026-12-28",
+        "person_key": "ilya",
+        "person_name": "Илья Фесунов",
+        "full_text": "Ролик\nпо шаблону к Пульсу пиксель арт  – волшебный шар",
+        "title": "Ролик",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nРолик\nпо шаблону к Пульсу пиксель арт  – волшебный шар",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "8",
         "sheet": "декабрь 2026"
       }
     ],
@@ -5159,7 +6010,7 @@
         "start_time": null,
         "end_time": null,
         "is_all_day": true,
-        "row": "14",
+        "row": "13",
         "sheet": "Ноябрь 2026"
       },
       {
@@ -5247,6 +6098,40 @@
         "end_time": null,
         "is_all_day": true,
         "row": "65",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "9453f553df5aa4a2@yandex-ag",
+        "date": "2026-12-01",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "title": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "66",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "7d4ea35bae22b309@yandex-ag",
+        "date": "2026-12-03",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Съемка фигуристов Медведково \"Голосование\"",
+        "title": "Съемка фигуристов Медведково \"Голосование\"",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nСъемка фигуристов Медведково \"Голосование\"",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "61",
         "sheet": "декабрь 2026"
       },
       {
@@ -5264,6 +6149,23 @@
         "end_time": null,
         "is_all_day": true,
         "row": "61",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "33781de0d4cdf80a@yandex-ag",
+        "date": "2026-12-03",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "15.30 мероприятие ситц центр",
+        "title": "мероприятие ситц центр",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n15.30 мероприятие ситц центр",
+        "location": "",
+        "urls": [],
+        "start_time": "15:30",
+        "end_time": "18:00",
+        "is_all_day": false,
+        "row": "62",
         "sheet": "декабрь 2026"
       },
       {
@@ -5284,6 +6186,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "1c21105e582753f1@yandex-ag",
+        "date": "2026-12-04",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Ролик\nпо шаблону к Пульсу пиксель арт  –  Царица огней",
+        "title": "Ролик",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nРолик\nпо шаблону к Пульсу пиксель арт  –  Царица огней",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "59",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "f78cd72842d38716@yandex-ag",
         "date": "2026-12-07",
         "person_key": "dima",
@@ -5299,6 +6218,23 @@
         "is_all_day": true,
         "row": "53",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "f78cd72842d38716@yandex-ag",
+        "date": "2026-12-07",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров,\nгирлянды, елочные шары и прочие игрушки - всё на улицах города",
+        "title": "Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nСъемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров,\nгирлянды, елочные шары и прочие игрушки - всё на улицах города",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "53",
+        "sheet": "январь 2027"
       },
       {
         "uid": "2637aab6502398fc@yandex-ag",
@@ -5318,6 +6254,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "2637aab6502398fc@yandex-ag",
+        "date": "2026-12-08",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж Ролик Волшебный шар (старт пульса)",
+        "title": "Монтаж Ролик Волшебный шар (старт пульса)",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж Ролик Волшебный шар (старт пульса)",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "50",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "d7c36aefc11a5281@yandex-ag",
         "date": "2026-12-09",
         "person_key": "dima",
@@ -5333,6 +6286,23 @@
         "is_all_day": true,
         "row": "48",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "d7c36aefc11a5281@yandex-ag",
+        "date": "2026-12-09",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "ОТГУЛ",
+        "title": "ОТГУЛ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nОТГУЛ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "48",
+        "sheet": "январь 2027"
       },
       {
         "uid": "caeda8bf4a9ff54d@yandex-ag",
@@ -5352,6 +6322,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "caeda8bf4a9ff54d@yandex-ag",
+        "date": "2026-12-12",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "42",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "ec1245dcf48b4cb0@yandex-ag",
         "date": "2026-12-13",
         "person_key": "dima",
@@ -5369,6 +6356,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "ec1245dcf48b4cb0@yandex-ag",
+        "date": "2026-12-13",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "40",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "c71d933a5f60df42@yandex-ag",
         "date": "2026-12-15",
         "person_key": "dima",
@@ -5383,6 +6387,40 @@
         "end_time": "14:00",
         "is_all_day": false,
         "row": "35",
+        "sheet": "январь 2027"
+      },
+      {
+        "uid": "29ed7dcf52342145@yandex-ag",
+        "date": "2026-12-15",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "11.00-12.00 Съемка мероприятия АГ детям \nТЗ:",
+        "title": "Съемка мероприятия АГ детям",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\n11.00-12.00 Съемка мероприятия АГ детям \nТЗ:",
+        "location": "",
+        "urls": [],
+        "start_time": "11:00",
+        "end_time": "12:00",
+        "is_all_day": false,
+        "row": "35",
+        "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "e2ee24ebe93fe8a4@yandex-ag",
+        "date": "2026-12-16",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "Монтаж мероприятие АГ",
+        "title": "Монтаж мероприятие АГ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nМонтаж мероприятие АГ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "33",
         "sheet": "декабрь 2026"
       },
       {
@@ -5403,6 +6441,23 @@
         "sheet": "декабрь 2026"
       },
       {
+        "uid": "37e5434d5213505c@yandex-ag",
+        "date": "2026-12-26",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "12",
+        "sheet": "январь 2027"
+      },
+      {
         "uid": "9493548d32761211@yandex-ag",
         "date": "2026-12-27",
         "person_key": "dima",
@@ -5418,6 +6473,23 @@
         "is_all_day": true,
         "row": "10",
         "sheet": "декабрь 2026"
+      },
+      {
+        "uid": "9493548d32761211@yandex-ag",
+        "date": "2026-12-27",
+        "person_key": "dima",
+        "person_name": "Дмитрий Беляев",
+        "full_text": "ДЕЖ",
+        "title": "ДЕЖ",
+        "deadline": "",
+        "description": "📋 Детали и ТЗ:\nДЕЖ",
+        "location": "",
+        "urls": [],
+        "start_time": null,
+        "end_time": null,
+        "is_all_day": true,
+        "row": "10",
+        "sheet": "январь 2027"
       }
     ]
   },
@@ -5437,6 +6509,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "93",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "4d2d18b3c24d440a@yandex-ag",
+      "date": "2025-07-02",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "дежурство",
+      "title": "дежурство",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nдежурство",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "94",
       "sheet": "декабрь 2026"
     },
     {
@@ -9720,7 +10809,7 @@
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
-      "row": "14",
+      "row": "13",
       "sheet": "Ноябрь 2026"
     },
     {
@@ -9980,6 +11069,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "65",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "7a25ced81471c3f7@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "66",
       "sheet": "декабрь 2026"
     },
     {
@@ -9997,6 +11103,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "65",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "9453f553df5aa4a2@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+      "title": "МОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМОНТАЖ И СДАЧА ОБЕЗЬЯНКИ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "66",
       "sheet": "декабрь 2026"
     },
     {
@@ -10016,6 +11139,25 @@
       "end_time": "11:00",
       "is_all_day": false,
       "row": "66",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "5014d13e9e7666bc@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+      "title": "Обработка и сдача \"Игруля\"",
+      "deadline": "до 11:00",
+      "description": "⏳ Срок сдачи: до 11:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\nОбработка и сдача \"Игруля\" до 11:00 https://disk.yandex.ru/i/w_j7dsPAHNa0TA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "is_all_day": false,
+      "row": "67",
       "sheet": "декабрь 2026"
     },
     {
@@ -10035,6 +11177,25 @@
       "end_time": "12:00",
       "is_all_day": false,
       "row": "65",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "5bcc40981de4ff00@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+      "title": "Игруля (Истории/Мифтахутдинова)",
+      "deadline": "",
+      "description": "📍 Адрес: Ленинградский проспект дом 80 к 5\n\n🗺 Яндекс Карты: https://yandex.ru/maps/?text=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n🧭 Apple Карты: https://maps.apple.com/?q=%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BE%D0%BC%2080%20%D0%BA%205\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA\n\n📋 Детали и ТЗ:\n9:50-12:00 Игруля (Истории/Мифтахутдинова) ТЗ: https://disk.yandex.ru/i/w_j7dsPAHNa0TA Локация:  Ленинградский проспект дом 80 к 5",
+      "location": "Ленинградский проспект дом 80 к 5",
+      "urls": [
+        "https://disk.yandex.ru/i/w_j7dsPAHNa0TA"
+      ],
+      "start_time": "09:50",
+      "end_time": "12:00",
+      "is_all_day": false,
+      "row": "66",
       "sheet": "декабрь 2026"
     },
     {
@@ -10052,6 +11213,23 @@
       "end_time": "17:00",
       "is_all_day": false,
       "row": "65",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "967e82bb269fed86@yandex-ag",
+      "date": "2026-12-01",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "10:00-17:00 Осмотр дом Мельникова после реставрации",
+      "title": "Осмотр дом Мельникова после реставрации",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n10:00-17:00 Осмотр дом Мельникова после реставрации",
+      "location": "",
+      "urls": [],
+      "start_time": "10:00",
+      "end_time": "17:00",
+      "is_all_day": false,
+      "row": "66",
       "sheet": "декабрь 2026"
     },
     {
@@ -10069,6 +11247,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "63",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "5560f07d9ba064cc@yandex-ag",
+      "date": "2026-12-02",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТГУЛ",
+      "title": "ОТГУЛ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТГУЛ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "64",
       "sheet": "декабрь 2026"
     },
     {
@@ -10086,6 +11281,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "63",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "245e3f349cef6b41@yandex-ag",
+      "date": "2026-12-02",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "64",
       "sheet": "декабрь 2026"
     },
     {
@@ -10103,7 +11315,7 @@
       "end_time": null,
       "is_all_day": true,
       "row": "61",
-      "sheet": "декабрь 2026"
+      "sheet": "январь 2027"
     },
     {
       "uid": "b9a0f1a03bbed2a6@yandex-ag",
@@ -10118,6 +11330,59 @@
       "urls": [
         "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
       ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "61",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "b9a0f1a03bbed2a6@yandex-ag",
+      "date": "2026-12-03",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "62",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "0a8438593aaf5bd1@yandex-ag",
+      "date": "2026-12-03",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж водолаз",
+      "title": "Монтаж водолаз",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "61",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "7d4ea35bae22b309@yandex-ag",
+      "date": "2026-12-03",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Съемка фигуристов Медведково \"Голосование\"",
+      "title": "Съемка фигуристов Медведково \"Голосование\"",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nСъемка фигуристов Медведково \"Голосование\"",
+      "location": "",
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -10139,6 +11404,40 @@
       "end_time": null,
       "is_all_day": true,
       "row": "61",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "75fa7c42b5c36b7c@yandex-ag",
+      "date": "2026-12-03",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "15.30 мероприятие сиц центр",
+      "title": "мероприятие сиц центр",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n15.30 мероприятие сиц центр",
+      "location": "",
+      "urls": [],
+      "start_time": "15:30",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "62",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "33781de0d4cdf80a@yandex-ag",
+      "date": "2026-12-03",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "15.30 мероприятие ситц центр",
+      "title": "мероприятие ситц центр",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n15.30 мероприятие ситц центр",
+      "location": "",
+      "urls": [],
+      "start_time": "15:30",
+      "end_time": "18:00",
+      "is_all_day": false,
+      "row": "62",
       "sheet": "декабрь 2026"
     },
     {
@@ -10154,6 +11453,42 @@
       "urls": [
         "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
       ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "59",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "4f1f92cfb9f8b2bc@yandex-ag",
+      "date": "2026-12-04",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "59",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "b9c270c5d1d1303c@yandex-ag",
+      "date": "2026-12-04",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж водолаз",
+      "title": "Монтаж водолаз",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+      "location": "",
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -10178,10 +11513,61 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "1c21105e582753f1@yandex-ag",
+      "date": "2026-12-04",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Ролик\nпо шаблону к Пульсу пиксель арт  –  Царица огней",
+      "title": "Ролик",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nРолик\nпо шаблону к Пульсу пиксель арт  –  Царица огней",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "59",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "f8b4adb28193d9db@yandex-ag",
       "date": "2026-12-05",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "57",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "f8b4adb28193d9db@yandex-ag",
+      "date": "2026-12-05",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "57",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "dbb28bb3beb8afa0@yandex-ag",
+      "date": "2026-12-05",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10209,6 +11595,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "57",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "6ee192d42d017a56@yandex-ag",
+      "date": "2026-12-06",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "55",
       "sheet": "декабрь 2026"
     },
     {
@@ -10216,6 +11619,23 @@
       "date": "2026-12-06",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "55",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "60afb5bf7c41b4de@yandex-ag",
+      "date": "2026-12-06",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10243,6 +11663,25 @@
       "end_time": null,
       "is_all_day": true,
       "row": "55",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "0227381a8e84089e@yandex-ag",
+      "date": "2026-12-07",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Съёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "title": "Съёмка ФотоПроект \"Волшебный шар\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nСъёмка ФотоПроект \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "53",
       "sheet": "декабрь 2026"
     },
     {
@@ -10258,6 +11697,23 @@
       "urls": [
         "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
       ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "53",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "2054f402499405ef@yandex-ag",
+      "date": "2026-12-07",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж водолаз",
+      "title": "Монтаж водолаз",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж водолаз",
+      "location": "",
+      "urls": [],
       "start_time": null,
       "end_time": null,
       "is_all_day": true,
@@ -10282,6 +11738,40 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "f78cd72842d38716@yandex-ag",
+      "date": "2026-12-07",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров,\nгирлянды, елочные шары и прочие игрушки - всё на улицах города",
+      "title": "Съемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nСъемка Ролик Волшебный шар (старт пульса) Новогодние украшения всех видов и размеров,\nгирлянды, елочные шары и прочие игрушки - всё на улицах города",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "53",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "8a2ef5ec7d324364@yandex-ag",
+      "date": "2026-12-08",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж высотник",
+      "title": "Монтаж высотник",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "50",
+      "sheet": "декабрь 2026"
+    },
+    {
       "uid": "2637aab6502398fc@yandex-ag",
       "date": "2026-12-08",
       "person_key": "dima",
@@ -10297,6 +11787,23 @@
       "is_all_day": true,
       "row": "50",
       "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "2637aab6502398fc@yandex-ag",
+      "date": "2026-12-08",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж Ролик Волшебный шар (старт пульса)",
+      "title": "Монтаж Ролик Волшебный шар (старт пульса)",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж Ролик Волшебный шар (старт пульса)",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "50",
+      "sheet": "январь 2027"
     },
     {
       "uid": "d3463550f1c3f205@yandex-ag",
@@ -10318,6 +11825,42 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "d3463550f1c3f205@yandex-ag",
+      "date": "2026-12-08",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача ФотоПроект ДО 16:00 \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "title": "Обработка и сдача ФотоПроект  \"Волшебный шар\"",
+      "deadline": "до 16:00",
+      "description": "⏳ Срок сдачи: до 16:00\n\n🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/eH-2MvuEgVOdtA\n\n📋 Детали и ТЗ:\nОбработка и сдача ФотоПроект ДО 16:00 \"Волшебный шар\" https://disk.yandex.ru/i/eH-2MvuEgVOdtA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/eH-2MvuEgVOdtA"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "is_all_day": false,
+      "row": "50",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "46a49ad67b98bbf8@yandex-ag",
+      "date": "2026-12-09",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж высотник",
+      "title": "Монтаж высотник",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "48",
+      "sheet": "декабрь 2026"
+    },
+    {
       "uid": "d7c36aefc11a5281@yandex-ag",
       "date": "2026-12-09",
       "person_key": "dima",
@@ -10332,6 +11875,40 @@
       "end_time": null,
       "is_all_day": true,
       "row": "48",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "d7c36aefc11a5281@yandex-ag",
+      "date": "2026-12-09",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "ОТГУЛ",
+      "title": "ОТГУЛ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТГУЛ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "48",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "51266b8c692847cf@yandex-ag",
+      "date": "2026-12-10",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж высотник",
+      "title": "Монтаж высотник",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж высотник",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "46",
       "sheet": "декабрь 2026"
     },
     {
@@ -10352,10 +11929,61 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "64183bbfb4290d93@yandex-ag",
+      "date": "2026-12-11",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "Фото премия  18:30-21:00",
+      "title": "Фото премия",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nФото премия  18:30-21:00",
+      "location": "",
+      "urls": [],
+      "start_time": "18:30",
+      "end_time": "21:00",
+      "is_all_day": false,
+      "row": "44",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "376e0d958742e6a5@yandex-ag",
       "date": "2026-12-12",
       "person_key": "tanya",
       "person_name": "Таня",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "42",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "376e0d958742e6a5@yandex-ag",
+      "date": "2026-12-12",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "42",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "caeda8bf4a9ff54d@yandex-ag",
+      "date": "2026-12-12",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10383,6 +12011,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "42",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "ba86a206e056ac0e@yandex-ag",
+      "date": "2026-12-13",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "40",
       "sheet": "декабрь 2026"
     },
     {
@@ -10390,6 +12035,23 @@
       "date": "2026-12-13",
       "person_key": "tanya",
       "person_name": "Таня",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "40",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "ec1245dcf48b4cb0@yandex-ag",
+      "date": "2026-12-13",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10417,7 +12079,7 @@
       "end_time": null,
       "is_all_day": true,
       "row": "40",
-      "sheet": "декабрь 2026"
+      "sheet": "январь 2027"
     },
     {
       "uid": "bf032d674a070f30@yandex-ag",
@@ -10439,6 +12101,25 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "bf032d674a070f30@yandex-ag",
+      "date": "2026-12-14",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "37",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "1c571cf4dbb52639@yandex-ag",
       "date": "2026-12-15",
       "person_key": "tanya",
@@ -10458,6 +12139,25 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "1c571cf4dbb52639@yandex-ag",
+      "date": "2026-12-15",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "35",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "078529583af5a0a0@yandex-ag",
       "date": "2026-12-15",
       "person_key": "misha",
@@ -10472,7 +12172,7 @@
       "end_time": "14:00",
       "is_all_day": false,
       "row": "35",
-      "sheet": "декабрь 2026"
+      "sheet": "январь 2027"
     },
     {
       "uid": "c71d933a5f60df42@yandex-ag",
@@ -10487,6 +12187,40 @@
       "urls": [],
       "start_time": "10:00",
       "end_time": "14:00",
+      "is_all_day": false,
+      "row": "35",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "eaf39f356394f4c2@yandex-ag",
+      "date": "2026-12-15",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "11.00-12.00Съемка мероприятия АГ детям \nТЗ:",
+      "title": "Съемка мероприятия АГ детям",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n11.00-12.00Съемка мероприятия АГ детям \nТЗ:",
+      "location": "",
+      "urls": [],
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "is_all_day": false,
+      "row": "35",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "29ed7dcf52342145@yandex-ag",
+      "date": "2026-12-15",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "11.00-12.00 Съемка мероприятия АГ детям \nТЗ:",
+      "title": "Съемка мероприятия АГ детям",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n11.00-12.00 Съемка мероприятия АГ детям \nТЗ:",
+      "location": "",
+      "urls": [],
+      "start_time": "11:00",
+      "end_time": "12:00",
       "is_all_day": false,
       "row": "35",
       "sheet": "декабрь 2026"
@@ -10511,6 +12245,25 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "92e0893afcc7c7a0@yandex-ag",
+      "date": "2026-12-16",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "title": "Обработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\"",
+      "deadline": "",
+      "description": "🔗 Ссылка на ТЗ: https://disk.yandex.ru/i/-_gXW3jsXOXeEA\n\n📋 Детали и ТЗ:\nОбработка и сдача  ФОТОПРОЕКТ \"Фотопроект Пульса столицы «Баланс белого»\" https://disk.yandex.ru/i/-_gXW3jsXOXeEA",
+      "location": "",
+      "urls": [
+        "https://disk.yandex.ru/i/-_gXW3jsXOXeEA"
+      ],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "955ab128e1d80662@yandex-ag",
       "date": "2026-12-16",
       "person_key": "ilya",
@@ -10519,6 +12272,40 @@
       "title": "ОТГУЛ за 10.10",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nОТГУЛ за 10.10",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "955ab128e1d80662@yandex-ag",
+      "date": "2026-12-16",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "ОТГУЛ за 10.10",
+      "title": "ОТГУЛ за 10.10",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТГУЛ за 10.10",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "33",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "e2ee24ebe93fe8a4@yandex-ag",
+      "date": "2026-12-16",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "Монтаж мероприятие АГ",
+      "title": "Монтаж мероприятие АГ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж мероприятие АГ",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10545,10 +12332,61 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "d95738a8eca8fdcf@yandex-ag",
+      "date": "2026-12-17",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "ОТГУЛ",
+      "title": "ОТГУЛ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТГУЛ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "31",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "52c94c448882a6ff@yandex-ag",
       "date": "2026-12-19",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "27",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "52c94c448882a6ff@yandex-ag",
+      "date": "2026-12-19",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "27",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "98d1ea5e86365b37@yandex-ag",
+      "date": "2026-12-19",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10576,6 +12414,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "27",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "57713dc5fe4556da@yandex-ag",
+      "date": "2026-12-20",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "25",
       "sheet": "декабрь 2026"
     },
     {
@@ -10583,6 +12438,23 @@
       "date": "2026-12-20",
       "person_key": "misha",
       "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "25",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "7dc0684509c96f7c@yandex-ag",
+      "date": "2026-12-20",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
       "full_text": "ДЕЖ",
       "title": "ДЕЖ",
       "deadline": "",
@@ -10610,6 +12482,23 @@
       "end_time": null,
       "is_all_day": true,
       "row": "25",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "ffa8246845415ed6@yandex-ag",
+      "date": "2026-12-22",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "16.00-19.00 Съемка мероприятия Город заданий",
+      "title": "Съемка мероприятия Город заданий",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n16.00-19.00 Съемка мероприятия Город заданий",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "19:00",
+      "is_all_day": false,
+      "row": "20",
       "sheet": "декабрь 2026"
     },
     {
@@ -10617,6 +12506,23 @@
       "date": "2026-12-22",
       "person_key": "tanya",
       "person_name": "Таня",
+      "full_text": "16.00-19.00 Съемка мероприятия Город заданий",
+      "title": "Съемка мероприятия Город заданий",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\n16.00-19.00 Съемка мероприятия Город заданий",
+      "location": "",
+      "urls": [],
+      "start_time": "16:00",
+      "end_time": "19:00",
+      "is_all_day": false,
+      "row": "20",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "f5b2067d86d5ea31@yandex-ag",
+      "date": "2026-12-22",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
       "full_text": "16.00-19.00 Съемка мероприятия Город заданий",
       "title": "Съемка мероприятия Город заданий",
       "deadline": "",
@@ -10644,6 +12550,40 @@
       "end_time": "19:00",
       "is_all_day": false,
       "row": "20",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "aca957d3e455a6d6@yandex-ag",
+      "date": "2026-12-23",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "Обработка фото Город заданий",
+      "title": "Обработка фото Город заданий",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОбработка фото Город заданий",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "18",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "d0dfbd3845d7bb07@yandex-ag",
+      "date": "2026-12-23",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Монтаж Город Заданий",
+      "title": "Монтаж Город Заданий",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nМонтаж Город Заданий",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "18",
       "sheet": "декабрь 2026"
     },
     {
@@ -10664,6 +12604,23 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "3f62ac3a343faac3@yandex-ag",
+      "date": "2026-12-24",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "16",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "8cbaae02a0ec8147@yandex-ag",
       "date": "2026-12-25",
       "person_key": "tanya",
@@ -10681,6 +12638,23 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "8cbaae02a0ec8147@yandex-ag",
+      "date": "2026-12-25",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "14",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "bad0fe59bc988d22@yandex-ag",
       "date": "2026-12-26",
       "person_key": "misha",
@@ -10689,6 +12663,40 @@
       "title": "ДЕЖ",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "12",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "bad0fe59bc988d22@yandex-ag",
+      "date": "2026-12-26",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "12",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "26961d3c734cdd76@yandex-ag",
+      "date": "2026-12-26",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10712,7 +12720,7 @@
       "end_time": null,
       "is_all_day": true,
       "row": "12",
-      "sheet": "декабрь 2026"
+      "sheet": "январь 2027"
     },
     {
       "uid": "37e5434d5213505c@yandex-ag",
@@ -10732,6 +12740,23 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "37e5434d5213505c@yandex-ag",
+      "date": "2026-12-26",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "12",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "fd35d0f5da63a1ed@yandex-ag",
       "date": "2026-12-27",
       "person_key": "misha",
@@ -10740,6 +12765,40 @@
       "title": "ДЕЖ",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "10",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "fd35d0f5da63a1ed@yandex-ag",
+      "date": "2026-12-27",
+      "person_key": "misha",
+      "person_name": "Михаил Дремин",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "10",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "98261eb3403690e0@yandex-ag",
+      "date": "2026-12-27",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10763,7 +12822,7 @@
       "end_time": null,
       "is_all_day": true,
       "row": "10",
-      "sheet": "декабрь 2026"
+      "sheet": "январь 2027"
     },
     {
       "uid": "9493548d32761211@yandex-ag",
@@ -10783,6 +12842,23 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "9493548d32761211@yandex-ag",
+      "date": "2026-12-27",
+      "person_key": "dima",
+      "person_name": "Дмитрий Беляев",
+      "full_text": "ДЕЖ",
+      "title": "ДЕЖ",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nДЕЖ",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "10",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "6c3199c026681b0e@yandex-ag",
       "date": "2026-12-28",
       "person_key": "tanya",
@@ -10791,6 +12867,40 @@
       "title": "ОТПУСК",
       "deadline": "",
       "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "8",
+      "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "6c3199c026681b0e@yandex-ag",
+      "date": "2026-12-28",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "8",
+      "sheet": "январь 2027"
+    },
+    {
+      "uid": "32ce8d9fe1c17351@yandex-ag",
+      "date": "2026-12-28",
+      "person_key": "ilya",
+      "person_name": "Илья Фесунов",
+      "full_text": "Ролик\nпо шаблону к Пульсу пиксель арт  – волшебный шар",
+      "title": "Ролик",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nРолик\nпо шаблону к Пульсу пиксель арт  – волшебный шар",
       "location": "",
       "urls": [],
       "start_time": null,
@@ -10817,6 +12927,23 @@
       "sheet": "декабрь 2026"
     },
     {
+      "uid": "6d0fdf35941b5195@yandex-ag",
+      "date": "2026-12-29",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "6",
+      "sheet": "январь 2027"
+    },
+    {
       "uid": "7850f1c36d2da073@yandex-ag",
       "date": "2026-12-30",
       "person_key": "tanya",
@@ -10832,6 +12959,23 @@
       "is_all_day": true,
       "row": "4",
       "sheet": "декабрь 2026"
+    },
+    {
+      "uid": "7850f1c36d2da073@yandex-ag",
+      "date": "2026-12-30",
+      "person_key": "tanya",
+      "person_name": "Таня",
+      "full_text": "ОТПУСК",
+      "title": "ОТПУСК",
+      "deadline": "",
+      "description": "📋 Детали и ТЗ:\nОТПУСК",
+      "location": "",
+      "urls": [],
+      "start_time": null,
+      "end_time": null,
+      "is_all_day": true,
+      "row": "4",
+      "sheet": "январь 2027"
     }
   ]
 }
